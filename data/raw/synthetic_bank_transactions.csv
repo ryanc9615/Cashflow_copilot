@@ -1,0 +1,3001 @@
+date,description,amount,currency,channel,category
+2025-06-03,OPEN API,-30.97,GBP,card,software
+2025-02-24,FACEBOOK ADS,-120.9,GBP,transfer,marketing
+2025-06-16,APPLE STORE,-155.61,GBP,card,equipment
+2025-02-05,OPEN API,-18.11,GBP,transfer,software
+2025-02-26,GOOGLE ADS,-14.66,GBP,direct_debit,marketing
+2025-02-18,OFFICE RENT LTD,-1676.27,GBP,card,rent
+2025-03-22,RYANAIR FLIGHT,-17.95,GBP,card,travel
+2025-05-11,AMAZON,-44.73,GBP,card,equipment
+2025-01-16,GOOGLE ADS,-64.25,GBP,direct_debit,marketing
+2025-05-22,APPLE STORE,-75.06,GBP,transfer,equipment
+2025-05-16,AWS CLOUD,-57.36,GBP,card,software
+2025-04-24,FACEBOOK ADS,-158.36,GBP,direct_debit,marketing
+2025-04-22,OFFICE RENT LTD,-1288.51,GBP,direct_debit,rent
+2025-05-01,STARBUCKS,-145.89,GBP,direct_debit,meals
+2025-06-28,UBER TRIP,-116.68,GBP,transfer,travel
+2025-01-30,AMAZON,-121.12,GBP,direct_debit,equipment
+2025-01-25,AWS CLOUD,-40.11,GBP,direct_debit,software
+2025-04-01,GOOGLE ADS,-163.78,GBP,transfer,marketing
+2025-05-04,PRET A MANGER,-47.48,GBP,transfer,meals
+2025-01-26,WEWORK RENT,-514.21,GBP,transfer,rent
+2025-04-29,GOOGLE ADS,-20.13,GBP,card,marketing
+2025-02-01,GOOGLE ADS,-57.48,GBP,card,marketing
+2025-05-18,AMAZON,-5.52,GBP,direct_debit,equipment
+2025-03-23,NOTION LABS,-173.21,GBP,transfer,software
+2025-02-06,OFFICE RENT LTD,-707.18,GBP,card,rent
+2025-03-21,GITHUB,-15.89,GBP,card,software
+2025-06-13,PRET A MANGER,-111.49,GBP,transfer,meals
+2025-01-13,RYANAIR FLIGHT,-13.55,GBP,transfer,travel
+2025-05-03,APPLE STORE,-101.48,GBP,direct_debit,equipment
+2025-01-31,GOOGLE ADS,-157.89,GBP,transfer,marketing
+2025-04-03,FACEBOOK ADS,-161.99,GBP,transfer,marketing
+2025-04-13,APPLE STORE,-109.34,GBP,direct_debit,equipment
+2025-06-12,RYANAIR FLIGHT,-139.94,GBP,transfer,travel
+2025-02-23,WEWORK RENT,-936.64,GBP,direct_debit,rent
+2025-05-31,UBER TRIP,-30.78,GBP,transfer,travel
+2025-05-14,APPLE STORE,-134.01,GBP,direct_debit,equipment
+2025-04-18,UBER TRIP,-122.08,GBP,direct_debit,travel
+2025-01-21,STARBUCKS,-147.66,GBP,direct_debit,meals
+2025-03-01,OFFICE RENT LTD,-1690.87,GBP,direct_debit,rent
+2025-02-18,GOOGLE ADS,-31.18,GBP,transfer,marketing
+2025-02-19,RYANAIR FLIGHT,-173.9,GBP,transfer,travel
+2025-06-07,GOOGLE ADS,-177.76,GBP,direct_debit,marketing
+2025-05-25,RYANAIR FLIGHT,-132.19,GBP,card,travel
+2025-05-28,APPLE STORE,-71.85,GBP,direct_debit,equipment
+2025-01-13,APPLE STORE,-120.92,GBP,card,equipment
+2025-02-05,APPLE STORE,-103.7,GBP,direct_debit,equipment
+2025-05-16,RYANAIR FLIGHT,-76.94,GBP,direct_debit,travel
+2025-06-30,OFFICE RENT LTD,-613.51,GBP,direct_debit,rent
+2025-04-16,NOTION LABS,-138.4,GBP,direct_debit,software
+2025-02-03,APPLE STORE,-36.27,GBP,transfer,equipment
+2025-02-02,WEWORK RENT,-975.39,GBP,direct_debit,rent
+2025-02-09,STARBUCKS,-136.16,GBP,transfer,meals
+2025-04-29,WEWORK RENT,-1710.96,GBP,card,rent
+2025-05-03,RYANAIR FLIGHT,-12.31,GBP,card,travel
+2025-03-11,APPLE STORE,-153.29,GBP,transfer,equipment
+2025-01-24,TRAINLINE UK,-169.72,GBP,direct_debit,travel
+2025-05-30,AMAZON,-25.81,GBP,direct_debit,equipment
+2025-03-10,WEWORK RENT,-1306.68,GBP,transfer,rent
+2025-01-26,GOOGLE ADS,-197.92,GBP,direct_debit,marketing
+2025-04-16,TRAINLINE UK,-89.87,GBP,transfer,travel
+2025-04-25,FACEBOOK ADS,-124.46,GBP,direct_debit,marketing
+2025-04-16,PRET A MANGER,-36.99,GBP,card,meals
+2025-04-06,GOOGLE ADS,-20.61,GBP,direct_debit,marketing
+2025-03-18,APPLE STORE,-122.34,GBP,card,equipment
+2025-01-25,TRAINLINE UK,-24.65,GBP,transfer,travel
+2025-04-29,PRET A MANGER,-138.96,GBP,card,meals
+2025-03-17,WEWORK RENT,-1376.92,GBP,transfer,rent
+2025-06-24,GOOGLE ADS,-116.62,GBP,direct_debit,marketing
+2025-05-27,PRET A MANGER,-109.77,GBP,card,meals
+2025-02-02,APPLE STORE,-198.07,GBP,transfer,equipment
+2025-01-30,APPLE STORE,-114.22,GBP,transfer,equipment
+2025-06-14,AMAZON,-42.46,GBP,transfer,equipment
+2025-03-29,GOOGLE ADS,-42.1,GBP,transfer,marketing
+2025-01-12,GOOGLE ADS,-39.55,GBP,card,marketing
+2025-06-19,APPLE STORE,-137.35,GBP,direct_debit,equipment
+2025-01-09,UBER TRIP,-72.7,GBP,card,travel
+2025-03-08,GOOGLE ADS,-168.34,GBP,transfer,marketing
+2025-03-25,AMAZON,-199.04,GBP,card,equipment
+2025-03-29,AWS CLOUD,-66.19,GBP,transfer,software
+2025-01-18,AMAZON,-31.14,GBP,card,equipment
+2025-05-30,FACEBOOK ADS,-195.53,GBP,direct_debit,marketing
+2025-02-17,OFFICE RENT LTD,-644.89,GBP,transfer,rent
+2025-06-15,TRAINLINE UK,-18.86,GBP,direct_debit,travel
+2025-05-09,FACEBOOK ADS,-171.9,GBP,card,marketing
+2025-04-08,APPLE STORE,-136.02,GBP,card,equipment
+2025-04-11,AMAZON,-160.68,GBP,direct_debit,equipment
+2025-04-21,FACEBOOK ADS,-167.57,GBP,direct_debit,marketing
+2025-03-05,TRAINLINE UK,-113.22,GBP,card,travel
+2025-05-18,FACEBOOK ADS,-41.93,GBP,direct_debit,marketing
+2025-05-04,OPEN API,-53.11,GBP,direct_debit,software
+2025-05-01,WEWORK RENT,-703.76,GBP,transfer,rent
+2025-03-14,OFFICE RENT LTD,-1621.89,GBP,card,rent
+2025-01-23,OFFICE RENT LTD,-590.31,GBP,direct_debit,rent
+2025-01-11,APPLE STORE,-117.2,GBP,transfer,equipment
+2025-05-04,APPLE STORE,-79.87,GBP,card,equipment
+2025-05-07,UBER TRIP,-124.17,GBP,card,travel
+2025-06-11,GOOGLE ADS,-83.5,GBP,card,marketing
+2025-03-02,APPLE STORE,-151.23,GBP,transfer,equipment
+2025-03-03,OFFICE RENT LTD,-1265.15,GBP,card,rent
+2025-04-04,PRET A MANGER,-58.51,GBP,direct_debit,meals
+2025-04-08,STARBUCKS,-166.17,GBP,transfer,meals
+2025-01-08,OFFICE RENT LTD,-658.24,GBP,direct_debit,rent
+2025-04-30,GOOGLE ADS,-47.52,GBP,transfer,marketing
+2025-01-21,GITHUB,-162.8,GBP,direct_debit,software
+2025-01-25,STARBUCKS,-27.44,GBP,card,meals
+2025-02-13,WEWORK RENT,-825.13,GBP,direct_debit,rent
+2025-02-02,OFFICE RENT LTD,-1166.32,GBP,transfer,rent
+2025-02-14,GOOGLE ADS,-95.55,GBP,transfer,marketing
+2025-02-08,PRET A MANGER,-53.95,GBP,card,meals
+2025-05-18,AMAZON,-84.76,GBP,transfer,equipment
+2025-05-07,GOOGLE ADS,-190.98,GBP,transfer,marketing
+2025-06-22,WEWORK RENT,-827.87,GBP,direct_debit,rent
+2025-02-27,STARBUCKS,-196.48,GBP,card,meals
+2025-05-14,AWS CLOUD,-28.55,GBP,transfer,software
+2025-02-16,WEWORK RENT,-837.39,GBP,card,rent
+2025-06-10,AMAZON,-180.39,GBP,direct_debit,equipment
+2025-04-09,NOTION LABS,-95.69,GBP,transfer,software
+2025-05-03,PRET A MANGER,-161.01,GBP,transfer,meals
+2025-06-12,RYANAIR FLIGHT,-55.55,GBP,direct_debit,travel
+2025-04-29,PRET A MANGER,-95.92,GBP,card,meals
+2025-02-02,APPLE STORE,-135.51,GBP,card,equipment
+2025-01-02,GITHUB,-34.1,GBP,card,software
+2025-04-06,TRAINLINE UK,-91.48,GBP,direct_debit,travel
+2025-02-12,UBER TRIP,-54.77,GBP,transfer,travel
+2025-01-19,NOTION LABS,-125.29,GBP,direct_debit,software
+2025-06-11,GOOGLE ADS,-94.49,GBP,transfer,marketing
+2025-02-04,PRET A MANGER,-166.28,GBP,transfer,meals
+2025-05-31,NOTION LABS,-185.38,GBP,transfer,software
+2025-05-17,AWS CLOUD,-107.38,GBP,direct_debit,software
+2025-01-03,RYANAIR FLIGHT,-82.88,GBP,direct_debit,travel
+2025-06-21,AMAZON,-64.72,GBP,direct_debit,equipment
+2025-06-08,TRAINLINE UK,-20.72,GBP,card,travel
+2025-06-01,NOTION LABS,-95.55,GBP,direct_debit,software
+2025-01-14,RYANAIR FLIGHT,-114.87,GBP,transfer,travel
+2025-03-04,OPEN API,-156.48,GBP,card,software
+2025-05-18,PRET A MANGER,-9.72,GBP,transfer,meals
+2025-03-18,GITHUB,-163.63,GBP,card,software
+2025-03-08,TRAINLINE UK,-186.84,GBP,transfer,travel
+2025-02-07,TRAINLINE UK,-109.1,GBP,card,travel
+2025-01-17,AMAZON,-172.36,GBP,transfer,equipment
+2025-02-12,AWS CLOUD,-140.47,GBP,transfer,software
+2025-04-20,WEWORK RENT,-1687.81,GBP,card,rent
+2025-04-01,UBER TRIP,-20.1,GBP,direct_debit,travel
+2025-05-15,RYANAIR FLIGHT,-53.57,GBP,card,travel
+2025-02-11,WEWORK RENT,-1154.29,GBP,direct_debit,rent
+2025-03-19,OPEN API,-157.19,GBP,card,software
+2025-01-10,AWS CLOUD,-55.31,GBP,transfer,software
+2025-04-27,PRET A MANGER,-123.78,GBP,transfer,meals
+2025-04-20,PRET A MANGER,-51.3,GBP,transfer,meals
+2025-03-02,WEWORK RENT,-1158.45,GBP,transfer,rent
+2025-05-17,WEWORK RENT,-1579.24,GBP,direct_debit,rent
+2025-04-30,FACEBOOK ADS,-50.8,GBP,direct_debit,marketing
+2025-01-17,PRET A MANGER,-167.9,GBP,card,meals
+2025-04-29,APPLE STORE,-142.82,GBP,card,equipment
+2025-06-22,AMAZON,-186.09,GBP,direct_debit,equipment
+2025-06-15,OPEN API,-180.91,GBP,direct_debit,software
+2025-04-21,PRET A MANGER,-187.78,GBP,direct_debit,meals
+2025-01-11,OFFICE RENT LTD,-1670.56,GBP,card,rent
+2025-01-21,APPLE STORE,-186.98,GBP,transfer,equipment
+2025-04-02,WEWORK RENT,-1598.7,GBP,transfer,rent
+2025-02-26,GOOGLE ADS,-85.09,GBP,transfer,marketing
+2025-01-05,GITHUB,-164.74,GBP,direct_debit,software
+2025-06-17,NOTION LABS,-48.82,GBP,card,software
+2025-01-11,AMAZON,-64.12,GBP,transfer,equipment
+2025-03-27,TRAINLINE UK,-96.34,GBP,transfer,travel
+2025-03-11,OFFICE RENT LTD,-565.34,GBP,transfer,rent
+2025-06-08,NOTION LABS,-101.67,GBP,direct_debit,software
+2025-01-05,TRAINLINE UK,-162.69,GBP,transfer,travel
+2025-05-12,STARBUCKS,-122.4,GBP,transfer,meals
+2025-01-19,FACEBOOK ADS,-196.93,GBP,card,marketing
+2025-01-25,FACEBOOK ADS,-64.84,GBP,direct_debit,marketing
+2025-04-07,RYANAIR FLIGHT,-19.4,GBP,card,travel
+2025-01-12,TRAINLINE UK,-44.78,GBP,transfer,travel
+2025-01-17,GOOGLE ADS,-134.88,GBP,card,marketing
+2025-02-15,STARBUCKS,-173.63,GBP,direct_debit,meals
+2025-05-11,RYANAIR FLIGHT,-164.99,GBP,card,travel
+2025-05-08,RYANAIR FLIGHT,-117.54,GBP,transfer,travel
+2025-01-22,STARBUCKS,-150.64,GBP,card,meals
+2025-01-28,OFFICE RENT LTD,-949.41,GBP,card,rent
+2025-04-27,UBER TRIP,-114.09,GBP,card,travel
+2025-06-06,GOOGLE ADS,-84.91,GBP,card,marketing
+2025-01-26,PRET A MANGER,-142.04,GBP,transfer,meals
+2025-01-31,AMAZON,-67.68,GBP,card,equipment
+2025-05-20,WEWORK RENT,-1880.47,GBP,direct_debit,rent
+2025-04-06,STARBUCKS,-145.21,GBP,direct_debit,meals
+2025-03-01,AWS CLOUD,-40.2,GBP,direct_debit,software
+2025-05-21,OFFICE RENT LTD,-782.95,GBP,transfer,rent
+2025-05-12,TRAINLINE UK,-156.78,GBP,direct_debit,travel
+2025-05-16,STARBUCKS,-194.05,GBP,card,meals
+2025-06-29,AWS CLOUD,-32.83,GBP,transfer,software
+2025-03-10,RYANAIR FLIGHT,-102.35,GBP,transfer,travel
+2025-06-25,AMAZON,-43.32,GBP,card,equipment
+2025-05-04,AWS CLOUD,-152.49,GBP,direct_debit,software
+2025-04-23,AMAZON,-44.3,GBP,transfer,equipment
+2025-06-30,AMAZON,-180.75,GBP,transfer,equipment
+2025-05-04,STARBUCKS,-158.17,GBP,card,meals
+2025-04-13,UBER TRIP,-85.72,GBP,direct_debit,travel
+2025-03-29,OPEN API,-29.27,GBP,direct_debit,software
+2025-01-17,AWS CLOUD,-65.11,GBP,direct_debit,software
+2025-03-24,UBER TRIP,-78.9,GBP,direct_debit,travel
+2025-02-06,UBER TRIP,-156.55,GBP,direct_debit,travel
+2025-01-23,UBER TRIP,-159.04,GBP,card,travel
+2025-03-17,RYANAIR FLIGHT,-188.66,GBP,direct_debit,travel
+2025-01-02,NOTION LABS,-199.77,GBP,direct_debit,software
+2025-03-03,OFFICE RENT LTD,-1863.98,GBP,card,rent
+2025-04-22,FACEBOOK ADS,-65.29,GBP,direct_debit,marketing
+2025-03-06,GOOGLE ADS,-127.59,GBP,transfer,marketing
+2025-02-25,PRET A MANGER,-136.27,GBP,card,meals
+2025-06-15,PRET A MANGER,-174.44,GBP,direct_debit,meals
+2025-03-10,OPEN API,-177.17,GBP,direct_debit,software
+2025-04-14,APPLE STORE,-50.33,GBP,transfer,equipment
+2025-02-16,WEWORK RENT,-1229.43,GBP,card,rent
+2025-01-11,AWS CLOUD,-140.49,GBP,transfer,software
+2025-06-19,APPLE STORE,-131.07,GBP,direct_debit,equipment
+2025-03-25,APPLE STORE,-63.08,GBP,card,equipment
+2025-02-09,OFFICE RENT LTD,-1375.08,GBP,card,rent
+2025-06-14,TRAINLINE UK,-107.43,GBP,direct_debit,travel
+2025-01-04,APPLE STORE,-53.44,GBP,transfer,equipment
+2025-05-27,FACEBOOK ADS,-85.5,GBP,transfer,marketing
+2025-02-24,OFFICE RENT LTD,-955.94,GBP,transfer,rent
+2025-05-31,APPLE STORE,-124.91,GBP,transfer,equipment
+2025-06-21,FACEBOOK ADS,-92.76,GBP,direct_debit,marketing
+2025-04-04,GITHUB,-175.61,GBP,card,software
+2025-04-22,PRET A MANGER,-125.86,GBP,transfer,meals
+2025-03-10,RYANAIR FLIGHT,-91.97,GBP,transfer,travel
+2025-03-31,OPEN API,-39.45,GBP,direct_debit,software
+2025-02-02,AMAZON,-49.64,GBP,direct_debit,equipment
+2025-01-05,WEWORK RENT,-572.11,GBP,transfer,rent
+2025-02-12,STARBUCKS,-22.39,GBP,direct_debit,meals
+2025-06-21,STARBUCKS,-177.37,GBP,direct_debit,meals
+2025-04-18,WEWORK RENT,-1447.77,GBP,transfer,rent
+2025-01-21,OFFICE RENT LTD,-723.97,GBP,card,rent
+2025-06-22,GOOGLE ADS,-28.93,GBP,transfer,marketing
+2025-02-24,WEWORK RENT,-944.65,GBP,card,rent
+2025-03-12,STARBUCKS,-131.26,GBP,card,meals
+2025-06-17,UBER TRIP,-178.41,GBP,transfer,travel
+2025-04-26,GITHUB,-49.97,GBP,transfer,software
+2025-01-02,GITHUB,-197.88,GBP,transfer,software
+2025-01-13,OPEN API,-10.27,GBP,direct_debit,software
+2025-06-09,APPLE STORE,-100.93,GBP,card,equipment
+2025-02-17,AWS CLOUD,-6.92,GBP,card,software
+2025-01-26,WEWORK RENT,-605.55,GBP,card,rent
+2025-02-15,FACEBOOK ADS,-28.71,GBP,card,marketing
+2025-05-22,GOOGLE ADS,-48.04,GBP,direct_debit,marketing
+2025-06-21,RYANAIR FLIGHT,-23.44,GBP,transfer,travel
+2025-04-21,AMAZON,-27.4,GBP,card,equipment
+2025-05-17,RYANAIR FLIGHT,-101.02,GBP,transfer,travel
+2025-01-29,GITHUB,-16.32,GBP,card,software
+2025-05-26,PRET A MANGER,-116.39,GBP,card,meals
+2025-01-01,GOOGLE ADS,-12.88,GBP,card,marketing
+2025-05-22,RYANAIR FLIGHT,-29.11,GBP,direct_debit,travel
+2025-01-23,APPLE STORE,-139.67,GBP,direct_debit,equipment
+2025-01-26,UBER TRIP,-131.26,GBP,direct_debit,travel
+2025-03-21,STARBUCKS,-125.58,GBP,direct_debit,meals
+2025-03-21,APPLE STORE,-177.92,GBP,transfer,equipment
+2025-03-01,UBER TRIP,-55.79,GBP,card,travel
+2025-02-03,STARBUCKS,-99.32,GBP,direct_debit,meals
+2025-02-24,AWS CLOUD,-71.36,GBP,direct_debit,software
+2025-06-08,GITHUB,-67.04,GBP,direct_debit,software
+2025-06-22,WEWORK RENT,-928.32,GBP,card,rent
+2025-02-08,NOTION LABS,-143.47,GBP,transfer,software
+2025-03-13,PRET A MANGER,-168.66,GBP,transfer,meals
+2025-05-21,OPEN API,-29.32,GBP,card,software
+2025-06-12,TRAINLINE UK,-106.17,GBP,card,travel
+2025-04-14,PRET A MANGER,-72.38,GBP,direct_debit,meals
+2025-04-02,GOOGLE ADS,-26.68,GBP,card,marketing
+2025-03-18,APPLE STORE,-90.28,GBP,transfer,equipment
+2025-05-01,PRET A MANGER,-189.99,GBP,transfer,meals
+2025-01-05,AWS CLOUD,-179.25,GBP,card,software
+2025-06-25,AMAZON,-129.37,GBP,direct_debit,equipment
+2025-04-10,OFFICE RENT LTD,-1680.68,GBP,card,rent
+2025-05-23,APPLE STORE,-23.87,GBP,card,equipment
+2025-02-09,PRET A MANGER,-103.0,GBP,transfer,meals
+2025-01-24,FACEBOOK ADS,-194.2,GBP,direct_debit,marketing
+2025-04-27,NOTION LABS,-56.33,GBP,transfer,software
+2025-01-19,AMAZON,-101.4,GBP,transfer,equipment
+2025-01-13,FACEBOOK ADS,-113.62,GBP,direct_debit,marketing
+2025-03-01,NOTION LABS,-191.38,GBP,transfer,software
+2025-05-16,PRET A MANGER,-59.49,GBP,transfer,meals
+2025-02-04,NOTION LABS,-38.01,GBP,direct_debit,software
+2025-03-21,OFFICE RENT LTD,-962.52,GBP,transfer,rent
+2025-02-19,OFFICE RENT LTD,-839.51,GBP,card,rent
+2025-05-23,TRAINLINE UK,-54.48,GBP,transfer,travel
+2025-06-12,NOTION LABS,-111.3,GBP,direct_debit,software
+2025-04-11,GITHUB,-70.14,GBP,card,software
+2025-06-04,GITHUB,-78.29,GBP,card,software
+2025-06-12,AWS CLOUD,-196.08,GBP,card,software
+2025-01-08,APPLE STORE,-150.51,GBP,direct_debit,equipment
+2025-03-17,GOOGLE ADS,-185.05,GBP,direct_debit,marketing
+2025-01-05,WEWORK RENT,-1078.88,GBP,transfer,rent
+2025-02-23,TRAINLINE UK,-85.26,GBP,direct_debit,travel
+2025-02-16,OFFICE RENT LTD,-1960.23,GBP,card,rent
+2025-03-27,OFFICE RENT LTD,-1656.06,GBP,transfer,rent
+2025-04-10,FACEBOOK ADS,-154.68,GBP,direct_debit,marketing
+2025-04-07,AMAZON,-151.41,GBP,transfer,equipment
+2025-02-20,AMAZON,-36.32,GBP,direct_debit,equipment
+2025-02-18,OPEN API,-22.96,GBP,card,software
+2025-03-10,OPEN API,-122.11,GBP,card,software
+2025-01-08,WEWORK RENT,-863.1,GBP,transfer,rent
+2025-03-16,TRAINLINE UK,-199.34,GBP,card,travel
+2025-05-31,AMAZON,-154.72,GBP,card,equipment
+2025-04-18,OFFICE RENT LTD,-1170.96,GBP,direct_debit,rent
+2025-01-01,AWS CLOUD,-46.84,GBP,card,software
+2025-03-13,RYANAIR FLIGHT,-107.52,GBP,transfer,travel
+2025-01-27,WEWORK RENT,-1203.14,GBP,direct_debit,rent
+2025-05-15,STARBUCKS,-36.41,GBP,card,meals
+2025-03-13,GOOGLE ADS,-109.44,GBP,card,marketing
+2025-01-25,STARBUCKS,-174.21,GBP,transfer,meals
+2025-06-04,APPLE STORE,-9.42,GBP,direct_debit,equipment
+2025-01-02,TRAINLINE UK,-29.07,GBP,direct_debit,travel
+2025-05-04,STARBUCKS,-43.01,GBP,card,meals
+2025-03-16,UBER TRIP,-93.56,GBP,direct_debit,travel
+2025-05-04,GITHUB,-147.53,GBP,transfer,software
+2025-05-01,APPLE STORE,-32.24,GBP,card,equipment
+2025-01-15,OFFICE RENT LTD,-1235.69,GBP,transfer,rent
+2025-04-27,GOOGLE ADS,-115.94,GBP,transfer,marketing
+2025-04-09,FACEBOOK ADS,-108.7,GBP,transfer,marketing
+2025-06-04,OPEN API,-76.83,GBP,transfer,software
+2025-06-15,GOOGLE ADS,-90.41,GBP,card,marketing
+2025-03-13,WEWORK RENT,-1962.98,GBP,direct_debit,rent
+2025-03-13,APPLE STORE,-58.11,GBP,transfer,equipment
+2025-04-23,STARBUCKS,-69.95,GBP,direct_debit,meals
+2025-03-14,GOOGLE ADS,-149.61,GBP,transfer,marketing
+2025-06-10,GITHUB,-160.29,GBP,transfer,software
+2025-06-03,STARBUCKS,-179.8,GBP,direct_debit,meals
+2025-06-25,PRET A MANGER,-35.01,GBP,transfer,meals
+2025-03-30,PRET A MANGER,-124.92,GBP,transfer,meals
+2025-06-13,OFFICE RENT LTD,-1748.76,GBP,direct_debit,rent
+2025-04-30,WEWORK RENT,-1289.1,GBP,direct_debit,rent
+2025-02-27,GOOGLE ADS,-74.31,GBP,direct_debit,marketing
+2025-01-11,WEWORK RENT,-1305.75,GBP,direct_debit,rent
+2025-06-15,APPLE STORE,-97.4,GBP,card,equipment
+2025-04-19,AMAZON,-142.1,GBP,transfer,equipment
+2025-02-23,NOTION LABS,-173.41,GBP,transfer,software
+2025-04-06,GOOGLE ADS,-158.31,GBP,transfer,marketing
+2025-03-15,OPEN API,-185.42,GBP,card,software
+2025-05-14,OFFICE RENT LTD,-1263.5,GBP,transfer,rent
+2025-01-29,STARBUCKS,-139.35,GBP,direct_debit,meals
+2025-05-20,AWS CLOUD,-72.18,GBP,card,software
+2025-04-18,GITHUB,-147.76,GBP,card,software
+2025-03-01,FACEBOOK ADS,-28.69,GBP,transfer,marketing
+2025-02-13,PRET A MANGER,-193.81,GBP,transfer,meals
+2025-04-05,OPEN API,-9.79,GBP,transfer,software
+2025-01-13,APPLE STORE,-92.4,GBP,direct_debit,equipment
+2025-05-29,UBER TRIP,-71.03,GBP,transfer,travel
+2025-01-28,STARBUCKS,-115.64,GBP,card,meals
+2025-06-21,AWS CLOUD,-58.58,GBP,transfer,software
+2025-02-16,FACEBOOK ADS,-98.69,GBP,card,marketing
+2025-03-26,UBER TRIP,-91.86,GBP,card,travel
+2025-01-01,FACEBOOK ADS,-31.63,GBP,transfer,marketing
+2025-02-28,OPEN API,-162.61,GBP,transfer,software
+2025-03-12,STARBUCKS,-36.26,GBP,transfer,meals
+2025-03-23,OPEN API,-67.91,GBP,transfer,software
+2025-05-29,STARBUCKS,-168.85,GBP,transfer,meals
+2025-03-15,NOTION LABS,-30.7,GBP,transfer,software
+2025-03-02,GOOGLE ADS,-18.64,GBP,direct_debit,marketing
+2025-05-14,OFFICE RENT LTD,-784.86,GBP,card,rent
+2025-03-17,TRAINLINE UK,-114.4,GBP,direct_debit,travel
+2025-05-26,PRET A MANGER,-158.65,GBP,direct_debit,meals
+2025-02-11,UBER TRIP,-44.17,GBP,direct_debit,travel
+2025-01-28,WEWORK RENT,-553.68,GBP,transfer,rent
+2025-04-19,TRAINLINE UK,-113.44,GBP,transfer,travel
+2025-06-08,RYANAIR FLIGHT,-84.67,GBP,card,travel
+2025-02-22,AMAZON,-56.61,GBP,direct_debit,equipment
+2025-03-03,FACEBOOK ADS,-85.62,GBP,direct_debit,marketing
+2025-06-03,OFFICE RENT LTD,-876.57,GBP,direct_debit,rent
+2025-03-09,NOTION LABS,-170.0,GBP,direct_debit,software
+2025-06-03,FACEBOOK ADS,-40.96,GBP,transfer,marketing
+2025-01-15,AMAZON,-19.98,GBP,card,equipment
+2025-06-10,GITHUB,-32.94,GBP,direct_debit,software
+2025-01-27,WEWORK RENT,-1505.47,GBP,transfer,rent
+2025-04-04,NOTION LABS,-84.59,GBP,direct_debit,software
+2025-02-08,PRET A MANGER,-34.34,GBP,card,meals
+2025-01-18,AMAZON,-188.22,GBP,card,equipment
+2025-06-10,NOTION LABS,-37.63,GBP,direct_debit,software
+2025-02-17,AWS CLOUD,-87.31,GBP,direct_debit,software
+2025-03-26,WEWORK RENT,-1447.7,GBP,direct_debit,rent
+2025-02-12,AWS CLOUD,-82.62,GBP,direct_debit,software
+2025-06-25,GOOGLE ADS,-128.66,GBP,transfer,marketing
+2025-01-05,GOOGLE ADS,-143.84,GBP,direct_debit,marketing
+2025-05-08,OFFICE RENT LTD,-1821.03,GBP,transfer,rent
+2025-06-13,APPLE STORE,-98.0,GBP,direct_debit,equipment
+2025-02-25,UBER TRIP,-97.37,GBP,direct_debit,travel
+2025-04-28,OPEN API,-121.83,GBP,direct_debit,software
+2025-06-07,STARBUCKS,-180.64,GBP,transfer,meals
+2025-06-16,OFFICE RENT LTD,-1807.61,GBP,transfer,rent
+2025-06-05,AMAZON,-25.04,GBP,direct_debit,equipment
+2025-02-10,STARBUCKS,-109.2,GBP,transfer,meals
+2025-04-04,GITHUB,-22.68,GBP,transfer,software
+2025-03-08,GOOGLE ADS,-42.83,GBP,transfer,marketing
+2025-03-14,APPLE STORE,-28.05,GBP,transfer,equipment
+2025-05-26,NOTION LABS,-184.06,GBP,direct_debit,software
+2025-06-24,FACEBOOK ADS,-43.89,GBP,card,marketing
+2025-02-02,OFFICE RENT LTD,-1360.71,GBP,transfer,rent
+2025-05-13,AWS CLOUD,-88.65,GBP,direct_debit,software
+2025-02-11,OPEN API,-165.89,GBP,direct_debit,software
+2025-03-31,STARBUCKS,-194.2,GBP,direct_debit,meals
+2025-04-11,TRAINLINE UK,-121.89,GBP,direct_debit,travel
+2025-04-12,GOOGLE ADS,-149.1,GBP,transfer,marketing
+2025-02-09,GOOGLE ADS,-114.55,GBP,card,marketing
+2025-03-30,FACEBOOK ADS,-84.33,GBP,direct_debit,marketing
+2025-05-27,OPEN API,-48.99,GBP,direct_debit,software
+2025-06-02,WEWORK RENT,-1638.84,GBP,direct_debit,rent
+2025-01-20,APPLE STORE,-88.13,GBP,transfer,equipment
+2025-05-28,OPEN API,-15.53,GBP,card,software
+2025-03-18,AWS CLOUD,-30.86,GBP,transfer,software
+2025-02-21,APPLE STORE,-48.79,GBP,transfer,equipment
+2025-04-21,GOOGLE ADS,-82.79,GBP,direct_debit,marketing
+2025-01-01,AWS CLOUD,-40.56,GBP,transfer,software
+2025-03-14,AMAZON,-162.67,GBP,direct_debit,equipment
+2025-02-07,STARBUCKS,-28.54,GBP,card,meals
+2025-01-18,STARBUCKS,-143.49,GBP,transfer,meals
+2025-01-29,STARBUCKS,-191.12,GBP,transfer,meals
+2025-04-21,PRET A MANGER,-164.87,GBP,direct_debit,meals
+2025-01-12,FACEBOOK ADS,-57.19,GBP,card,marketing
+2025-06-28,OFFICE RENT LTD,-1085.04,GBP,transfer,rent
+2025-02-04,STARBUCKS,-172.14,GBP,direct_debit,meals
+2025-02-23,OFFICE RENT LTD,-1583.58,GBP,transfer,rent
+2025-04-30,FACEBOOK ADS,-149.91,GBP,transfer,marketing
+2025-01-30,WEWORK RENT,-1887.1,GBP,direct_debit,rent
+2025-04-11,PRET A MANGER,-20.31,GBP,card,meals
+2025-01-22,RYANAIR FLIGHT,-165.24,GBP,transfer,travel
+2025-04-11,STARBUCKS,-132.43,GBP,direct_debit,meals
+2025-06-24,STARBUCKS,-138.23,GBP,direct_debit,meals
+2025-03-26,GOOGLE ADS,-21.51,GBP,transfer,marketing
+2025-06-04,GOOGLE ADS,-197.96,GBP,card,marketing
+2025-06-11,FACEBOOK ADS,-111.9,GBP,transfer,marketing
+2025-04-06,STARBUCKS,-31.3,GBP,direct_debit,meals
+2025-05-11,GOOGLE ADS,-161.49,GBP,transfer,marketing
+2025-01-03,STARBUCKS,-98.15,GBP,card,meals
+2025-04-01,GOOGLE ADS,-13.52,GBP,transfer,marketing
+2025-01-27,WEWORK RENT,-750.15,GBP,transfer,rent
+2025-04-06,FACEBOOK ADS,-40.18,GBP,card,marketing
+2025-03-03,OFFICE RENT LTD,-1497.05,GBP,card,rent
+2025-06-12,UBER TRIP,-26.18,GBP,transfer,travel
+2025-06-09,RYANAIR FLIGHT,-162.2,GBP,direct_debit,travel
+2025-05-17,APPLE STORE,-190.0,GBP,transfer,equipment
+2025-06-17,OFFICE RENT LTD,-1061.38,GBP,card,rent
+2025-01-25,STARBUCKS,-181.81,GBP,direct_debit,meals
+2025-06-08,OFFICE RENT LTD,-1773.66,GBP,card,rent
+2025-06-12,OFFICE RENT LTD,-1189.0,GBP,direct_debit,rent
+2025-03-29,GOOGLE ADS,-10.7,GBP,direct_debit,marketing
+2025-03-13,GOOGLE ADS,-158.21,GBP,transfer,marketing
+2025-06-24,GOOGLE ADS,-120.62,GBP,transfer,marketing
+2025-04-22,APPLE STORE,-66.61,GBP,direct_debit,equipment
+2025-01-14,STARBUCKS,-31.6,GBP,transfer,meals
+2025-04-28,OFFICE RENT LTD,-906.06,GBP,transfer,rent
+2025-04-01,TRAINLINE UK,-133.54,GBP,transfer,travel
+2025-01-02,STARBUCKS,-118.88,GBP,card,meals
+2025-01-22,RYANAIR FLIGHT,-86.41,GBP,transfer,travel
+2025-03-12,AMAZON,-134.52,GBP,direct_debit,equipment
+2025-03-04,WEWORK RENT,-1606.04,GBP,direct_debit,rent
+2025-01-11,APPLE STORE,-65.39,GBP,transfer,equipment
+2025-01-09,APPLE STORE,-171.92,GBP,card,equipment
+2025-02-02,APPLE STORE,-78.71,GBP,card,equipment
+2025-05-11,AMAZON,-109.14,GBP,direct_debit,equipment
+2025-03-04,NOTION LABS,-133.52,GBP,card,software
+2025-01-22,OFFICE RENT LTD,-1210.02,GBP,direct_debit,rent
+2025-02-16,AMAZON,-63.1,GBP,transfer,equipment
+2025-06-26,AWS CLOUD,-87.15,GBP,transfer,software
+2025-06-06,GOOGLE ADS,-24.24,GBP,direct_debit,marketing
+2025-06-02,APPLE STORE,-112.65,GBP,transfer,equipment
+2025-04-16,STARBUCKS,-169.0,GBP,transfer,meals
+2025-02-26,NOTION LABS,-143.98,GBP,transfer,software
+2025-02-16,STARBUCKS,-43.08,GBP,direct_debit,meals
+2025-01-13,WEWORK RENT,-824.2,GBP,transfer,rent
+2025-01-22,PRET A MANGER,-79.38,GBP,transfer,meals
+2025-05-06,FACEBOOK ADS,-108.91,GBP,transfer,marketing
+2025-04-16,OPEN API,-33.91,GBP,transfer,software
+2025-05-12,RYANAIR FLIGHT,-149.92,GBP,card,travel
+2025-01-19,FACEBOOK ADS,-41.96,GBP,transfer,marketing
+2025-04-24,TRAINLINE UK,-142.69,GBP,transfer,travel
+2025-02-11,AMAZON,-32.73,GBP,direct_debit,equipment
+2025-03-30,UBER TRIP,-118.38,GBP,card,travel
+2025-06-18,NOTION LABS,-198.27,GBP,card,software
+2025-01-13,OFFICE RENT LTD,-1242.5,GBP,transfer,rent
+2025-01-13,WEWORK RENT,-1652.56,GBP,card,rent
+2025-02-22,OPEN API,-126.28,GBP,card,software
+2025-01-19,WEWORK RENT,-1952.84,GBP,transfer,rent
+2025-06-14,PRET A MANGER,-18.07,GBP,transfer,meals
+2025-05-10,OPEN API,-98.9,GBP,direct_debit,software
+2025-03-24,WEWORK RENT,-772.92,GBP,transfer,rent
+2025-03-04,GITHUB,-46.39,GBP,direct_debit,software
+2025-02-25,UBER TRIP,-106.63,GBP,direct_debit,travel
+2025-03-13,OFFICE RENT LTD,-1411.94,GBP,direct_debit,rent
+2025-02-21,NOTION LABS,-150.28,GBP,card,software
+2025-05-23,TRAINLINE UK,-111.31,GBP,direct_debit,travel
+2025-03-31,NOTION LABS,-39.18,GBP,direct_debit,software
+2025-03-19,TRAINLINE UK,-147.79,GBP,card,travel
+2025-02-07,WEWORK RENT,-985.69,GBP,direct_debit,rent
+2025-05-18,FACEBOOK ADS,-40.8,GBP,transfer,marketing
+2025-01-01,RYANAIR FLIGHT,-22.75,GBP,direct_debit,travel
+2025-05-28,GOOGLE ADS,-112.29,GBP,transfer,marketing
+2025-06-19,NOTION LABS,-192.3,GBP,card,software
+2025-02-14,AMAZON,-36.68,GBP,transfer,equipment
+2025-01-03,STARBUCKS,-191.69,GBP,transfer,meals
+2025-04-22,AMAZON,-162.73,GBP,transfer,equipment
+2025-03-04,AWS CLOUD,-191.6,GBP,direct_debit,software
+2025-02-13,PRET A MANGER,-31.44,GBP,direct_debit,meals
+2025-02-26,RYANAIR FLIGHT,-116.65,GBP,transfer,travel
+2025-06-27,APPLE STORE,-39.34,GBP,transfer,equipment
+2025-06-25,AMAZON,-46.16,GBP,direct_debit,equipment
+2025-01-22,OPEN API,-189.93,GBP,direct_debit,software
+2025-03-18,AMAZON,-49.62,GBP,direct_debit,equipment
+2025-02-15,UBER TRIP,-62.29,GBP,transfer,travel
+2025-01-15,PRET A MANGER,-38.93,GBP,card,meals
+2025-01-18,PRET A MANGER,-100.25,GBP,transfer,meals
+2025-03-04,WEWORK RENT,-1751.15,GBP,direct_debit,rent
+2025-05-09,OPEN API,-168.26,GBP,transfer,software
+2025-05-01,APPLE STORE,-72.17,GBP,card,equipment
+2025-04-14,AWS CLOUD,-80.89,GBP,card,software
+2025-05-23,RYANAIR FLIGHT,-11.11,GBP,card,travel
+2025-04-19,NOTION LABS,-191.06,GBP,card,software
+2025-02-26,TRAINLINE UK,-142.3,GBP,transfer,travel
+2025-03-09,OPEN API,-78.4,GBP,card,software
+2025-05-09,RYANAIR FLIGHT,-39.69,GBP,direct_debit,travel
+2025-05-23,UBER TRIP,-83.15,GBP,card,travel
+2025-03-07,UBER TRIP,-64.39,GBP,card,travel
+2025-02-21,PRET A MANGER,-134.98,GBP,transfer,meals
+2025-03-08,UBER TRIP,-75.71,GBP,transfer,travel
+2025-05-23,APPLE STORE,-19.81,GBP,direct_debit,equipment
+2025-05-14,RYANAIR FLIGHT,-61.05,GBP,card,travel
+2025-06-28,AMAZON,-146.55,GBP,direct_debit,equipment
+2025-01-25,AMAZON,-163.79,GBP,transfer,equipment
+2025-03-24,APPLE STORE,-102.86,GBP,transfer,equipment
+2025-04-28,TRAINLINE UK,-63.09,GBP,transfer,travel
+2025-05-05,RYANAIR FLIGHT,-126.12,GBP,direct_debit,travel
+2025-02-03,AMAZON,-82.2,GBP,direct_debit,equipment
+2025-01-09,WEWORK RENT,-1906.46,GBP,card,rent
+2025-05-13,PRET A MANGER,-113.77,GBP,card,meals
+2025-04-30,GITHUB,-105.24,GBP,card,software
+2025-01-26,STARBUCKS,-118.01,GBP,card,meals
+2025-03-22,OFFICE RENT LTD,-974.67,GBP,transfer,rent
+2025-06-14,AMAZON,-120.82,GBP,direct_debit,equipment
+2025-04-23,OFFICE RENT LTD,-1672.68,GBP,card,rent
+2025-01-08,GOOGLE ADS,-82.53,GBP,direct_debit,marketing
+2025-04-29,FACEBOOK ADS,-172.45,GBP,card,marketing
+2025-05-01,OFFICE RENT LTD,-784.07,GBP,direct_debit,rent
+2025-04-19,FACEBOOK ADS,-29.38,GBP,direct_debit,marketing
+2025-05-22,GITHUB,-183.72,GBP,direct_debit,software
+2025-02-22,WEWORK RENT,-675.47,GBP,card,rent
+2025-06-01,WEWORK RENT,-576.66,GBP,direct_debit,rent
+2025-02-07,PRET A MANGER,-83.36,GBP,card,meals
+2025-05-15,RYANAIR FLIGHT,-151.54,GBP,direct_debit,travel
+2025-02-11,NOTION LABS,-151.38,GBP,transfer,software
+2025-01-23,OPEN API,-89.53,GBP,direct_debit,software
+2025-01-15,OFFICE RENT LTD,-1635.25,GBP,transfer,rent
+2025-04-26,STARBUCKS,-80.85,GBP,direct_debit,meals
+2025-01-17,GOOGLE ADS,-81.14,GBP,card,marketing
+2025-03-18,FACEBOOK ADS,-66.73,GBP,transfer,marketing
+2025-03-14,RYANAIR FLIGHT,-51.04,GBP,direct_debit,travel
+2025-01-16,FACEBOOK ADS,-98.43,GBP,direct_debit,marketing
+2025-05-15,WEWORK RENT,-1019.55,GBP,direct_debit,rent
+2025-04-16,NOTION LABS,-173.74,GBP,transfer,software
+2025-05-08,PRET A MANGER,-38.94,GBP,direct_debit,meals
+2025-02-01,FACEBOOK ADS,-106.35,GBP,direct_debit,marketing
+2025-01-03,PRET A MANGER,-67.85,GBP,transfer,meals
+2025-02-12,WEWORK RENT,-1777.85,GBP,transfer,rent
+2025-02-18,OPEN API,-134.69,GBP,card,software
+2025-05-19,PRET A MANGER,-37.95,GBP,transfer,meals
+2025-06-14,GOOGLE ADS,-177.54,GBP,transfer,marketing
+2025-02-26,UBER TRIP,-109.32,GBP,transfer,travel
+2025-03-23,GOOGLE ADS,-124.65,GBP,transfer,marketing
+2025-01-25,PRET A MANGER,-183.85,GBP,card,meals
+2025-06-15,APPLE STORE,-101.1,GBP,card,equipment
+2025-06-24,OFFICE RENT LTD,-727.5,GBP,direct_debit,rent
+2025-04-08,FACEBOOK ADS,-87.32,GBP,direct_debit,marketing
+2025-04-28,STARBUCKS,-198.42,GBP,card,meals
+2025-03-01,WEWORK RENT,-977.6,GBP,direct_debit,rent
+2025-02-04,GOOGLE ADS,-16.53,GBP,transfer,marketing
+2025-02-28,WEWORK RENT,-963.78,GBP,direct_debit,rent
+2025-04-23,NOTION LABS,-165.36,GBP,direct_debit,software
+2025-06-23,STARBUCKS,-45.21,GBP,card,meals
+2025-02-26,PRET A MANGER,-133.38,GBP,card,meals
+2025-02-26,NOTION LABS,-8.87,GBP,card,software
+2025-03-12,TRAINLINE UK,-187.26,GBP,transfer,travel
+2025-05-12,FACEBOOK ADS,-103.7,GBP,transfer,marketing
+2025-02-02,APPLE STORE,-63.23,GBP,card,equipment
+2025-02-09,RYANAIR FLIGHT,-131.75,GBP,card,travel
+2025-04-11,WEWORK RENT,-1445.77,GBP,card,rent
+2025-03-22,UBER TRIP,-16.03,GBP,direct_debit,travel
+2025-05-14,FACEBOOK ADS,-136.41,GBP,transfer,marketing
+2025-03-21,APPLE STORE,-95.41,GBP,direct_debit,equipment
+2025-05-01,GOOGLE ADS,-136.49,GBP,card,marketing
+2025-04-10,RYANAIR FLIGHT,-181.63,GBP,direct_debit,travel
+2025-06-12,OFFICE RENT LTD,-633.41,GBP,card,rent
+2025-02-23,OFFICE RENT LTD,-1489.79,GBP,transfer,rent
+2025-03-30,WEWORK RENT,-1036.26,GBP,card,rent
+2025-01-22,AMAZON,-97.68,GBP,transfer,equipment
+2025-03-16,APPLE STORE,-163.63,GBP,direct_debit,equipment
+2025-02-06,STARBUCKS,-47.21,GBP,card,meals
+2025-02-10,TRAINLINE UK,-69.79,GBP,card,travel
+2025-03-09,GOOGLE ADS,-175.53,GBP,direct_debit,marketing
+2025-06-23,OFFICE RENT LTD,-1779.66,GBP,card,rent
+2025-06-18,GITHUB,-176.26,GBP,transfer,software
+2025-01-23,APPLE STORE,-34.44,GBP,direct_debit,equipment
+2025-02-07,PRET A MANGER,-170.53,GBP,direct_debit,meals
+2025-05-05,GOOGLE ADS,-58.51,GBP,card,marketing
+2025-03-28,OFFICE RENT LTD,-775.56,GBP,card,rent
+2025-03-03,FACEBOOK ADS,-71.84,GBP,transfer,marketing
+2025-01-27,TRAINLINE UK,-79.78,GBP,card,travel
+2025-01-31,APPLE STORE,-29.31,GBP,direct_debit,equipment
+2025-06-05,FACEBOOK ADS,-20.4,GBP,card,marketing
+2025-05-22,OFFICE RENT LTD,-762.48,GBP,transfer,rent
+2025-04-13,AMAZON,-132.18,GBP,direct_debit,equipment
+2025-05-24,OFFICE RENT LTD,-1239.44,GBP,card,rent
+2025-01-02,AMAZON,-24.09,GBP,direct_debit,equipment
+2025-06-29,AMAZON,-70.3,GBP,transfer,equipment
+2025-02-25,AMAZON,-81.72,GBP,direct_debit,equipment
+2025-05-26,APPLE STORE,-72.95,GBP,card,equipment
+2025-01-29,TRAINLINE UK,-132.63,GBP,transfer,travel
+2025-06-01,WEWORK RENT,-1968.96,GBP,direct_debit,rent
+2025-02-05,WEWORK RENT,-912.81,GBP,transfer,rent
+2025-04-15,AWS CLOUD,-103.48,GBP,direct_debit,software
+2025-06-19,FACEBOOK ADS,-103.54,GBP,card,marketing
+2025-05-03,AWS CLOUD,-48.58,GBP,direct_debit,software
+2025-01-17,APPLE STORE,-47.28,GBP,direct_debit,equipment
+2025-04-01,OPEN API,-125.52,GBP,card,software
+2025-06-03,WEWORK RENT,-1162.46,GBP,transfer,rent
+2025-03-16,STARBUCKS,-169.48,GBP,direct_debit,meals
+2025-03-25,STARBUCKS,-71.6,GBP,transfer,meals
+2025-05-04,WEWORK RENT,-625.1,GBP,card,rent
+2025-06-03,WEWORK RENT,-572.4,GBP,direct_debit,rent
+2025-05-31,PRET A MANGER,-197.96,GBP,transfer,meals
+2025-04-19,PRET A MANGER,-195.68,GBP,direct_debit,meals
+2025-02-07,OFFICE RENT LTD,-1902.7,GBP,direct_debit,rent
+2025-06-08,UBER TRIP,-170.45,GBP,transfer,travel
+2025-05-09,UBER TRIP,-38.66,GBP,card,travel
+2025-03-13,STARBUCKS,-195.85,GBP,card,meals
+2025-03-30,WEWORK RENT,-1012.29,GBP,direct_debit,rent
+2025-04-25,FACEBOOK ADS,-174.68,GBP,direct_debit,marketing
+2025-02-19,APPLE STORE,-9.87,GBP,direct_debit,equipment
+2025-01-15,STARBUCKS,-88.61,GBP,card,meals
+2025-06-03,AMAZON,-160.57,GBP,transfer,equipment
+2025-05-19,STARBUCKS,-5.72,GBP,direct_debit,meals
+2025-05-14,WEWORK RENT,-645.21,GBP,card,rent
+2025-06-30,STARBUCKS,-78.32,GBP,transfer,meals
+2025-03-18,FACEBOOK ADS,-182.65,GBP,transfer,marketing
+2025-05-16,APPLE STORE,-74.39,GBP,direct_debit,equipment
+2025-03-24,UBER TRIP,-177.6,GBP,card,travel
+2025-04-15,WEWORK RENT,-760.24,GBP,card,rent
+2025-02-28,AMAZON,-73.79,GBP,card,equipment
+2025-01-26,GOOGLE ADS,-187.97,GBP,transfer,marketing
+2025-05-16,APPLE STORE,-35.48,GBP,card,equipment
+2025-05-26,UBER TRIP,-65.18,GBP,direct_debit,travel
+2025-06-15,AMAZON,-70.11,GBP,direct_debit,equipment
+2025-05-01,AMAZON,-36.67,GBP,card,equipment
+2025-04-06,FACEBOOK ADS,-54.36,GBP,direct_debit,marketing
+2025-05-27,AWS CLOUD,-49.42,GBP,card,software
+2025-01-07,GOOGLE ADS,-198.32,GBP,transfer,marketing
+2025-03-26,PRET A MANGER,-70.06,GBP,transfer,meals
+2025-06-25,NOTION LABS,-98.51,GBP,direct_debit,software
+2025-03-02,OPEN API,-167.0,GBP,card,software
+2025-04-25,TRAINLINE UK,-70.38,GBP,card,travel
+2025-01-11,STARBUCKS,-46.42,GBP,transfer,meals
+2025-03-27,APPLE STORE,-149.01,GBP,direct_debit,equipment
+2025-04-14,AMAZON,-144.25,GBP,transfer,equipment
+2025-02-03,STARBUCKS,-74.65,GBP,transfer,meals
+2025-01-17,PRET A MANGER,-187.16,GBP,card,meals
+2025-03-11,RYANAIR FLIGHT,-104.37,GBP,card,travel
+2025-06-19,FACEBOOK ADS,-144.35,GBP,card,marketing
+2025-03-18,NOTION LABS,-47.71,GBP,card,software
+2025-06-02,GITHUB,-86.34,GBP,transfer,software
+2025-03-31,FACEBOOK ADS,-51.97,GBP,card,marketing
+2025-05-05,STARBUCKS,-85.21,GBP,direct_debit,meals
+2025-03-08,GITHUB,-23.69,GBP,transfer,software
+2025-04-16,GOOGLE ADS,-145.14,GBP,transfer,marketing
+2025-05-11,TRAINLINE UK,-48.77,GBP,direct_debit,travel
+2025-01-09,OFFICE RENT LTD,-1223.64,GBP,direct_debit,rent
+2025-01-16,WEWORK RENT,-884.78,GBP,transfer,rent
+2025-03-04,RYANAIR FLIGHT,-8.12,GBP,card,travel
+2025-02-05,TRAINLINE UK,-49.97,GBP,direct_debit,travel
+2025-03-15,AMAZON,-117.37,GBP,transfer,equipment
+2025-03-01,GOOGLE ADS,-56.02,GBP,direct_debit,marketing
+2025-06-28,RYANAIR FLIGHT,-195.45,GBP,card,travel
+2025-04-27,APPLE STORE,-187.7,GBP,transfer,equipment
+2025-05-24,AMAZON,-79.37,GBP,direct_debit,equipment
+2025-01-07,PRET A MANGER,-60.04,GBP,transfer,meals
+2025-04-12,GITHUB,-76.67,GBP,transfer,software
+2025-06-02,GOOGLE ADS,-67.02,GBP,card,marketing
+2025-04-03,FACEBOOK ADS,-35.64,GBP,card,marketing
+2025-02-06,AWS CLOUD,-44.87,GBP,card,software
+2025-01-27,GOOGLE ADS,-193.73,GBP,card,marketing
+2025-06-26,TRAINLINE UK,-194.69,GBP,direct_debit,travel
+2025-01-12,FACEBOOK ADS,-19.77,GBP,transfer,marketing
+2025-01-06,WEWORK RENT,-1647.02,GBP,direct_debit,rent
+2025-05-19,APPLE STORE,-70.63,GBP,direct_debit,equipment
+2025-03-25,PRET A MANGER,-197.74,GBP,card,meals
+2025-02-09,AMAZON,-198.55,GBP,transfer,equipment
+2025-06-02,UBER TRIP,-113.88,GBP,direct_debit,travel
+2025-01-31,OFFICE RENT LTD,-1534.49,GBP,direct_debit,rent
+2025-04-09,AMAZON,-197.55,GBP,transfer,equipment
+2025-06-03,APPLE STORE,-96.16,GBP,card,equipment
+2025-06-01,AMAZON,-136.47,GBP,transfer,equipment
+2025-06-10,STARBUCKS,-43.63,GBP,card,meals
+2025-05-02,OPEN API,-157.9,GBP,transfer,software
+2025-01-27,OFFICE RENT LTD,-761.81,GBP,transfer,rent
+2025-06-24,PRET A MANGER,-7.27,GBP,card,meals
+2025-02-15,NOTION LABS,-55.48,GBP,card,software
+2025-01-15,AMAZON,-49.44,GBP,transfer,equipment
+2025-01-27,AMAZON,-169.46,GBP,card,equipment
+2025-01-15,UBER TRIP,-73.84,GBP,direct_debit,travel
+2025-06-05,WEWORK RENT,-1568.07,GBP,direct_debit,rent
+2025-05-20,APPLE STORE,-197.44,GBP,transfer,equipment
+2025-03-01,PRET A MANGER,-186.9,GBP,card,meals
+2025-06-24,APPLE STORE,-96.74,GBP,transfer,equipment
+2025-04-29,FACEBOOK ADS,-23.02,GBP,transfer,marketing
+2025-04-23,AWS CLOUD,-194.25,GBP,transfer,software
+2025-01-25,AMAZON,-136.17,GBP,direct_debit,equipment
+2025-03-29,FACEBOOK ADS,-108.15,GBP,transfer,marketing
+2025-03-28,RYANAIR FLIGHT,-175.53,GBP,transfer,travel
+2025-01-11,WEWORK RENT,-1781.24,GBP,card,rent
+2025-05-19,RYANAIR FLIGHT,-193.88,GBP,card,travel
+2025-01-02,GOOGLE ADS,-77.63,GBP,transfer,marketing
+2025-04-02,RYANAIR FLIGHT,-105.74,GBP,card,travel
+2025-03-12,GOOGLE ADS,-194.75,GBP,transfer,marketing
+2025-06-20,AMAZON,-56.78,GBP,transfer,equipment
+2025-01-08,OFFICE RENT LTD,-726.55,GBP,direct_debit,rent
+2025-03-11,UBER TRIP,-71.04,GBP,direct_debit,travel
+2025-06-04,OFFICE RENT LTD,-725.69,GBP,card,rent
+2025-04-26,TRAINLINE UK,-27.07,GBP,direct_debit,travel
+2025-06-28,UBER TRIP,-37.04,GBP,transfer,travel
+2025-04-11,TRAINLINE UK,-130.59,GBP,direct_debit,travel
+2025-02-22,GOOGLE ADS,-96.73,GBP,transfer,marketing
+2025-01-07,GOOGLE ADS,-160.02,GBP,card,marketing
+2025-03-12,APPLE STORE,-179.31,GBP,transfer,equipment
+2025-04-19,APPLE STORE,-111.48,GBP,direct_debit,equipment
+2025-06-18,STARBUCKS,-29.7,GBP,direct_debit,meals
+2025-06-22,GOOGLE ADS,-154.02,GBP,transfer,marketing
+2025-04-09,GITHUB,-131.28,GBP,transfer,software
+2025-04-17,GITHUB,-60.02,GBP,card,software
+2025-05-18,OFFICE RENT LTD,-1210.83,GBP,card,rent
+2025-06-30,FACEBOOK ADS,-14.74,GBP,card,marketing
+2025-03-04,FACEBOOK ADS,-17.28,GBP,direct_debit,marketing
+2025-05-18,APPLE STORE,-85.19,GBP,direct_debit,equipment
+2025-02-28,OPEN API,-85.88,GBP,card,software
+2025-02-17,AMAZON,-155.58,GBP,direct_debit,equipment
+2025-02-08,AWS CLOUD,-94.47,GBP,card,software
+2025-01-22,PRET A MANGER,-121.3,GBP,card,meals
+2025-03-14,AWS CLOUD,-172.69,GBP,direct_debit,software
+2025-03-16,PRET A MANGER,-97.24,GBP,card,meals
+2025-03-05,GITHUB,-55.48,GBP,transfer,software
+2025-05-03,STARBUCKS,-57.01,GBP,direct_debit,meals
+2025-03-05,FACEBOOK ADS,-168.69,GBP,transfer,marketing
+2025-03-05,AWS CLOUD,-185.96,GBP,transfer,software
+2025-01-26,OPEN API,-119.1,GBP,direct_debit,software
+2025-04-28,APPLE STORE,-152.7,GBP,card,equipment
+2025-01-25,TRAINLINE UK,-158.42,GBP,direct_debit,travel
+2025-04-20,OPEN API,-94.53,GBP,card,software
+2025-01-15,OFFICE RENT LTD,-705.89,GBP,transfer,rent
+2025-06-02,RYANAIR FLIGHT,-57.86,GBP,direct_debit,travel
+2025-01-21,STARBUCKS,-190.62,GBP,card,meals
+2025-04-15,PRET A MANGER,-72.71,GBP,card,meals
+2025-06-26,PRET A MANGER,-116.31,GBP,transfer,meals
+2025-06-23,STARBUCKS,-76.92,GBP,card,meals
+2025-05-02,FACEBOOK ADS,-22.53,GBP,transfer,marketing
+2025-06-23,RYANAIR FLIGHT,-103.37,GBP,card,travel
+2025-04-14,PRET A MANGER,-135.32,GBP,card,meals
+2025-06-20,OFFICE RENT LTD,-1161.11,GBP,direct_debit,rent
+2025-05-26,PRET A MANGER,-183.86,GBP,transfer,meals
+2025-02-28,FACEBOOK ADS,-36.51,GBP,card,marketing
+2025-04-22,WEWORK RENT,-565.99,GBP,direct_debit,rent
+2025-04-09,AMAZON,-165.88,GBP,card,equipment
+2025-05-23,UBER TRIP,-24.61,GBP,transfer,travel
+2025-04-20,OPEN API,-138.78,GBP,direct_debit,software
+2025-04-11,PRET A MANGER,-54.54,GBP,direct_debit,meals
+2025-04-07,OPEN API,-98.61,GBP,direct_debit,software
+2025-04-28,AMAZON,-47.51,GBP,transfer,equipment
+2025-03-23,STARBUCKS,-97.61,GBP,transfer,meals
+2025-06-25,STARBUCKS,-122.24,GBP,direct_debit,meals
+2025-05-04,OFFICE RENT LTD,-1639.45,GBP,card,rent
+2025-04-16,PRET A MANGER,-185.56,GBP,transfer,meals
+2025-06-08,OPEN API,-98.39,GBP,card,software
+2025-06-04,UBER TRIP,-53.54,GBP,direct_debit,travel
+2025-05-19,UBER TRIP,-97.47,GBP,card,travel
+2025-06-18,RYANAIR FLIGHT,-51.15,GBP,transfer,travel
+2025-04-15,FACEBOOK ADS,-111.34,GBP,transfer,marketing
+2025-01-03,OFFICE RENT LTD,-1482.73,GBP,direct_debit,rent
+2025-02-09,FACEBOOK ADS,-179.88,GBP,card,marketing
+2025-02-23,PRET A MANGER,-188.0,GBP,direct_debit,meals
+2025-05-13,GITHUB,-29.32,GBP,card,software
+2025-04-08,WEWORK RENT,-1712.87,GBP,direct_debit,rent
+2025-06-30,APPLE STORE,-186.95,GBP,transfer,equipment
+2025-06-01,NOTION LABS,-123.96,GBP,card,software
+2025-03-17,OFFICE RENT LTD,-1649.75,GBP,transfer,rent
+2025-01-13,APPLE STORE,-18.11,GBP,card,equipment
+2025-02-08,FACEBOOK ADS,-141.02,GBP,transfer,marketing
+2025-01-18,APPLE STORE,-160.43,GBP,card,equipment
+2025-04-16,FACEBOOK ADS,-30.18,GBP,card,marketing
+2025-05-18,UBER TRIP,-195.52,GBP,card,travel
+2025-01-23,AMAZON,-16.31,GBP,transfer,equipment
+2025-03-20,OPEN API,-53.98,GBP,transfer,software
+2025-04-15,WEWORK RENT,-1466.54,GBP,card,rent
+2025-01-11,APPLE STORE,-34.15,GBP,transfer,equipment
+2025-06-08,FACEBOOK ADS,-165.92,GBP,transfer,marketing
+2025-02-21,FACEBOOK ADS,-88.29,GBP,transfer,marketing
+2025-06-28,WEWORK RENT,-1341.02,GBP,card,rent
+2025-05-15,OPEN API,-39.59,GBP,card,software
+2025-05-27,GITHUB,-61.16,GBP,direct_debit,software
+2025-05-06,APPLE STORE,-25.78,GBP,transfer,equipment
+2025-04-17,RYANAIR FLIGHT,-67.73,GBP,direct_debit,travel
+2025-04-27,RYANAIR FLIGHT,-174.91,GBP,transfer,travel
+2025-01-16,OFFICE RENT LTD,-1222.58,GBP,direct_debit,rent
+2025-05-31,OFFICE RENT LTD,-1465.63,GBP,card,rent
+2025-02-19,OPEN API,-44.51,GBP,transfer,software
+2025-03-31,AMAZON,-59.21,GBP,transfer,equipment
+2025-03-06,TRAINLINE UK,-135.43,GBP,direct_debit,travel
+2025-05-09,PRET A MANGER,-139.31,GBP,card,meals
+2025-04-24,FACEBOOK ADS,-155.39,GBP,card,marketing
+2025-05-11,UBER TRIP,-170.58,GBP,direct_debit,travel
+2025-03-25,OFFICE RENT LTD,-1538.69,GBP,transfer,rent
+2025-05-22,GOOGLE ADS,-30.11,GBP,transfer,marketing
+2025-03-25,WEWORK RENT,-1265.28,GBP,transfer,rent
+2025-06-27,GOOGLE ADS,-142.65,GBP,transfer,marketing
+2025-02-03,GOOGLE ADS,-86.61,GBP,transfer,marketing
+2025-04-26,OPEN API,-121.35,GBP,transfer,software
+2025-06-13,GOOGLE ADS,-40.6,GBP,direct_debit,marketing
+2025-05-29,NOTION LABS,-189.19,GBP,transfer,software
+2025-01-21,NOTION LABS,-50.1,GBP,card,software
+2025-06-19,AMAZON,-39.61,GBP,direct_debit,equipment
+2025-04-18,APPLE STORE,-48.45,GBP,card,equipment
+2025-05-15,AWS CLOUD,-73.99,GBP,card,software
+2025-02-18,AMAZON,-38.95,GBP,transfer,equipment
+2025-02-28,WEWORK RENT,-1180.43,GBP,transfer,rent
+2025-06-15,UBER TRIP,-50.1,GBP,card,travel
+2025-01-01,NOTION LABS,-55.86,GBP,transfer,software
+2025-01-04,AMAZON,-48.87,GBP,transfer,equipment
+2025-01-05,OPEN API,-103.38,GBP,card,software
+2025-01-21,TRAINLINE UK,-83.48,GBP,direct_debit,travel
+2025-06-26,TRAINLINE UK,-128.82,GBP,transfer,travel
+2025-05-31,FACEBOOK ADS,-17.33,GBP,card,marketing
+2025-01-09,AMAZON,-105.13,GBP,card,equipment
+2025-02-27,WEWORK RENT,-1351.21,GBP,card,rent
+2025-04-04,RYANAIR FLIGHT,-83.67,GBP,transfer,travel
+2025-03-03,OFFICE RENT LTD,-1866.66,GBP,direct_debit,rent
+2025-01-23,UBER TRIP,-131.17,GBP,card,travel
+2025-01-17,APPLE STORE,-183.32,GBP,direct_debit,equipment
+2025-03-29,WEWORK RENT,-590.5,GBP,card,rent
+2025-04-02,APPLE STORE,-78.22,GBP,card,equipment
+2025-03-07,GOOGLE ADS,-91.39,GBP,direct_debit,marketing
+2025-06-13,AMAZON,-178.65,GBP,direct_debit,equipment
+2025-05-13,WEWORK RENT,-1670.75,GBP,transfer,rent
+2025-01-07,AWS CLOUD,-160.56,GBP,transfer,software
+2025-03-24,OFFICE RENT LTD,-912.48,GBP,card,rent
+2025-02-24,APPLE STORE,-22.94,GBP,transfer,equipment
+2025-02-28,NOTION LABS,-116.61,GBP,card,software
+2025-06-29,FACEBOOK ADS,-18.17,GBP,direct_debit,marketing
+2025-06-04,WEWORK RENT,-1078.51,GBP,transfer,rent
+2025-01-23,GOOGLE ADS,-179.4,GBP,card,marketing
+2025-03-01,WEWORK RENT,-868.75,GBP,card,rent
+2025-02-28,STARBUCKS,-109.91,GBP,transfer,meals
+2025-05-29,TRAINLINE UK,-83.83,GBP,direct_debit,travel
+2025-04-30,PRET A MANGER,-21.68,GBP,direct_debit,meals
+2025-01-07,GITHUB,-161.18,GBP,direct_debit,software
+2025-04-05,OFFICE RENT LTD,-1538.21,GBP,card,rent
+2025-04-21,WEWORK RENT,-1183.98,GBP,transfer,rent
+2025-06-18,AMAZON,-76.03,GBP,direct_debit,equipment
+2025-06-25,FACEBOOK ADS,-98.0,GBP,direct_debit,marketing
+2025-03-24,WEWORK RENT,-1605.97,GBP,transfer,rent
+2025-05-27,GITHUB,-190.92,GBP,direct_debit,software
+2025-05-02,NOTION LABS,-186.95,GBP,transfer,software
+2025-01-09,AWS CLOUD,-108.08,GBP,card,software
+2025-03-14,STARBUCKS,-144.88,GBP,transfer,meals
+2025-03-23,FACEBOOK ADS,-82.57,GBP,card,marketing
+2025-02-06,WEWORK RENT,-772.66,GBP,transfer,rent
+2025-02-26,GOOGLE ADS,-191.07,GBP,transfer,marketing
+2025-04-19,APPLE STORE,-75.94,GBP,transfer,equipment
+2025-01-19,STARBUCKS,-42.51,GBP,direct_debit,meals
+2025-03-10,UBER TRIP,-159.72,GBP,card,travel
+2025-03-16,OFFICE RENT LTD,-1179.4,GBP,card,rent
+2025-03-31,RYANAIR FLIGHT,-100.15,GBP,card,travel
+2025-02-28,OPEN API,-17.58,GBP,transfer,software
+2025-01-16,APPLE STORE,-134.98,GBP,direct_debit,equipment
+2025-04-29,PRET A MANGER,-98.47,GBP,direct_debit,meals
+2025-04-14,RYANAIR FLIGHT,-195.87,GBP,card,travel
+2025-03-04,UBER TRIP,-51.97,GBP,direct_debit,travel
+2025-02-04,GOOGLE ADS,-15.48,GBP,direct_debit,marketing
+2025-02-22,RYANAIR FLIGHT,-95.46,GBP,direct_debit,travel
+2025-03-05,RYANAIR FLIGHT,-41.63,GBP,transfer,travel
+2025-02-23,NOTION LABS,-137.93,GBP,direct_debit,software
+2025-01-04,GOOGLE ADS,-112.31,GBP,direct_debit,marketing
+2025-01-26,GOOGLE ADS,-28.18,GBP,transfer,marketing
+2025-05-05,WEWORK RENT,-1084.46,GBP,direct_debit,rent
+2025-02-19,GOOGLE ADS,-120.78,GBP,card,marketing
+2025-02-02,UBER TRIP,-37.96,GBP,direct_debit,travel
+2025-03-21,TRAINLINE UK,-33.74,GBP,transfer,travel
+2025-05-14,APPLE STORE,-56.05,GBP,card,equipment
+2025-06-22,WEWORK RENT,-563.68,GBP,direct_debit,rent
+2025-01-15,RYANAIR FLIGHT,-53.11,GBP,transfer,travel
+2025-05-29,PRET A MANGER,-53.47,GBP,transfer,meals
+2025-02-25,STARBUCKS,-11.56,GBP,direct_debit,meals
+2025-06-05,NOTION LABS,-180.65,GBP,transfer,software
+2025-03-25,AWS CLOUD,-150.64,GBP,direct_debit,software
+2025-04-24,STARBUCKS,-176.84,GBP,card,meals
+2025-03-03,STARBUCKS,-82.47,GBP,transfer,meals
+2025-06-27,GITHUB,-63.77,GBP,card,software
+2025-06-30,FACEBOOK ADS,-169.46,GBP,direct_debit,marketing
+2025-04-17,STARBUCKS,-84.35,GBP,direct_debit,meals
+2025-03-04,OPEN API,-13.31,GBP,transfer,software
+2025-06-07,OFFICE RENT LTD,-1299.25,GBP,card,rent
+2025-06-27,APPLE STORE,-142.65,GBP,direct_debit,equipment
+2025-03-28,APPLE STORE,-6.86,GBP,card,equipment
+2025-03-31,STARBUCKS,-123.56,GBP,transfer,meals
+2025-02-28,GOOGLE ADS,-10.95,GBP,direct_debit,marketing
+2025-04-30,GOOGLE ADS,-70.65,GBP,card,marketing
+2025-04-11,AMAZON,-106.83,GBP,direct_debit,equipment
+2025-04-20,FACEBOOK ADS,-192.15,GBP,card,marketing
+2025-03-21,GITHUB,-51.9,GBP,transfer,software
+2025-04-15,GOOGLE ADS,-148.52,GBP,direct_debit,marketing
+2025-02-10,TRAINLINE UK,-86.79,GBP,card,travel
+2025-04-07,RYANAIR FLIGHT,-51.01,GBP,transfer,travel
+2025-05-07,OFFICE RENT LTD,-1475.72,GBP,direct_debit,rent
+2025-01-26,FACEBOOK ADS,-102.75,GBP,direct_debit,marketing
+2025-06-27,UBER TRIP,-34.27,GBP,card,travel
+2025-06-12,PRET A MANGER,-60.56,GBP,direct_debit,meals
+2025-01-07,TRAINLINE UK,-10.31,GBP,transfer,travel
+2025-05-20,WEWORK RENT,-863.97,GBP,transfer,rent
+2025-03-08,PRET A MANGER,-83.7,GBP,card,meals
+2025-02-05,GITHUB,-188.15,GBP,card,software
+2025-05-09,AMAZON,-127.09,GBP,transfer,equipment
+2025-04-26,WEWORK RENT,-1456.79,GBP,card,rent
+2025-05-12,WEWORK RENT,-521.26,GBP,card,rent
+2025-04-11,UBER TRIP,-117.64,GBP,direct_debit,travel
+2025-05-28,TRAINLINE UK,-136.0,GBP,transfer,travel
+2025-05-26,FACEBOOK ADS,-42.53,GBP,transfer,marketing
+2025-03-23,STARBUCKS,-95.81,GBP,direct_debit,meals
+2025-04-21,OPEN API,-57.25,GBP,direct_debit,software
+2025-04-23,PRET A MANGER,-79.64,GBP,direct_debit,meals
+2025-03-12,RYANAIR FLIGHT,-17.9,GBP,direct_debit,travel
+2025-02-26,OFFICE RENT LTD,-923.09,GBP,transfer,rent
+2025-01-07,NOTION LABS,-136.38,GBP,direct_debit,software
+2025-06-21,STARBUCKS,-68.67,GBP,card,meals
+2025-01-22,OFFICE RENT LTD,-724.81,GBP,card,rent
+2025-02-04,WEWORK RENT,-1877.96,GBP,transfer,rent
+2025-01-09,TRAINLINE UK,-79.35,GBP,transfer,travel
+2025-04-15,AMAZON,-71.09,GBP,transfer,equipment
+2025-02-17,OFFICE RENT LTD,-1149.93,GBP,transfer,rent
+2025-01-24,OFFICE RENT LTD,-644.0,GBP,direct_debit,rent
+2025-01-02,FACEBOOK ADS,-101.99,GBP,card,marketing
+2025-03-01,AMAZON,-167.62,GBP,card,equipment
+2025-04-13,STARBUCKS,-169.26,GBP,direct_debit,meals
+2025-03-03,FACEBOOK ADS,-178.85,GBP,direct_debit,marketing
+2025-04-29,PRET A MANGER,-6.87,GBP,direct_debit,meals
+2025-03-09,TRAINLINE UK,-68.17,GBP,transfer,travel
+2025-02-07,PRET A MANGER,-54.4,GBP,transfer,meals
+2025-06-04,GOOGLE ADS,-157.19,GBP,transfer,marketing
+2025-04-18,GOOGLE ADS,-155.8,GBP,direct_debit,marketing
+2025-02-05,FACEBOOK ADS,-76.43,GBP,transfer,marketing
+2025-05-12,NOTION LABS,-179.96,GBP,direct_debit,software
+2025-03-12,AWS CLOUD,-189.34,GBP,direct_debit,software
+2025-04-11,AMAZON,-41.26,GBP,transfer,equipment
+2025-04-14,PRET A MANGER,-20.35,GBP,transfer,meals
+2025-05-14,OPEN API,-83.95,GBP,card,software
+2025-01-10,OPEN API,-42.12,GBP,transfer,software
+2025-04-18,GOOGLE ADS,-198.13,GBP,card,marketing
+2025-06-10,OPEN API,-113.13,GBP,direct_debit,software
+2025-04-04,UBER TRIP,-172.6,GBP,direct_debit,travel
+2025-05-03,PRET A MANGER,-26.27,GBP,card,meals
+2025-04-25,STARBUCKS,-107.95,GBP,card,meals
+2025-06-28,STARBUCKS,-21.24,GBP,direct_debit,meals
+2025-05-22,APPLE STORE,-38.74,GBP,transfer,equipment
+2025-01-18,RYANAIR FLIGHT,-163.07,GBP,card,travel
+2025-02-06,OFFICE RENT LTD,-994.0,GBP,direct_debit,rent
+2025-06-08,AWS CLOUD,-125.62,GBP,transfer,software
+2025-02-14,NOTION LABS,-44.53,GBP,transfer,software
+2025-03-24,AMAZON,-48.58,GBP,card,equipment
+2025-03-20,AWS CLOUD,-153.54,GBP,direct_debit,software
+2025-05-07,TRAINLINE UK,-75.95,GBP,transfer,travel
+2025-01-05,AMAZON,-87.44,GBP,transfer,equipment
+2025-04-18,OFFICE RENT LTD,-1090.54,GBP,card,rent
+2025-06-22,TRAINLINE UK,-30.18,GBP,transfer,travel
+2025-04-27,UBER TRIP,-156.96,GBP,card,travel
+2025-05-02,STARBUCKS,-169.25,GBP,card,meals
+2025-01-09,WEWORK RENT,-966.0,GBP,direct_debit,rent
+2025-06-27,PRET A MANGER,-138.07,GBP,transfer,meals
+2025-06-14,OFFICE RENT LTD,-1874.55,GBP,direct_debit,rent
+2025-05-10,APPLE STORE,-34.73,GBP,card,equipment
+2025-04-28,OFFICE RENT LTD,-1746.84,GBP,transfer,rent
+2025-03-25,GOOGLE ADS,-138.69,GBP,direct_debit,marketing
+2025-02-23,FACEBOOK ADS,-131.04,GBP,transfer,marketing
+2025-03-18,UBER TRIP,-72.53,GBP,direct_debit,travel
+2025-06-05,FACEBOOK ADS,-131.98,GBP,direct_debit,marketing
+2025-03-05,STARBUCKS,-9.75,GBP,direct_debit,meals
+2025-04-20,FACEBOOK ADS,-163.33,GBP,card,marketing
+2025-05-07,FACEBOOK ADS,-189.64,GBP,direct_debit,marketing
+2025-06-09,WEWORK RENT,-1894.05,GBP,transfer,rent
+2025-02-28,AMAZON,-46.38,GBP,transfer,equipment
+2025-03-16,GOOGLE ADS,-163.86,GBP,direct_debit,marketing
+2025-03-18,GITHUB,-28.4,GBP,transfer,software
+2025-06-14,AMAZON,-199.85,GBP,direct_debit,equipment
+2025-01-13,STARBUCKS,-121.65,GBP,transfer,meals
+2025-03-20,STARBUCKS,-18.0,GBP,card,meals
+2025-04-10,WEWORK RENT,-760.66,GBP,card,rent
+2025-02-02,STARBUCKS,-135.28,GBP,direct_debit,meals
+2025-06-13,APPLE STORE,-105.25,GBP,direct_debit,equipment
+2025-06-11,APPLE STORE,-163.46,GBP,transfer,equipment
+2025-01-03,PRET A MANGER,-37.32,GBP,direct_debit,meals
+2025-03-30,APPLE STORE,-154.04,GBP,transfer,equipment
+2025-04-28,APPLE STORE,-62.0,GBP,transfer,equipment
+2025-04-13,STARBUCKS,-128.62,GBP,transfer,meals
+2025-06-23,WEWORK RENT,-1468.0,GBP,direct_debit,rent
+2025-06-30,WEWORK RENT,-1532.88,GBP,card,rent
+2025-04-23,OFFICE RENT LTD,-799.12,GBP,card,rent
+2025-05-23,PRET A MANGER,-186.5,GBP,transfer,meals
+2025-01-18,UBER TRIP,-122.81,GBP,card,travel
+2025-03-19,UBER TRIP,-41.45,GBP,direct_debit,travel
+2025-04-11,OPEN API,-94.42,GBP,transfer,software
+2025-03-15,UBER TRIP,-176.07,GBP,transfer,travel
+2025-03-02,FACEBOOK ADS,-81.81,GBP,direct_debit,marketing
+2025-05-26,FACEBOOK ADS,-58.47,GBP,card,marketing
+2025-05-20,GITHUB,-22.67,GBP,direct_debit,software
+2025-03-17,APPLE STORE,-12.71,GBP,direct_debit,equipment
+2025-04-10,WEWORK RENT,-920.0,GBP,transfer,rent
+2025-02-10,APPLE STORE,-137.57,GBP,card,equipment
+2025-02-02,TRAINLINE UK,-187.28,GBP,transfer,travel
+2025-04-19,FACEBOOK ADS,-58.28,GBP,direct_debit,marketing
+2025-04-16,OFFICE RENT LTD,-573.3,GBP,card,rent
+2025-01-03,APPLE STORE,-99.68,GBP,card,equipment
+2025-01-31,GOOGLE ADS,-59.04,GBP,transfer,marketing
+2025-06-28,APPLE STORE,-21.13,GBP,direct_debit,equipment
+2025-01-27,AWS CLOUD,-35.82,GBP,card,software
+2025-01-07,AMAZON,-27.35,GBP,transfer,equipment
+2025-05-11,FACEBOOK ADS,-150.59,GBP,direct_debit,marketing
+2025-02-16,APPLE STORE,-157.07,GBP,direct_debit,equipment
+2025-06-22,PRET A MANGER,-177.94,GBP,card,meals
+2025-06-25,UBER TRIP,-60.56,GBP,card,travel
+2025-06-02,AMAZON,-137.98,GBP,direct_debit,equipment
+2025-05-23,FACEBOOK ADS,-135.33,GBP,direct_debit,marketing
+2025-04-12,UBER TRIP,-177.96,GBP,direct_debit,travel
+2025-04-05,UBER TRIP,-46.68,GBP,card,travel
+2025-05-16,WEWORK RENT,-1775.92,GBP,card,rent
+2025-06-09,NOTION LABS,-43.02,GBP,transfer,software
+2025-01-04,APPLE STORE,-79.92,GBP,direct_debit,equipment
+2025-02-12,GOOGLE ADS,-13.64,GBP,transfer,marketing
+2025-01-20,AMAZON,-85.21,GBP,direct_debit,equipment
+2025-04-15,UBER TRIP,-44.26,GBP,card,travel
+2025-06-20,AMAZON,-28.59,GBP,transfer,equipment
+2025-04-30,AMAZON,-100.3,GBP,direct_debit,equipment
+2025-03-13,APPLE STORE,-136.08,GBP,direct_debit,equipment
+2025-02-11,TRAINLINE UK,-97.95,GBP,card,travel
+2025-06-25,WEWORK RENT,-657.39,GBP,transfer,rent
+2025-03-30,AWS CLOUD,-116.64,GBP,direct_debit,software
+2025-06-13,RYANAIR FLIGHT,-77.27,GBP,card,travel
+2025-03-19,WEWORK RENT,-1825.53,GBP,transfer,rent
+2025-05-11,GOOGLE ADS,-153.64,GBP,transfer,marketing
+2025-03-08,TRAINLINE UK,-53.01,GBP,transfer,travel
+2025-04-21,RYANAIR FLIGHT,-16.73,GBP,transfer,travel
+2025-05-18,TRAINLINE UK,-164.82,GBP,direct_debit,travel
+2025-06-20,PRET A MANGER,-17.77,GBP,card,meals
+2025-03-04,PRET A MANGER,-177.19,GBP,transfer,meals
+2025-06-05,STARBUCKS,-116.17,GBP,direct_debit,meals
+2025-02-18,PRET A MANGER,-156.0,GBP,card,meals
+2025-06-17,OPEN API,-181.82,GBP,card,software
+2025-05-22,GITHUB,-21.11,GBP,direct_debit,software
+2025-03-14,AWS CLOUD,-70.74,GBP,direct_debit,software
+2025-06-02,OFFICE RENT LTD,-1965.76,GBP,direct_debit,rent
+2025-04-22,TRAINLINE UK,-147.98,GBP,direct_debit,travel
+2025-01-09,PRET A MANGER,-174.51,GBP,card,meals
+2025-03-30,UBER TRIP,-161.83,GBP,transfer,travel
+2025-01-04,UBER TRIP,-41.2,GBP,transfer,travel
+2025-01-08,STARBUCKS,-75.34,GBP,direct_debit,meals
+2025-04-12,FACEBOOK ADS,-197.52,GBP,card,marketing
+2025-04-12,UBER TRIP,-162.26,GBP,direct_debit,travel
+2025-01-30,FACEBOOK ADS,-154.69,GBP,card,marketing
+2025-01-19,STARBUCKS,-199.5,GBP,direct_debit,meals
+2025-05-25,RYANAIR FLIGHT,-94.46,GBP,transfer,travel
+2025-05-06,RYANAIR FLIGHT,-172.24,GBP,card,travel
+2025-04-24,STARBUCKS,-6.95,GBP,card,meals
+2025-02-21,RYANAIR FLIGHT,-137.36,GBP,direct_debit,travel
+2025-06-10,STARBUCKS,-23.63,GBP,direct_debit,meals
+2025-03-22,FACEBOOK ADS,-119.16,GBP,card,marketing
+2025-06-01,STARBUCKS,-187.53,GBP,direct_debit,meals
+2025-04-28,FACEBOOK ADS,-174.32,GBP,direct_debit,marketing
+2025-05-12,WEWORK RENT,-1096.76,GBP,transfer,rent
+2025-03-16,PRET A MANGER,-48.28,GBP,direct_debit,meals
+2025-03-14,RYANAIR FLIGHT,-158.2,GBP,transfer,travel
+2025-02-11,NOTION LABS,-108.12,GBP,transfer,software
+2025-05-13,FACEBOOK ADS,-81.09,GBP,card,marketing
+2025-06-10,FACEBOOK ADS,-122.06,GBP,card,marketing
+2025-05-17,OFFICE RENT LTD,-1582.43,GBP,transfer,rent
+2025-06-15,PRET A MANGER,-174.14,GBP,card,meals
+2025-05-30,NOTION LABS,-160.97,GBP,card,software
+2025-02-18,GITHUB,-177.37,GBP,direct_debit,software
+2025-06-30,AMAZON,-160.22,GBP,direct_debit,equipment
+2025-02-02,NOTION LABS,-122.86,GBP,direct_debit,software
+2025-02-24,UBER TRIP,-146.69,GBP,transfer,travel
+2025-05-04,FACEBOOK ADS,-53.66,GBP,card,marketing
+2025-06-27,WEWORK RENT,-685.58,GBP,card,rent
+2025-02-02,AMAZON,-26.81,GBP,direct_debit,equipment
+2025-04-11,AWS CLOUD,-137.29,GBP,transfer,software
+2025-06-02,FACEBOOK ADS,-186.42,GBP,transfer,marketing
+2025-01-15,RYANAIR FLIGHT,-73.48,GBP,transfer,travel
+2025-01-11,OPEN API,-181.08,GBP,card,software
+2025-05-08,UBER TRIP,-67.23,GBP,transfer,travel
+2025-04-14,STARBUCKS,-79.81,GBP,direct_debit,meals
+2025-05-26,FACEBOOK ADS,-126.68,GBP,card,marketing
+2025-05-10,RYANAIR FLIGHT,-33.06,GBP,transfer,travel
+2025-02-04,APPLE STORE,-52.95,GBP,transfer,equipment
+2025-02-22,APPLE STORE,-47.36,GBP,card,equipment
+2025-05-25,GITHUB,-100.8,GBP,direct_debit,software
+2025-06-30,STARBUCKS,-66.02,GBP,direct_debit,meals
+2025-04-26,UBER TRIP,-102.3,GBP,transfer,travel
+2025-02-12,UBER TRIP,-105.43,GBP,card,travel
+2025-04-01,AMAZON,-119.54,GBP,transfer,equipment
+2025-01-11,FACEBOOK ADS,-52.76,GBP,direct_debit,marketing
+2025-03-25,OFFICE RENT LTD,-850.75,GBP,transfer,rent
+2025-04-02,PRET A MANGER,-60.44,GBP,card,meals
+2025-02-08,GOOGLE ADS,-27.16,GBP,card,marketing
+2025-01-05,APPLE STORE,-156.37,GBP,card,equipment
+2025-05-04,RYANAIR FLIGHT,-54.65,GBP,direct_debit,travel
+2025-03-03,OFFICE RENT LTD,-1539.0,GBP,transfer,rent
+2025-06-07,TRAINLINE UK,-140.43,GBP,card,travel
+2025-04-25,APPLE STORE,-44.01,GBP,direct_debit,equipment
+2025-05-03,GOOGLE ADS,-35.89,GBP,transfer,marketing
+2025-04-19,AWS CLOUD,-22.67,GBP,transfer,software
+2025-02-07,APPLE STORE,-74.24,GBP,transfer,equipment
+2025-03-26,UBER TRIP,-7.4,GBP,direct_debit,travel
+2025-03-29,STARBUCKS,-149.71,GBP,direct_debit,meals
+2025-04-17,TRAINLINE UK,-13.69,GBP,direct_debit,travel
+2025-01-03,GITHUB,-178.11,GBP,card,software
+2025-03-06,RYANAIR FLIGHT,-38.75,GBP,transfer,travel
+2025-02-13,OFFICE RENT LTD,-865.2,GBP,transfer,rent
+2025-04-06,OFFICE RENT LTD,-778.62,GBP,card,rent
+2025-04-18,GOOGLE ADS,-19.08,GBP,card,marketing
+2025-02-05,OFFICE RENT LTD,-691.53,GBP,transfer,rent
+2025-04-01,GOOGLE ADS,-168.06,GBP,direct_debit,marketing
+2025-04-06,APPLE STORE,-182.07,GBP,direct_debit,equipment
+2025-05-01,AWS CLOUD,-46.19,GBP,card,software
+2025-05-20,NOTION LABS,-79.34,GBP,direct_debit,software
+2025-04-16,RYANAIR FLIGHT,-131.81,GBP,card,travel
+2025-01-07,PRET A MANGER,-145.97,GBP,direct_debit,meals
+2025-03-01,OFFICE RENT LTD,-1078.18,GBP,direct_debit,rent
+2025-06-02,PRET A MANGER,-114.04,GBP,transfer,meals
+2025-04-18,TRAINLINE UK,-9.08,GBP,transfer,travel
+2025-01-16,OPEN API,-152.47,GBP,direct_debit,software
+2025-06-06,UBER TRIP,-36.47,GBP,direct_debit,travel
+2025-04-09,APPLE STORE,-102.92,GBP,transfer,equipment
+2025-01-20,UBER TRIP,-148.16,GBP,direct_debit,travel
+2025-06-04,AMAZON,-86.48,GBP,direct_debit,equipment
+2025-01-17,AWS CLOUD,-79.94,GBP,card,software
+2025-04-11,AMAZON,-183.12,GBP,card,equipment
+2025-02-17,GOOGLE ADS,-151.68,GBP,transfer,marketing
+2025-05-23,AWS CLOUD,-94.94,GBP,transfer,software
+2025-01-15,STARBUCKS,-84.75,GBP,transfer,meals
+2025-06-21,FACEBOOK ADS,-187.0,GBP,transfer,marketing
+2025-05-01,GOOGLE ADS,-60.49,GBP,card,marketing
+2025-05-13,PRET A MANGER,-110.61,GBP,direct_debit,meals
+2025-04-22,FACEBOOK ADS,-199.02,GBP,card,marketing
+2025-03-27,FACEBOOK ADS,-58.5,GBP,transfer,marketing
+2025-06-04,UBER TRIP,-24.15,GBP,direct_debit,travel
+2025-05-02,AMAZON,-191.47,GBP,card,equipment
+2025-03-18,RYANAIR FLIGHT,-185.48,GBP,transfer,travel
+2025-04-30,OFFICE RENT LTD,-1033.57,GBP,card,rent
+2025-03-20,TRAINLINE UK,-30.48,GBP,card,travel
+2025-04-29,NOTION LABS,-133.16,GBP,card,software
+2025-05-26,WEWORK RENT,-1983.27,GBP,direct_debit,rent
+2025-06-25,OFFICE RENT LTD,-1215.77,GBP,direct_debit,rent
+2025-05-11,AWS CLOUD,-151.96,GBP,transfer,software
+2025-01-18,WEWORK RENT,-928.76,GBP,transfer,rent
+2025-03-10,RYANAIR FLIGHT,-5.01,GBP,direct_debit,travel
+2025-06-16,AWS CLOUD,-63.75,GBP,transfer,software
+2025-01-22,AMAZON,-56.37,GBP,transfer,equipment
+2025-06-19,UBER TRIP,-90.85,GBP,transfer,travel
+2025-05-08,OFFICE RENT LTD,-1717.79,GBP,transfer,rent
+2025-04-12,AWS CLOUD,-148.32,GBP,card,software
+2025-03-03,PRET A MANGER,-150.43,GBP,direct_debit,meals
+2025-06-30,GOOGLE ADS,-6.6,GBP,direct_debit,marketing
+2025-05-06,APPLE STORE,-118.86,GBP,direct_debit,equipment
+2025-06-02,OFFICE RENT LTD,-765.39,GBP,card,rent
+2025-05-09,FACEBOOK ADS,-12.21,GBP,direct_debit,marketing
+2025-04-19,OFFICE RENT LTD,-633.39,GBP,transfer,rent
+2025-03-27,UBER TRIP,-6.09,GBP,direct_debit,travel
+2025-06-28,OFFICE RENT LTD,-1885.89,GBP,direct_debit,rent
+2025-06-13,APPLE STORE,-88.36,GBP,card,equipment
+2025-02-23,GITHUB,-120.42,GBP,transfer,software
+2025-05-01,FACEBOOK ADS,-83.32,GBP,card,marketing
+2025-01-25,PRET A MANGER,-24.37,GBP,direct_debit,meals
+2025-04-07,AMAZON,-57.97,GBP,direct_debit,equipment
+2025-03-12,AWS CLOUD,-19.93,GBP,direct_debit,software
+2025-02-05,PRET A MANGER,-8.7,GBP,direct_debit,meals
+2025-05-13,UBER TRIP,-152.41,GBP,direct_debit,travel
+2025-02-18,AMAZON,-95.02,GBP,card,equipment
+2025-05-31,PRET A MANGER,-11.27,GBP,card,meals
+2025-04-09,WEWORK RENT,-1594.67,GBP,card,rent
+2025-03-21,UBER TRIP,-41.85,GBP,direct_debit,travel
+2025-03-19,GOOGLE ADS,-98.52,GBP,transfer,marketing
+2025-04-05,GOOGLE ADS,-43.87,GBP,transfer,marketing
+2025-03-02,RYANAIR FLIGHT,-10.45,GBP,direct_debit,travel
+2025-02-22,STARBUCKS,-89.27,GBP,transfer,meals
+2025-02-24,APPLE STORE,-167.43,GBP,transfer,equipment
+2025-01-24,RYANAIR FLIGHT,-188.39,GBP,card,travel
+2025-03-01,OFFICE RENT LTD,-1792.14,GBP,direct_debit,rent
+2025-05-16,RYANAIR FLIGHT,-147.2,GBP,direct_debit,travel
+2025-03-17,APPLE STORE,-192.82,GBP,card,equipment
+2025-04-01,OFFICE RENT LTD,-1831.82,GBP,transfer,rent
+2025-05-11,PRET A MANGER,-188.02,GBP,transfer,meals
+2025-05-28,GOOGLE ADS,-129.11,GBP,direct_debit,marketing
+2025-05-27,GITHUB,-133.09,GBP,transfer,software
+2025-02-16,AMAZON,-137.59,GBP,transfer,equipment
+2025-04-09,GOOGLE ADS,-139.82,GBP,card,marketing
+2025-01-03,AMAZON,-25.19,GBP,card,equipment
+2025-03-31,WEWORK RENT,-1448.51,GBP,direct_debit,rent
+2025-05-27,GOOGLE ADS,-65.46,GBP,direct_debit,marketing
+2025-03-22,UBER TRIP,-90.06,GBP,direct_debit,travel
+2025-06-30,OFFICE RENT LTD,-1205.23,GBP,card,rent
+2025-01-16,FACEBOOK ADS,-35.05,GBP,direct_debit,marketing
+2025-03-12,STARBUCKS,-13.51,GBP,card,meals
+2025-05-07,STARBUCKS,-132.52,GBP,direct_debit,meals
+2025-02-15,APPLE STORE,-137.59,GBP,direct_debit,equipment
+2025-05-28,PRET A MANGER,-117.74,GBP,transfer,meals
+2025-02-04,RYANAIR FLIGHT,-191.13,GBP,transfer,travel
+2025-04-03,OFFICE RENT LTD,-975.47,GBP,direct_debit,rent
+2025-05-18,APPLE STORE,-172.93,GBP,direct_debit,equipment
+2025-01-18,OFFICE RENT LTD,-506.36,GBP,direct_debit,rent
+2025-04-03,STARBUCKS,-20.17,GBP,card,meals
+2025-02-25,APPLE STORE,-75.88,GBP,transfer,equipment
+2025-05-12,STARBUCKS,-50.32,GBP,card,meals
+2025-06-26,FACEBOOK ADS,-191.33,GBP,direct_debit,marketing
+2025-05-16,WEWORK RENT,-995.58,GBP,direct_debit,rent
+2025-03-12,STARBUCKS,-153.06,GBP,direct_debit,meals
+2025-01-24,OPEN API,-53.76,GBP,card,software
+2025-04-26,WEWORK RENT,-1000.41,GBP,direct_debit,rent
+2025-04-26,OFFICE RENT LTD,-1249.14,GBP,transfer,rent
+2025-06-05,AWS CLOUD,-23.82,GBP,card,software
+2025-05-04,GITHUB,-106.74,GBP,card,software
+2025-03-07,WEWORK RENT,-771.83,GBP,direct_debit,rent
+2025-01-13,WEWORK RENT,-916.25,GBP,transfer,rent
+2025-03-15,GOOGLE ADS,-182.69,GBP,direct_debit,marketing
+2025-05-20,PRET A MANGER,-116.4,GBP,transfer,meals
+2025-02-12,FACEBOOK ADS,-112.05,GBP,transfer,marketing
+2025-03-02,GITHUB,-127.2,GBP,transfer,software
+2025-06-08,GOOGLE ADS,-62.48,GBP,direct_debit,marketing
+2025-03-07,FACEBOOK ADS,-149.54,GBP,card,marketing
+2025-06-06,OPEN API,-45.99,GBP,direct_debit,software
+2025-03-06,RYANAIR FLIGHT,-57.03,GBP,direct_debit,travel
+2025-01-22,UBER TRIP,-199.39,GBP,direct_debit,travel
+2025-05-12,UBER TRIP,-185.51,GBP,transfer,travel
+2025-03-27,TRAINLINE UK,-116.67,GBP,transfer,travel
+2025-05-14,UBER TRIP,-162.33,GBP,direct_debit,travel
+2025-02-26,OFFICE RENT LTD,-1813.02,GBP,transfer,rent
+2025-02-18,APPLE STORE,-115.42,GBP,transfer,equipment
+2025-02-22,APPLE STORE,-91.2,GBP,transfer,equipment
+2025-03-06,STARBUCKS,-168.95,GBP,transfer,meals
+2025-05-14,GITHUB,-40.72,GBP,card,software
+2025-03-26,GOOGLE ADS,-69.08,GBP,direct_debit,marketing
+2025-05-19,AWS CLOUD,-96.72,GBP,direct_debit,software
+2025-01-15,GOOGLE ADS,-21.57,GBP,card,marketing
+2025-02-17,RYANAIR FLIGHT,-108.19,GBP,card,travel
+2025-02-05,GOOGLE ADS,-114.45,GBP,card,marketing
+2025-04-16,FACEBOOK ADS,-13.57,GBP,transfer,marketing
+2025-03-15,UBER TRIP,-105.78,GBP,direct_debit,travel
+2025-04-12,GOOGLE ADS,-118.18,GBP,transfer,marketing
+2025-02-22,OPEN API,-124.5,GBP,card,software
+2025-03-18,RYANAIR FLIGHT,-14.19,GBP,card,travel
+2025-06-13,GOOGLE ADS,-29.59,GBP,direct_debit,marketing
+2025-05-28,AMAZON,-45.27,GBP,card,equipment
+2025-04-13,FACEBOOK ADS,-179.95,GBP,direct_debit,marketing
+2025-06-29,GOOGLE ADS,-171.02,GBP,direct_debit,marketing
+2025-06-06,FACEBOOK ADS,-198.74,GBP,card,marketing
+2025-01-17,AMAZON,-167.92,GBP,transfer,equipment
+2025-01-30,APPLE STORE,-140.13,GBP,card,equipment
+2025-06-07,OFFICE RENT LTD,-639.95,GBP,card,rent
+2025-01-26,WEWORK RENT,-613.0,GBP,card,rent
+2025-01-17,APPLE STORE,-123.55,GBP,direct_debit,equipment
+2025-03-11,WEWORK RENT,-785.55,GBP,transfer,rent
+2025-05-03,PRET A MANGER,-178.88,GBP,transfer,meals
+2025-03-12,GOOGLE ADS,-130.46,GBP,transfer,marketing
+2025-06-21,STARBUCKS,-52.47,GBP,card,meals
+2025-03-23,OFFICE RENT LTD,-1723.08,GBP,card,rent
+2025-05-06,NOTION LABS,-166.92,GBP,card,software
+2025-02-01,TRAINLINE UK,-58.7,GBP,card,travel
+2025-01-17,WEWORK RENT,-1754.84,GBP,card,rent
+2025-02-10,GOOGLE ADS,-193.13,GBP,transfer,marketing
+2025-06-11,AMAZON,-198.76,GBP,transfer,equipment
+2025-02-14,RYANAIR FLIGHT,-151.91,GBP,card,travel
+2025-04-01,OFFICE RENT LTD,-1934.22,GBP,direct_debit,rent
+2025-02-07,STARBUCKS,-183.53,GBP,card,meals
+2025-03-07,APPLE STORE,-174.3,GBP,card,equipment
+2025-03-11,APPLE STORE,-193.1,GBP,transfer,equipment
+2025-01-03,AWS CLOUD,-188.27,GBP,transfer,software
+2025-05-29,STARBUCKS,-52.27,GBP,transfer,meals
+2025-04-07,WEWORK RENT,-1095.5,GBP,transfer,rent
+2025-04-01,PRET A MANGER,-57.75,GBP,transfer,meals
+2025-04-06,RYANAIR FLIGHT,-49.16,GBP,transfer,travel
+2025-03-24,OFFICE RENT LTD,-761.69,GBP,direct_debit,rent
+2025-01-23,APPLE STORE,-172.94,GBP,transfer,equipment
+2025-02-12,FACEBOOK ADS,-129.73,GBP,card,marketing
+2025-01-29,AMAZON,-63.69,GBP,card,equipment
+2025-06-06,GITHUB,-118.77,GBP,transfer,software
+2025-06-19,GITHUB,-151.11,GBP,direct_debit,software
+2025-04-24,AMAZON,-148.87,GBP,direct_debit,equipment
+2025-06-03,PRET A MANGER,-195.25,GBP,direct_debit,meals
+2025-06-01,STARBUCKS,-131.24,GBP,card,meals
+2025-03-05,PRET A MANGER,-70.15,GBP,direct_debit,meals
+2025-05-21,NOTION LABS,-185.17,GBP,direct_debit,software
+2025-04-07,RYANAIR FLIGHT,-88.74,GBP,card,travel
+2025-04-10,FACEBOOK ADS,-10.38,GBP,card,marketing
+2025-05-11,NOTION LABS,-189.73,GBP,transfer,software
+2025-06-08,WEWORK RENT,-1200.43,GBP,card,rent
+2025-01-30,APPLE STORE,-23.38,GBP,card,equipment
+2025-03-01,OFFICE RENT LTD,-1273.32,GBP,card,rent
+2025-01-16,OPEN API,-17.35,GBP,transfer,software
+2025-04-29,NOTION LABS,-194.86,GBP,direct_debit,software
+2025-04-03,FACEBOOK ADS,-10.16,GBP,card,marketing
+2025-01-09,GOOGLE ADS,-77.87,GBP,card,marketing
+2025-02-14,FACEBOOK ADS,-131.13,GBP,transfer,marketing
+2025-05-12,RYANAIR FLIGHT,-17.81,GBP,transfer,travel
+2025-04-10,FACEBOOK ADS,-78.61,GBP,transfer,marketing
+2025-01-23,WEWORK RENT,-1845.64,GBP,transfer,rent
+2025-04-11,UBER TRIP,-77.46,GBP,transfer,travel
+2025-04-15,RYANAIR FLIGHT,-106.51,GBP,direct_debit,travel
+2025-01-15,WEWORK RENT,-601.2,GBP,direct_debit,rent
+2025-01-03,STARBUCKS,-187.96,GBP,direct_debit,meals
+2025-03-06,WEWORK RENT,-509.21,GBP,card,rent
+2025-05-31,AMAZON,-34.23,GBP,direct_debit,equipment
+2025-05-27,APPLE STORE,-77.41,GBP,card,equipment
+2025-02-06,WEWORK RENT,-1242.02,GBP,card,rent
+2025-01-01,AWS CLOUD,-166.57,GBP,transfer,software
+2025-06-08,NOTION LABS,-124.87,GBP,transfer,software
+2025-02-24,AMAZON,-138.08,GBP,card,equipment
+2025-03-07,NOTION LABS,-126.99,GBP,transfer,software
+2025-05-01,PRET A MANGER,-133.37,GBP,direct_debit,meals
+2025-02-12,PRET A MANGER,-174.29,GBP,card,meals
+2025-04-27,PRET A MANGER,-182.04,GBP,transfer,meals
+2025-02-23,WEWORK RENT,-1698.67,GBP,transfer,rent
+2025-06-10,AMAZON,-127.86,GBP,card,equipment
+2025-04-07,OFFICE RENT LTD,-894.77,GBP,direct_debit,rent
+2025-06-09,OFFICE RENT LTD,-1538.16,GBP,direct_debit,rent
+2025-06-11,OFFICE RENT LTD,-1254.77,GBP,transfer,rent
+2025-04-18,GOOGLE ADS,-169.27,GBP,direct_debit,marketing
+2025-02-08,FACEBOOK ADS,-141.56,GBP,direct_debit,marketing
+2025-05-11,OFFICE RENT LTD,-1989.45,GBP,card,rent
+2025-04-16,APPLE STORE,-92.83,GBP,card,equipment
+2025-03-21,FACEBOOK ADS,-83.45,GBP,card,marketing
+2025-03-01,NOTION LABS,-29.38,GBP,card,software
+2025-06-22,TRAINLINE UK,-12.38,GBP,transfer,travel
+2025-04-10,TRAINLINE UK,-60.69,GBP,direct_debit,travel
+2025-06-14,AWS CLOUD,-57.79,GBP,transfer,software
+2025-01-11,TRAINLINE UK,-127.17,GBP,transfer,travel
+2025-05-18,OPEN API,-22.19,GBP,card,software
+2025-01-14,UBER TRIP,-63.73,GBP,card,travel
+2025-06-18,OFFICE RENT LTD,-1633.8,GBP,transfer,rent
+2025-01-28,UBER TRIP,-10.29,GBP,card,travel
+2025-01-02,PRET A MANGER,-57.44,GBP,transfer,meals
+2025-05-04,UBER TRIP,-129.64,GBP,direct_debit,travel
+2025-03-19,APPLE STORE,-183.37,GBP,transfer,equipment
+2025-05-05,GOOGLE ADS,-70.75,GBP,direct_debit,marketing
+2025-02-13,APPLE STORE,-25.98,GBP,direct_debit,equipment
+2025-01-16,STARBUCKS,-170.14,GBP,transfer,meals
+2025-03-14,AMAZON,-99.07,GBP,card,equipment
+2025-02-18,TRAINLINE UK,-17.16,GBP,card,travel
+2025-03-10,TRAINLINE UK,-134.42,GBP,direct_debit,travel
+2025-04-12,AMAZON,-83.75,GBP,direct_debit,equipment
+2025-06-24,STARBUCKS,-79.36,GBP,transfer,meals
+2025-04-20,FACEBOOK ADS,-85.35,GBP,direct_debit,marketing
+2025-05-02,TRAINLINE UK,-174.55,GBP,card,travel
+2025-04-12,PRET A MANGER,-158.48,GBP,card,meals
+2025-02-26,GITHUB,-70.6,GBP,card,software
+2025-05-01,FACEBOOK ADS,-83.88,GBP,card,marketing
+2025-02-23,NOTION LABS,-197.69,GBP,direct_debit,software
+2025-06-19,AMAZON,-123.54,GBP,direct_debit,equipment
+2025-02-12,NOTION LABS,-174.34,GBP,direct_debit,software
+2025-03-20,PRET A MANGER,-196.73,GBP,card,meals
+2025-01-24,APPLE STORE,-130.2,GBP,transfer,equipment
+2025-06-09,AMAZON,-152.45,GBP,transfer,equipment
+2025-06-09,PRET A MANGER,-169.43,GBP,transfer,meals
+2025-04-19,WEWORK RENT,-1348.49,GBP,direct_debit,rent
+2025-06-01,APPLE STORE,-130.17,GBP,card,equipment
+2025-02-01,GOOGLE ADS,-72.68,GBP,card,marketing
+2025-04-28,AMAZON,-193.94,GBP,direct_debit,equipment
+2025-01-27,AMAZON,-64.25,GBP,card,equipment
+2025-04-25,STARBUCKS,-118.5,GBP,card,meals
+2025-06-09,GOOGLE ADS,-56.61,GBP,transfer,marketing
+2025-03-24,GITHUB,-8.05,GBP,card,software
+2025-03-16,GITHUB,-136.97,GBP,transfer,software
+2025-06-10,APPLE STORE,-90.21,GBP,direct_debit,equipment
+2025-05-13,GOOGLE ADS,-166.46,GBP,card,marketing
+2025-05-08,GITHUB,-80.07,GBP,transfer,software
+2025-02-04,TRAINLINE UK,-98.27,GBP,transfer,travel
+2025-05-25,GOOGLE ADS,-40.53,GBP,transfer,marketing
+2025-05-03,GITHUB,-190.53,GBP,card,software
+2025-04-01,OPEN API,-61.63,GBP,direct_debit,software
+2025-05-20,PRET A MANGER,-19.23,GBP,card,meals
+2025-05-19,GITHUB,-51.8,GBP,card,software
+2025-01-13,GOOGLE ADS,-41.15,GBP,card,marketing
+2025-02-17,APPLE STORE,-83.69,GBP,card,equipment
+2025-01-10,AMAZON,-161.37,GBP,transfer,equipment
+2025-06-30,APPLE STORE,-41.95,GBP,direct_debit,equipment
+2025-06-21,GITHUB,-90.89,GBP,transfer,software
+2025-06-30,TRAINLINE UK,-89.08,GBP,card,travel
+2025-02-19,NOTION LABS,-80.65,GBP,card,software
+2025-05-03,APPLE STORE,-23.84,GBP,direct_debit,equipment
+2025-05-25,STARBUCKS,-140.42,GBP,card,meals
+2025-01-15,OFFICE RENT LTD,-1654.71,GBP,transfer,rent
+2025-05-11,OPEN API,-44.25,GBP,card,software
+2025-04-11,RYANAIR FLIGHT,-149.38,GBP,transfer,travel
+2025-02-17,NOTION LABS,-163.15,GBP,transfer,software
+2025-01-22,AMAZON,-67.11,GBP,transfer,equipment
+2025-05-28,GOOGLE ADS,-116.6,GBP,transfer,marketing
+2025-02-08,OPEN API,-89.29,GBP,card,software
+2025-02-15,UBER TRIP,-139.87,GBP,card,travel
+2025-05-15,UBER TRIP,-93.47,GBP,direct_debit,travel
+2025-04-17,PRET A MANGER,-86.23,GBP,transfer,meals
+2025-06-27,AWS CLOUD,-93.93,GBP,transfer,software
+2025-02-09,OFFICE RENT LTD,-987.6,GBP,direct_debit,rent
+2025-05-17,NOTION LABS,-68.83,GBP,transfer,software
+2025-01-13,GOOGLE ADS,-101.64,GBP,card,marketing
+2025-06-13,STARBUCKS,-191.81,GBP,direct_debit,meals
+2025-04-02,OFFICE RENT LTD,-1841.14,GBP,card,rent
+2025-06-03,UBER TRIP,-35.15,GBP,card,travel
+2025-06-19,FACEBOOK ADS,-5.26,GBP,card,marketing
+2025-05-18,APPLE STORE,-120.85,GBP,card,equipment
+2025-05-24,AMAZON,-90.4,GBP,transfer,equipment
+2025-01-01,GITHUB,-180.04,GBP,card,software
+2025-01-07,OFFICE RENT LTD,-851.53,GBP,transfer,rent
+2025-04-07,STARBUCKS,-34.87,GBP,direct_debit,meals
+2025-06-22,TRAINLINE UK,-190.47,GBP,card,travel
+2025-02-08,UBER TRIP,-77.38,GBP,transfer,travel
+2025-04-07,FACEBOOK ADS,-138.2,GBP,card,marketing
+2025-05-16,RYANAIR FLIGHT,-167.28,GBP,direct_debit,travel
+2025-04-25,UBER TRIP,-95.37,GBP,transfer,travel
+2025-02-28,WEWORK RENT,-1036.0,GBP,transfer,rent
+2025-05-20,AMAZON,-192.3,GBP,transfer,equipment
+2025-06-23,FACEBOOK ADS,-188.46,GBP,direct_debit,marketing
+2025-01-19,AWS CLOUD,-190.65,GBP,direct_debit,software
+2025-02-05,WEWORK RENT,-602.52,GBP,transfer,rent
+2025-05-29,PRET A MANGER,-126.99,GBP,card,meals
+2025-04-15,FACEBOOK ADS,-54.89,GBP,direct_debit,marketing
+2025-02-21,RYANAIR FLIGHT,-28.2,GBP,card,travel
+2025-06-27,APPLE STORE,-141.59,GBP,transfer,equipment
+2025-03-17,PRET A MANGER,-120.13,GBP,transfer,meals
+2025-01-08,RYANAIR FLIGHT,-109.13,GBP,transfer,travel
+2025-02-11,TRAINLINE UK,-158.3,GBP,card,travel
+2025-01-17,FACEBOOK ADS,-54.63,GBP,direct_debit,marketing
+2025-03-21,PRET A MANGER,-175.62,GBP,transfer,meals
+2025-06-18,GITHUB,-191.78,GBP,card,software
+2025-05-11,WEWORK RENT,-1396.52,GBP,transfer,rent
+2025-06-18,APPLE STORE,-139.58,GBP,card,equipment
+2025-01-07,PRET A MANGER,-35.58,GBP,direct_debit,meals
+2025-03-08,WEWORK RENT,-1895.77,GBP,transfer,rent
+2025-05-30,UBER TRIP,-16.77,GBP,transfer,travel
+2025-03-31,WEWORK RENT,-813.74,GBP,direct_debit,rent
+2025-04-07,AWS CLOUD,-124.17,GBP,card,software
+2025-03-21,OFFICE RENT LTD,-1635.74,GBP,direct_debit,rent
+2025-05-05,WEWORK RENT,-811.39,GBP,direct_debit,rent
+2025-05-04,FACEBOOK ADS,-156.51,GBP,transfer,marketing
+2025-02-22,GOOGLE ADS,-69.38,GBP,card,marketing
+2025-06-16,OFFICE RENT LTD,-1159.15,GBP,direct_debit,rent
+2025-02-22,OPEN API,-93.97,GBP,transfer,software
+2025-04-24,GOOGLE ADS,-74.03,GBP,transfer,marketing
+2025-05-02,PRET A MANGER,-136.01,GBP,transfer,meals
+2025-03-30,TRAINLINE UK,-50.09,GBP,card,travel
+2025-04-02,TRAINLINE UK,-78.98,GBP,card,travel
+2025-03-26,AMAZON,-76.84,GBP,card,equipment
+2025-02-26,NOTION LABS,-19.11,GBP,direct_debit,software
+2025-03-15,RYANAIR FLIGHT,-56.21,GBP,card,travel
+2025-05-07,AMAZON,-25.38,GBP,transfer,equipment
+2025-04-28,FACEBOOK ADS,-163.9,GBP,card,marketing
+2025-03-08,AWS CLOUD,-167.5,GBP,card,software
+2025-03-31,AMAZON,-30.83,GBP,direct_debit,equipment
+2025-05-19,AWS CLOUD,-171.94,GBP,card,software
+2025-04-04,AMAZON,-91.76,GBP,card,equipment
+2025-01-14,STARBUCKS,-41.23,GBP,transfer,meals
+2025-05-03,FACEBOOK ADS,-195.16,GBP,card,marketing
+2025-05-07,OFFICE RENT LTD,-1705.26,GBP,transfer,rent
+2025-05-17,APPLE STORE,-116.4,GBP,card,equipment
+2025-02-12,GOOGLE ADS,-129.67,GBP,card,marketing
+2025-06-20,WEWORK RENT,-1692.41,GBP,transfer,rent
+2025-02-20,UBER TRIP,-108.16,GBP,transfer,travel
+2025-01-24,WEWORK RENT,-1979.22,GBP,direct_debit,rent
+2025-02-26,NOTION LABS,-117.62,GBP,transfer,software
+2025-04-10,OFFICE RENT LTD,-622.57,GBP,transfer,rent
+2025-01-03,AMAZON,-124.16,GBP,direct_debit,equipment
+2025-01-04,OFFICE RENT LTD,-1641.63,GBP,card,rent
+2025-01-01,UBER TRIP,-11.32,GBP,direct_debit,travel
+2025-03-24,APPLE STORE,-87.57,GBP,card,equipment
+2025-06-19,TRAINLINE UK,-198.06,GBP,transfer,travel
+2025-02-09,OFFICE RENT LTD,-763.46,GBP,transfer,rent
+2025-03-06,STARBUCKS,-119.49,GBP,transfer,meals
+2025-06-30,TRAINLINE UK,-75.07,GBP,card,travel
+2025-01-15,FACEBOOK ADS,-76.46,GBP,card,marketing
+2025-03-21,AWS CLOUD,-118.52,GBP,direct_debit,software
+2025-02-18,APPLE STORE,-31.16,GBP,transfer,equipment
+2025-05-10,GITHUB,-124.04,GBP,direct_debit,software
+2025-04-16,STARBUCKS,-162.23,GBP,card,meals
+2025-04-26,WEWORK RENT,-1089.64,GBP,card,rent
+2025-03-10,RYANAIR FLIGHT,-197.13,GBP,direct_debit,travel
+2025-01-28,NOTION LABS,-152.88,GBP,direct_debit,software
+2025-01-15,PRET A MANGER,-44.14,GBP,transfer,meals
+2025-06-24,APPLE STORE,-136.8,GBP,direct_debit,equipment
+2025-03-17,WEWORK RENT,-1488.76,GBP,direct_debit,rent
+2025-03-11,WEWORK RENT,-1237.88,GBP,card,rent
+2025-06-23,APPLE STORE,-49.53,GBP,card,equipment
+2025-03-31,FACEBOOK ADS,-112.75,GBP,card,marketing
+2025-05-17,NOTION LABS,-117.49,GBP,direct_debit,software
+2025-05-15,OPEN API,-179.57,GBP,direct_debit,software
+2025-03-14,NOTION LABS,-56.03,GBP,transfer,software
+2025-04-22,GITHUB,-13.67,GBP,card,software
+2025-04-21,GOOGLE ADS,-55.41,GBP,direct_debit,marketing
+2025-05-13,UBER TRIP,-143.21,GBP,card,travel
+2025-06-07,GOOGLE ADS,-9.0,GBP,transfer,marketing
+2025-01-21,WEWORK RENT,-1370.26,GBP,direct_debit,rent
+2025-01-16,AWS CLOUD,-138.69,GBP,card,software
+2025-06-24,APPLE STORE,-99.59,GBP,direct_debit,equipment
+2025-04-19,AWS CLOUD,-28.01,GBP,transfer,software
+2025-02-25,WEWORK RENT,-991.49,GBP,direct_debit,rent
+2025-01-09,GOOGLE ADS,-56.62,GBP,card,marketing
+2025-05-24,PRET A MANGER,-97.52,GBP,transfer,meals
+2025-01-23,PRET A MANGER,-96.81,GBP,card,meals
+2025-05-23,FACEBOOK ADS,-77.32,GBP,transfer,marketing
+2025-06-04,FACEBOOK ADS,-51.95,GBP,direct_debit,marketing
+2025-03-13,PRET A MANGER,-41.26,GBP,direct_debit,meals
+2025-01-30,WEWORK RENT,-1537.91,GBP,direct_debit,rent
+2025-04-08,AMAZON,-14.15,GBP,transfer,equipment
+2025-01-30,WEWORK RENT,-522.3,GBP,card,rent
+2025-03-25,GOOGLE ADS,-68.61,GBP,transfer,marketing
+2025-03-19,WEWORK RENT,-1607.31,GBP,transfer,rent
+2025-01-21,RYANAIR FLIGHT,-11.67,GBP,transfer,travel
+2025-01-12,APPLE STORE,-153.58,GBP,card,equipment
+2025-03-04,AMAZON,-178.58,GBP,card,equipment
+2025-04-03,TRAINLINE UK,-132.82,GBP,transfer,travel
+2025-06-14,APPLE STORE,-57.75,GBP,transfer,equipment
+2025-05-31,RYANAIR FLIGHT,-105.93,GBP,direct_debit,travel
+2025-05-18,PRET A MANGER,-44.39,GBP,direct_debit,meals
+2025-05-28,AMAZON,-27.54,GBP,card,equipment
+2025-06-29,UBER TRIP,-61.98,GBP,transfer,travel
+2025-04-27,AMAZON,-40.77,GBP,card,equipment
+2025-05-18,PRET A MANGER,-181.94,GBP,direct_debit,meals
+2025-06-19,APPLE STORE,-124.49,GBP,transfer,equipment
+2025-02-25,GOOGLE ADS,-124.8,GBP,card,marketing
+2025-02-14,APPLE STORE,-149.94,GBP,transfer,equipment
+2025-05-04,PRET A MANGER,-85.65,GBP,transfer,meals
+2025-04-11,APPLE STORE,-141.77,GBP,card,equipment
+2025-04-09,APPLE STORE,-193.68,GBP,card,equipment
+2025-05-26,WEWORK RENT,-860.38,GBP,transfer,rent
+2025-05-28,OFFICE RENT LTD,-1097.96,GBP,card,rent
+2025-06-30,AWS CLOUD,-61.91,GBP,direct_debit,software
+2025-04-30,GOOGLE ADS,-113.77,GBP,transfer,marketing
+2025-01-21,UBER TRIP,-34.47,GBP,transfer,travel
+2025-01-14,STARBUCKS,-104.37,GBP,transfer,meals
+2025-06-28,FACEBOOK ADS,-75.45,GBP,card,marketing
+2025-06-06,NOTION LABS,-93.62,GBP,card,software
+2025-02-01,WEWORK RENT,-1892.95,GBP,direct_debit,rent
+2025-01-16,GOOGLE ADS,-73.3,GBP,transfer,marketing
+2025-06-27,FACEBOOK ADS,-26.44,GBP,direct_debit,marketing
+2025-05-30,PRET A MANGER,-147.94,GBP,direct_debit,meals
+2025-05-18,AMAZON,-179.58,GBP,card,equipment
+2025-06-10,FACEBOOK ADS,-62.21,GBP,card,marketing
+2025-01-08,OFFICE RENT LTD,-526.12,GBP,transfer,rent
+2025-01-25,WEWORK RENT,-1934.94,GBP,transfer,rent
+2025-02-22,STARBUCKS,-140.71,GBP,card,meals
+2025-02-18,OFFICE RENT LTD,-526.43,GBP,transfer,rent
+2025-06-22,GITHUB,-75.67,GBP,direct_debit,software
+2025-05-12,GOOGLE ADS,-20.04,GBP,card,marketing
+2025-04-01,STARBUCKS,-28.75,GBP,direct_debit,meals
+2025-01-25,AWS CLOUD,-162.67,GBP,transfer,software
+2025-06-18,GOOGLE ADS,-101.93,GBP,transfer,marketing
+2025-05-18,WEWORK RENT,-1727.98,GBP,transfer,rent
+2025-01-03,OFFICE RENT LTD,-1011.31,GBP,transfer,rent
+2025-04-10,PRET A MANGER,-53.16,GBP,card,meals
+2025-02-26,PRET A MANGER,-12.97,GBP,card,meals
+2025-06-14,RYANAIR FLIGHT,-127.62,GBP,transfer,travel
+2025-01-26,WEWORK RENT,-704.56,GBP,direct_debit,rent
+2025-06-16,FACEBOOK ADS,-196.16,GBP,direct_debit,marketing
+2025-01-19,OFFICE RENT LTD,-1743.01,GBP,card,rent
+2025-03-07,WEWORK RENT,-654.6,GBP,card,rent
+2025-06-04,TRAINLINE UK,-149.93,GBP,card,travel
+2025-01-28,STARBUCKS,-188.8,GBP,transfer,meals
+2025-06-29,GOOGLE ADS,-75.56,GBP,card,marketing
+2025-05-28,WEWORK RENT,-535.61,GBP,direct_debit,rent
+2025-05-21,STARBUCKS,-123.48,GBP,card,meals
+2025-06-18,AWS CLOUD,-116.44,GBP,transfer,software
+2025-04-28,STARBUCKS,-14.54,GBP,transfer,meals
+2025-04-13,UBER TRIP,-103.59,GBP,card,travel
+2025-01-09,OFFICE RENT LTD,-1428.02,GBP,direct_debit,rent
+2025-02-27,OFFICE RENT LTD,-514.7,GBP,transfer,rent
+2025-01-10,APPLE STORE,-174.38,GBP,direct_debit,equipment
+2025-04-30,FACEBOOK ADS,-73.37,GBP,direct_debit,marketing
+2025-01-31,PRET A MANGER,-27.35,GBP,transfer,meals
+2025-01-26,AWS CLOUD,-168.35,GBP,transfer,software
+2025-05-21,RYANAIR FLIGHT,-57.54,GBP,transfer,travel
+2025-01-11,GITHUB,-56.85,GBP,card,software
+2025-02-02,FACEBOOK ADS,-182.89,GBP,transfer,marketing
+2025-04-11,RYANAIR FLIGHT,-187.55,GBP,transfer,travel
+2025-01-04,GITHUB,-177.75,GBP,direct_debit,software
+2025-04-19,OFFICE RENT LTD,-668.68,GBP,direct_debit,rent
+2025-01-07,PRET A MANGER,-12.09,GBP,transfer,meals
+2025-04-08,APPLE STORE,-111.91,GBP,card,equipment
+2025-04-18,RYANAIR FLIGHT,-165.48,GBP,direct_debit,travel
+2025-03-11,AMAZON,-101.89,GBP,direct_debit,equipment
+2025-04-03,UBER TRIP,-50.35,GBP,card,travel
+2025-06-18,GITHUB,-176.82,GBP,card,software
+2025-03-05,OFFICE RENT LTD,-641.88,GBP,direct_debit,rent
+2025-03-29,TRAINLINE UK,-149.97,GBP,transfer,travel
+2025-04-18,AMAZON,-105.81,GBP,card,equipment
+2025-02-21,WEWORK RENT,-749.09,GBP,card,rent
+2025-06-20,PRET A MANGER,-69.55,GBP,direct_debit,meals
+2025-02-23,FACEBOOK ADS,-187.13,GBP,direct_debit,marketing
+2025-06-14,AMAZON,-91.65,GBP,direct_debit,equipment
+2025-06-01,GOOGLE ADS,-66.4,GBP,direct_debit,marketing
+2025-06-08,OPEN API,-56.95,GBP,card,software
+2025-05-31,WEWORK RENT,-1895.19,GBP,direct_debit,rent
+2025-05-30,TRAINLINE UK,-193.99,GBP,transfer,travel
+2025-03-05,PRET A MANGER,-37.95,GBP,transfer,meals
+2025-01-12,APPLE STORE,-19.85,GBP,card,equipment
+2025-01-10,WEWORK RENT,-1521.02,GBP,card,rent
+2025-01-14,STARBUCKS,-112.95,GBP,direct_debit,meals
+2025-04-16,FACEBOOK ADS,-8.93,GBP,transfer,marketing
+2025-04-09,UBER TRIP,-30.16,GBP,direct_debit,travel
+2025-05-31,APPLE STORE,-158.55,GBP,direct_debit,equipment
+2025-01-07,GOOGLE ADS,-138.02,GBP,direct_debit,marketing
+2025-02-18,APPLE STORE,-35.42,GBP,direct_debit,equipment
+2025-05-15,OPEN API,-21.33,GBP,direct_debit,software
+2025-06-01,PRET A MANGER,-169.79,GBP,direct_debit,meals
+2025-01-08,GITHUB,-75.98,GBP,direct_debit,software
+2025-03-10,AMAZON,-81.54,GBP,direct_debit,equipment
+2025-05-02,PRET A MANGER,-71.61,GBP,transfer,meals
+2025-02-02,AWS CLOUD,-51.14,GBP,direct_debit,software
+2025-05-27,APPLE STORE,-191.2,GBP,direct_debit,equipment
+2025-06-28,NOTION LABS,-31.92,GBP,transfer,software
+2025-06-05,UBER TRIP,-189.42,GBP,direct_debit,travel
+2025-01-22,UBER TRIP,-76.6,GBP,transfer,travel
+2025-02-20,STARBUCKS,-64.56,GBP,transfer,meals
+2025-03-26,PRET A MANGER,-171.82,GBP,direct_debit,meals
+2025-02-06,GITHUB,-67.48,GBP,transfer,software
+2025-06-18,APPLE STORE,-64.85,GBP,transfer,equipment
+2025-02-15,GOOGLE ADS,-103.35,GBP,transfer,marketing
+2025-05-06,NOTION LABS,-124.49,GBP,direct_debit,software
+2025-01-26,GOOGLE ADS,-7.55,GBP,card,marketing
+2025-04-23,WEWORK RENT,-516.4,GBP,transfer,rent
+2025-06-01,AMAZON,-167.98,GBP,transfer,equipment
+2025-04-18,STARBUCKS,-99.1,GBP,direct_debit,meals
+2025-05-22,UBER TRIP,-169.58,GBP,direct_debit,travel
+2025-06-08,TRAINLINE UK,-32.9,GBP,transfer,travel
+2025-05-31,FACEBOOK ADS,-58.69,GBP,card,marketing
+2025-04-18,RYANAIR FLIGHT,-69.04,GBP,transfer,travel
+2025-04-03,STARBUCKS,-175.59,GBP,transfer,meals
+2025-06-21,FACEBOOK ADS,-52.49,GBP,card,marketing
+2025-04-29,UBER TRIP,-194.14,GBP,direct_debit,travel
+2025-06-29,OFFICE RENT LTD,-1559.53,GBP,card,rent
+2025-01-29,WEWORK RENT,-1233.89,GBP,transfer,rent
+2025-03-24,WEWORK RENT,-729.17,GBP,transfer,rent
+2025-06-22,NOTION LABS,-181.05,GBP,transfer,software
+2025-04-11,WEWORK RENT,-551.7,GBP,transfer,rent
+2025-06-06,STARBUCKS,-114.06,GBP,card,meals
+2025-06-05,STARBUCKS,-89.22,GBP,transfer,meals
+2025-02-11,AWS CLOUD,-20.03,GBP,transfer,software
+2025-02-13,NOTION LABS,-84.66,GBP,transfer,software
+2025-04-13,GOOGLE ADS,-145.49,GBP,card,marketing
+2025-03-14,GITHUB,-41.85,GBP,transfer,software
+2025-05-19,AMAZON,-80.49,GBP,card,equipment
+2025-04-24,UBER TRIP,-40.48,GBP,card,travel
+2025-03-13,WEWORK RENT,-1561.58,GBP,direct_debit,rent
+2025-05-30,GITHUB,-144.33,GBP,direct_debit,software
+2025-03-07,GOOGLE ADS,-161.24,GBP,transfer,marketing
+2025-04-08,UBER TRIP,-7.14,GBP,transfer,travel
+2025-02-14,FACEBOOK ADS,-6.38,GBP,card,marketing
+2025-01-16,AMAZON,-125.07,GBP,card,equipment
+2025-01-10,OPEN API,-25.61,GBP,card,software
+2025-05-18,UBER TRIP,-82.05,GBP,transfer,travel
+2025-06-08,STARBUCKS,-51.8,GBP,transfer,meals
+2025-04-21,TRAINLINE UK,-110.47,GBP,card,travel
+2025-02-21,UBER TRIP,-167.35,GBP,direct_debit,travel
+2025-05-02,UBER TRIP,-79.25,GBP,direct_debit,travel
+2025-04-01,OPEN API,-88.81,GBP,card,software
+2025-02-28,FACEBOOK ADS,-87.98,GBP,card,marketing
+2025-04-23,STARBUCKS,-71.16,GBP,transfer,meals
+2025-05-03,AWS CLOUD,-135.95,GBP,direct_debit,software
+2025-05-07,STARBUCKS,-39.41,GBP,transfer,meals
+2025-05-03,WEWORK RENT,-1908.4,GBP,card,rent
+2025-02-17,RYANAIR FLIGHT,-45.88,GBP,direct_debit,travel
+2025-05-21,RYANAIR FLIGHT,-79.78,GBP,card,travel
+2025-06-09,RYANAIR FLIGHT,-46.23,GBP,card,travel
+2025-05-15,PRET A MANGER,-91.36,GBP,direct_debit,meals
+2025-06-20,GITHUB,-93.33,GBP,transfer,software
+2025-05-18,AMAZON,-107.13,GBP,transfer,equipment
+2025-06-24,STARBUCKS,-191.47,GBP,card,meals
+2025-04-13,PRET A MANGER,-69.59,GBP,transfer,meals
+2025-01-02,NOTION LABS,-183.85,GBP,transfer,software
+2025-06-23,UBER TRIP,-187.07,GBP,direct_debit,travel
+2025-01-05,GITHUB,-96.56,GBP,transfer,software
+2025-02-10,WEWORK RENT,-1448.85,GBP,transfer,rent
+2025-01-25,OFFICE RENT LTD,-656.9,GBP,card,rent
+2025-04-02,FACEBOOK ADS,-86.8,GBP,card,marketing
+2025-02-03,OFFICE RENT LTD,-881.9,GBP,card,rent
+2025-06-23,AMAZON,-90.52,GBP,transfer,equipment
+2025-04-30,AMAZON,-29.5,GBP,card,equipment
+2025-05-02,OFFICE RENT LTD,-1808.5,GBP,card,rent
+2025-02-20,APPLE STORE,-118.92,GBP,direct_debit,equipment
+2025-05-26,STARBUCKS,-107.18,GBP,transfer,meals
+2025-03-25,FACEBOOK ADS,-47.92,GBP,direct_debit,marketing
+2025-01-31,PRET A MANGER,-24.61,GBP,card,meals
+2025-04-07,AMAZON,-27.3,GBP,card,equipment
+2025-05-01,OFFICE RENT LTD,-1280.09,GBP,transfer,rent
+2025-06-04,GOOGLE ADS,-27.58,GBP,card,marketing
+2025-04-06,STARBUCKS,-173.06,GBP,transfer,meals
+2025-02-11,APPLE STORE,-146.16,GBP,transfer,equipment
+2025-01-01,PRET A MANGER,-109.43,GBP,transfer,meals
+2025-03-11,NOTION LABS,-131.34,GBP,card,software
+2025-02-07,UBER TRIP,-186.58,GBP,transfer,travel
+2025-02-05,FACEBOOK ADS,-174.32,GBP,direct_debit,marketing
+2025-04-03,OFFICE RENT LTD,-1090.08,GBP,card,rent
+2025-01-01,OFFICE RENT LTD,-1660.23,GBP,direct_debit,rent
+2025-06-27,OFFICE RENT LTD,-1422.31,GBP,direct_debit,rent
+2025-04-16,OPEN API,-8.34,GBP,transfer,software
+2025-01-02,OPEN API,-129.37,GBP,transfer,software
+2025-04-13,AMAZON,-197.42,GBP,card,equipment
+2025-01-15,AWS CLOUD,-26.99,GBP,transfer,software
+2025-02-17,GITHUB,-172.59,GBP,direct_debit,software
+2025-03-10,AMAZON,-177.61,GBP,card,equipment
+2025-06-27,PRET A MANGER,-26.19,GBP,direct_debit,meals
+2025-03-16,OFFICE RENT LTD,-622.49,GBP,direct_debit,rent
+2025-05-22,STARBUCKS,-90.43,GBP,direct_debit,meals
+2025-06-26,WEWORK RENT,-1991.55,GBP,direct_debit,rent
+2025-01-01,GOOGLE ADS,-177.46,GBP,direct_debit,marketing
+2025-05-09,STARBUCKS,-136.79,GBP,card,meals
+2025-05-30,AMAZON,-195.74,GBP,transfer,equipment
+2025-04-03,RYANAIR FLIGHT,-131.47,GBP,direct_debit,travel
+2025-05-16,GOOGLE ADS,-76.94,GBP,card,marketing
+2025-04-08,APPLE STORE,-174.14,GBP,direct_debit,equipment
+2025-06-17,AMAZON,-43.47,GBP,transfer,equipment
+2025-04-06,GOOGLE ADS,-36.94,GBP,transfer,marketing
+2025-02-13,STARBUCKS,-150.93,GBP,transfer,meals
+2025-02-17,FACEBOOK ADS,-88.46,GBP,direct_debit,marketing
+2025-03-28,WEWORK RENT,-1842.96,GBP,transfer,rent
+2025-05-20,NOTION LABS,-100.31,GBP,transfer,software
+2025-06-10,TRAINLINE UK,-199.7,GBP,card,travel
+2025-02-16,STARBUCKS,-59.02,GBP,card,meals
+2025-03-15,STARBUCKS,-70.94,GBP,direct_debit,meals
+2025-01-24,OFFICE RENT LTD,-1017.74,GBP,transfer,rent
+2025-06-24,OFFICE RENT LTD,-1631.93,GBP,direct_debit,rent
+2025-02-10,RYANAIR FLIGHT,-88.16,GBP,card,travel
+2025-05-31,TRAINLINE UK,-115.26,GBP,card,travel
+2025-03-12,OFFICE RENT LTD,-1978.89,GBP,transfer,rent
+2025-05-13,NOTION LABS,-124.87,GBP,card,software
+2025-01-09,STARBUCKS,-71.21,GBP,transfer,meals
+2025-01-09,GITHUB,-109.52,GBP,card,software
+2025-01-16,AWS CLOUD,-160.17,GBP,transfer,software
+2025-04-11,OFFICE RENT LTD,-1489.23,GBP,transfer,rent
+2025-03-05,STARBUCKS,-49.71,GBP,direct_debit,meals
+2025-03-18,APPLE STORE,-40.31,GBP,direct_debit,equipment
+2025-04-06,PRET A MANGER,-102.18,GBP,direct_debit,meals
+2025-05-06,APPLE STORE,-73.86,GBP,direct_debit,equipment
+2025-06-28,UBER TRIP,-138.76,GBP,card,travel
+2025-05-09,AMAZON,-20.27,GBP,transfer,equipment
+2025-04-08,GITHUB,-5.11,GBP,transfer,software
+2025-03-08,GOOGLE ADS,-189.52,GBP,transfer,marketing
+2025-03-03,OFFICE RENT LTD,-561.43,GBP,transfer,rent
+2025-05-16,PRET A MANGER,-103.12,GBP,direct_debit,meals
+2025-01-23,RYANAIR FLIGHT,-117.51,GBP,card,travel
+2025-04-09,AMAZON,-164.26,GBP,direct_debit,equipment
+2025-05-16,TRAINLINE UK,-142.63,GBP,transfer,travel
+2025-03-25,PRET A MANGER,-95.15,GBP,direct_debit,meals
+2025-05-30,GOOGLE ADS,-67.24,GBP,direct_debit,marketing
+2025-06-26,GOOGLE ADS,-127.84,GBP,card,marketing
+2025-01-11,PRET A MANGER,-119.01,GBP,card,meals
+2025-02-26,RYANAIR FLIGHT,-44.66,GBP,card,travel
+2025-01-08,FACEBOOK ADS,-199.65,GBP,card,marketing
+2025-05-01,APPLE STORE,-167.14,GBP,card,equipment
+2025-02-19,FACEBOOK ADS,-45.97,GBP,card,marketing
+2025-04-27,FACEBOOK ADS,-32.63,GBP,direct_debit,marketing
+2025-05-13,OPEN API,-35.5,GBP,card,software
+2025-06-07,NOTION LABS,-76.0,GBP,transfer,software
+2025-05-27,OPEN API,-84.1,GBP,card,software
+2025-03-18,NOTION LABS,-27.5,GBP,card,software
+2025-02-17,STARBUCKS,-60.27,GBP,transfer,meals
+2025-06-05,OFFICE RENT LTD,-1192.33,GBP,transfer,rent
+2025-04-12,UBER TRIP,-115.5,GBP,card,travel
+2025-02-13,OPEN API,-51.53,GBP,card,software
+2025-05-28,OFFICE RENT LTD,-951.4,GBP,direct_debit,rent
+2025-02-04,WEWORK RENT,-1378.92,GBP,direct_debit,rent
+2025-04-13,APPLE STORE,-6.43,GBP,card,equipment
+2025-01-16,PRET A MANGER,-81.81,GBP,card,meals
+2025-06-29,STARBUCKS,-38.1,GBP,card,meals
+2025-03-30,AWS CLOUD,-167.63,GBP,card,software
+2025-05-24,APPLE STORE,-65.1,GBP,transfer,equipment
+2025-04-06,APPLE STORE,-159.32,GBP,transfer,equipment
+2025-01-06,UBER TRIP,-190.52,GBP,direct_debit,travel
+2025-06-16,TRAINLINE UK,-131.54,GBP,direct_debit,travel
+2025-03-26,RYANAIR FLIGHT,-167.67,GBP,transfer,travel
+2025-04-21,AMAZON,-165.36,GBP,transfer,equipment
+2025-06-26,WEWORK RENT,-1919.81,GBP,card,rent
+2025-03-07,FACEBOOK ADS,-141.21,GBP,direct_debit,marketing
+2025-02-17,APPLE STORE,-20.96,GBP,direct_debit,equipment
+2025-02-03,GOOGLE ADS,-108.86,GBP,direct_debit,marketing
+2025-06-01,NOTION LABS,-145.33,GBP,transfer,software
+2025-03-06,GOOGLE ADS,-50.2,GBP,card,marketing
+2025-05-21,OFFICE RENT LTD,-1706.27,GBP,transfer,rent
+2025-02-28,AMAZON,-18.55,GBP,direct_debit,equipment
+2025-03-17,AWS CLOUD,-103.17,GBP,transfer,software
+2025-05-07,OPEN API,-17.03,GBP,direct_debit,software
+2025-03-26,STARBUCKS,-70.93,GBP,card,meals
+2025-01-19,APPLE STORE,-107.2,GBP,direct_debit,equipment
+2025-01-22,RYANAIR FLIGHT,-144.19,GBP,direct_debit,travel
+2025-05-13,PRET A MANGER,-8.22,GBP,transfer,meals
+2025-05-18,GITHUB,-110.62,GBP,card,software
+2025-06-04,RYANAIR FLIGHT,-42.0,GBP,card,travel
+2025-03-16,WEWORK RENT,-1724.46,GBP,direct_debit,rent
+2025-02-06,AMAZON,-63.46,GBP,direct_debit,equipment
+2025-01-20,STARBUCKS,-57.89,GBP,direct_debit,meals
+2025-01-22,GOOGLE ADS,-182.28,GBP,transfer,marketing
+2025-04-12,WEWORK RENT,-1594.91,GBP,transfer,rent
+2025-04-06,FACEBOOK ADS,-10.64,GBP,direct_debit,marketing
+2025-04-07,UBER TRIP,-23.2,GBP,card,travel
+2025-01-12,OFFICE RENT LTD,-959.47,GBP,transfer,rent
+2025-03-27,WEWORK RENT,-1722.53,GBP,transfer,rent
+2025-02-17,GOOGLE ADS,-103.67,GBP,card,marketing
+2025-06-23,WEWORK RENT,-626.18,GBP,direct_debit,rent
+2025-05-21,OFFICE RENT LTD,-1026.28,GBP,card,rent
+2025-05-08,STARBUCKS,-162.88,GBP,transfer,meals
+2025-02-16,WEWORK RENT,-1102.28,GBP,transfer,rent
+2025-01-05,TRAINLINE UK,-163.02,GBP,card,travel
+2025-06-02,FACEBOOK ADS,-17.15,GBP,transfer,marketing
+2025-02-13,APPLE STORE,-77.2,GBP,direct_debit,equipment
+2025-05-05,STARBUCKS,-54.75,GBP,transfer,meals
+2025-03-27,AWS CLOUD,-48.69,GBP,transfer,software
+2025-01-27,RYANAIR FLIGHT,-108.87,GBP,direct_debit,travel
+2025-01-09,FACEBOOK ADS,-66.88,GBP,direct_debit,marketing
+2025-02-12,STARBUCKS,-130.98,GBP,transfer,meals
+2025-06-10,TRAINLINE UK,-6.59,GBP,card,travel
+2025-04-04,NOTION LABS,-133.88,GBP,direct_debit,software
+2025-01-15,STARBUCKS,-191.91,GBP,transfer,meals
+2025-03-19,FACEBOOK ADS,-152.87,GBP,direct_debit,marketing
+2025-02-15,UBER TRIP,-140.68,GBP,card,travel
+2025-03-23,OFFICE RENT LTD,-1255.07,GBP,transfer,rent
+2025-05-15,FACEBOOK ADS,-194.55,GBP,transfer,marketing
+2025-05-04,FACEBOOK ADS,-37.6,GBP,direct_debit,marketing
+2025-06-28,AMAZON,-76.01,GBP,transfer,equipment
+2025-06-16,WEWORK RENT,-1161.67,GBP,direct_debit,rent
+2025-06-26,APPLE STORE,-40.96,GBP,card,equipment
+2025-02-14,RYANAIR FLIGHT,-130.0,GBP,transfer,travel
+2025-06-13,WEWORK RENT,-820.39,GBP,transfer,rent
+2025-05-15,STARBUCKS,-30.2,GBP,direct_debit,meals
+2025-02-04,WEWORK RENT,-867.34,GBP,card,rent
+2025-06-03,APPLE STORE,-141.85,GBP,transfer,equipment
+2025-05-18,TRAINLINE UK,-188.35,GBP,transfer,travel
+2025-03-06,GOOGLE ADS,-136.38,GBP,card,marketing
+2025-01-10,FACEBOOK ADS,-82.4,GBP,transfer,marketing
+2025-06-23,FACEBOOK ADS,-195.92,GBP,direct_debit,marketing
+2025-02-02,OPEN API,-47.18,GBP,direct_debit,software
+2025-05-24,APPLE STORE,-17.67,GBP,card,equipment
+2025-02-16,APPLE STORE,-35.32,GBP,transfer,equipment
+2025-03-12,OFFICE RENT LTD,-1504.06,GBP,transfer,rent
+2025-06-26,PRET A MANGER,-43.37,GBP,direct_debit,meals
+2025-01-23,APPLE STORE,-15.72,GBP,direct_debit,equipment
+2025-05-15,OFFICE RENT LTD,-1422.08,GBP,transfer,rent
+2025-04-17,OPEN API,-53.01,GBP,transfer,software
+2025-01-29,APPLE STORE,-125.94,GBP,direct_debit,equipment
+2025-03-26,FACEBOOK ADS,-62.18,GBP,transfer,marketing
+2025-04-13,GOOGLE ADS,-166.18,GBP,card,marketing
+2025-03-28,GITHUB,-87.55,GBP,card,software
+2025-05-13,APPLE STORE,-31.07,GBP,card,equipment
+2025-03-19,AMAZON,-161.19,GBP,card,equipment
+2025-05-17,RYANAIR FLIGHT,-195.36,GBP,card,travel
+2025-03-24,GOOGLE ADS,-18.97,GBP,transfer,marketing
+2025-06-26,OFFICE RENT LTD,-965.16,GBP,transfer,rent
+2025-02-27,NOTION LABS,-168.38,GBP,direct_debit,software
+2025-06-04,AWS CLOUD,-99.53,GBP,transfer,software
+2025-05-19,OFFICE RENT LTD,-1394.89,GBP,direct_debit,rent
+2025-02-09,FACEBOOK ADS,-101.92,GBP,direct_debit,marketing
+2025-02-06,STARBUCKS,-34.69,GBP,direct_debit,meals
+2025-05-17,STARBUCKS,-105.62,GBP,direct_debit,meals
+2025-05-20,RYANAIR FLIGHT,-40.13,GBP,card,travel
+2025-05-21,FACEBOOK ADS,-32.67,GBP,direct_debit,marketing
+2025-03-16,STARBUCKS,-41.1,GBP,card,meals
+2025-01-27,STARBUCKS,-30.61,GBP,transfer,meals
+2025-03-11,WEWORK RENT,-1743.81,GBP,card,rent
+2025-01-29,OPEN API,-192.21,GBP,card,software
+2025-06-08,AMAZON,-181.65,GBP,direct_debit,equipment
+2025-05-16,TRAINLINE UK,-123.23,GBP,card,travel
+2025-06-21,FACEBOOK ADS,-132.13,GBP,transfer,marketing
+2025-06-11,OFFICE RENT LTD,-1157.58,GBP,card,rent
+2025-03-05,GOOGLE ADS,-35.46,GBP,direct_debit,marketing
+2025-06-10,PRET A MANGER,-112.68,GBP,direct_debit,meals
+2025-05-09,WEWORK RENT,-1280.87,GBP,transfer,rent
+2025-04-27,GOOGLE ADS,-5.69,GBP,direct_debit,marketing
+2025-02-11,PRET A MANGER,-67.06,GBP,direct_debit,meals
+2025-05-15,GOOGLE ADS,-184.51,GBP,card,marketing
+2025-03-17,GITHUB,-86.24,GBP,card,software
+2025-06-16,APPLE STORE,-75.11,GBP,direct_debit,equipment
+2025-01-04,AMAZON,-199.23,GBP,transfer,equipment
+2025-03-13,GOOGLE ADS,-68.81,GBP,direct_debit,marketing
+2025-04-08,RYANAIR FLIGHT,-184.21,GBP,direct_debit,travel
+2025-01-11,RYANAIR FLIGHT,-57.03,GBP,transfer,travel
+2025-02-28,PRET A MANGER,-162.22,GBP,transfer,meals
+2025-04-05,GOOGLE ADS,-152.79,GBP,transfer,marketing
+2025-02-01,OFFICE RENT LTD,-983.95,GBP,transfer,rent
+2025-04-20,AWS CLOUD,-130.74,GBP,card,software
+2025-02-11,STARBUCKS,-92.43,GBP,card,meals
+2025-05-25,APPLE STORE,-90.44,GBP,direct_debit,equipment
+2025-04-23,OFFICE RENT LTD,-1519.81,GBP,transfer,rent
+2025-06-19,PRET A MANGER,-22.77,GBP,card,meals
+2025-03-16,AMAZON,-99.4,GBP,card,equipment
+2025-02-01,APPLE STORE,-173.68,GBP,card,equipment
+2025-03-16,AMAZON,-175.08,GBP,transfer,equipment
+2025-02-27,OPEN API,-103.47,GBP,direct_debit,software
+2025-05-06,AWS CLOUD,-184.36,GBP,card,software
+2025-05-11,RYANAIR FLIGHT,-199.16,GBP,transfer,travel
+2025-05-02,AMAZON,-122.05,GBP,direct_debit,equipment
+2025-06-16,FACEBOOK ADS,-122.02,GBP,transfer,marketing
+2025-05-01,APPLE STORE,-192.67,GBP,card,equipment
+2025-02-12,RYANAIR FLIGHT,-58.68,GBP,transfer,travel
+2025-06-17,APPLE STORE,-24.92,GBP,direct_debit,equipment
+2025-03-28,RYANAIR FLIGHT,-95.27,GBP,card,travel
+2025-02-19,AWS CLOUD,-43.16,GBP,transfer,software
+2025-01-22,AWS CLOUD,-193.55,GBP,direct_debit,software
+2025-01-27,PRET A MANGER,-126.01,GBP,transfer,meals
+2025-02-24,AWS CLOUD,-125.44,GBP,card,software
+2025-02-01,OFFICE RENT LTD,-1796.57,GBP,transfer,rent
+2025-04-30,NOTION LABS,-155.29,GBP,card,software
+2025-06-05,UBER TRIP,-185.15,GBP,card,travel
+2025-01-01,GOOGLE ADS,-111.18,GBP,direct_debit,marketing
+2025-03-19,RYANAIR FLIGHT,-193.48,GBP,transfer,travel
+2025-01-31,STARBUCKS,-20.08,GBP,direct_debit,meals
+2025-01-24,APPLE STORE,-42.87,GBP,transfer,equipment
+2025-06-09,NOTION LABS,-168.96,GBP,direct_debit,software
+2025-05-31,APPLE STORE,-143.61,GBP,transfer,equipment
+2025-02-14,AWS CLOUD,-195.7,GBP,direct_debit,software
+2025-03-26,OFFICE RENT LTD,-1563.05,GBP,card,rent
+2025-06-18,AWS CLOUD,-119.1,GBP,direct_debit,software
+2025-01-01,NOTION LABS,-151.1,GBP,transfer,software
+2025-01-24,AMAZON,-68.6,GBP,transfer,equipment
+2025-05-17,OFFICE RENT LTD,-1945.84,GBP,transfer,rent
+2025-01-28,GOOGLE ADS,-128.83,GBP,transfer,marketing
+2025-02-07,GITHUB,-54.56,GBP,transfer,software
+2025-01-21,PRET A MANGER,-62.57,GBP,transfer,meals
+2025-03-11,PRET A MANGER,-158.1,GBP,transfer,meals
+2025-05-20,PRET A MANGER,-120.9,GBP,transfer,meals
+2025-01-14,OFFICE RENT LTD,-1073.49,GBP,direct_debit,rent
+2025-05-21,OPEN API,-125.88,GBP,direct_debit,software
+2025-02-28,STARBUCKS,-103.92,GBP,transfer,meals
+2025-01-21,PRET A MANGER,-10.75,GBP,transfer,meals
+2025-01-15,AMAZON,-122.53,GBP,direct_debit,equipment
+2025-03-06,OPEN API,-142.74,GBP,card,software
+2025-06-02,APPLE STORE,-40.58,GBP,card,equipment
+2025-01-20,OFFICE RENT LTD,-1818.71,GBP,direct_debit,rent
+2025-01-20,PRET A MANGER,-6.72,GBP,transfer,meals
+2025-03-13,APPLE STORE,-34.53,GBP,transfer,equipment
+2025-06-18,GOOGLE ADS,-81.97,GBP,transfer,marketing
+2025-02-02,RYANAIR FLIGHT,-75.07,GBP,card,travel
+2025-04-19,GITHUB,-149.72,GBP,transfer,software
+2025-05-03,GOOGLE ADS,-50.47,GBP,direct_debit,marketing
+2025-06-21,GOOGLE ADS,-199.38,GBP,direct_debit,marketing
+2025-03-24,NOTION LABS,-134.43,GBP,direct_debit,software
+2025-02-03,RYANAIR FLIGHT,-6.87,GBP,card,travel
+2025-04-04,STARBUCKS,-177.51,GBP,card,meals
+2025-01-18,WEWORK RENT,-1261.28,GBP,card,rent
+2025-03-18,OPEN API,-96.03,GBP,card,software
+2025-06-03,WEWORK RENT,-1994.6,GBP,card,rent
+2025-05-04,FACEBOOK ADS,-182.43,GBP,card,marketing
+2025-02-18,RYANAIR FLIGHT,-56.86,GBP,direct_debit,travel
+2025-04-14,STARBUCKS,-133.08,GBP,card,meals
+2025-02-20,RYANAIR FLIGHT,-153.18,GBP,card,travel
+2025-06-17,APPLE STORE,-11.15,GBP,card,equipment
+2025-02-17,NOTION LABS,-116.02,GBP,direct_debit,software
+2025-05-09,GOOGLE ADS,-184.34,GBP,transfer,marketing
+2025-05-30,PRET A MANGER,-142.21,GBP,transfer,meals
+2025-04-23,FACEBOOK ADS,-128.0,GBP,transfer,marketing
+2025-03-27,GOOGLE ADS,-63.69,GBP,direct_debit,marketing
+2025-03-28,GOOGLE ADS,-9.14,GBP,transfer,marketing
+2025-01-14,RYANAIR FLIGHT,-105.82,GBP,transfer,travel
+2025-01-25,PRET A MANGER,-185.86,GBP,direct_debit,meals
+2025-05-07,AMAZON,-28.85,GBP,transfer,equipment
+2025-01-16,GOOGLE ADS,-65.72,GBP,transfer,marketing
+2025-04-19,PRET A MANGER,-51.72,GBP,card,meals
+2025-01-20,WEWORK RENT,-1235.39,GBP,card,rent
+2025-03-16,GOOGLE ADS,-174.32,GBP,card,marketing
+2025-04-01,APPLE STORE,-198.97,GBP,card,equipment
+2025-03-02,FACEBOOK ADS,-11.96,GBP,direct_debit,marketing
+2025-06-05,AMAZON,-134.86,GBP,card,equipment
+2025-03-09,APPLE STORE,-68.83,GBP,direct_debit,equipment
+2025-02-05,STARBUCKS,-32.36,GBP,card,meals
+2025-06-25,AWS CLOUD,-111.22,GBP,transfer,software
+2025-06-29,GOOGLE ADS,-181.35,GBP,transfer,marketing
+2025-04-06,STARBUCKS,-6.04,GBP,card,meals
+2025-02-23,WEWORK RENT,-1299.64,GBP,direct_debit,rent
+2025-03-29,OFFICE RENT LTD,-805.89,GBP,direct_debit,rent
+2025-01-13,PRET A MANGER,-40.16,GBP,card,meals
+2025-05-06,TRAINLINE UK,-44.78,GBP,card,travel
+2025-06-07,STARBUCKS,-96.02,GBP,card,meals
+2025-01-05,APPLE STORE,-158.79,GBP,direct_debit,equipment
+2025-05-17,FACEBOOK ADS,-54.14,GBP,card,marketing
+2025-04-22,TRAINLINE UK,-66.77,GBP,card,travel
+2025-02-16,PRET A MANGER,-39.59,GBP,direct_debit,meals
+2025-06-04,STARBUCKS,-83.78,GBP,card,meals
+2025-05-08,STARBUCKS,-79.72,GBP,card,meals
+2025-04-13,OFFICE RENT LTD,-762.04,GBP,transfer,rent
+2025-03-09,OFFICE RENT LTD,-1197.53,GBP,direct_debit,rent
+2025-03-18,OFFICE RENT LTD,-1123.46,GBP,transfer,rent
+2025-01-29,APPLE STORE,-120.22,GBP,transfer,equipment
+2025-02-24,GOOGLE ADS,-152.59,GBP,direct_debit,marketing
+2025-02-19,GOOGLE ADS,-123.32,GBP,direct_debit,marketing
+2025-03-26,STARBUCKS,-56.83,GBP,transfer,meals
+2025-03-02,FACEBOOK ADS,-35.43,GBP,direct_debit,marketing
+2025-01-08,OPEN API,-84.16,GBP,transfer,software
+2025-05-31,FACEBOOK ADS,-117.55,GBP,card,marketing
+2025-05-30,PRET A MANGER,-152.14,GBP,card,meals
+2025-04-06,PRET A MANGER,-192.08,GBP,card,meals
+2025-04-21,APPLE STORE,-189.83,GBP,card,equipment
+2025-04-21,WEWORK RENT,-1493.42,GBP,card,rent
+2025-05-03,AMAZON,-12.98,GBP,transfer,equipment
+2025-01-03,RYANAIR FLIGHT,-106.34,GBP,transfer,travel
+2025-04-14,STARBUCKS,-6.38,GBP,direct_debit,meals
+2025-01-21,AMAZON,-158.75,GBP,direct_debit,equipment
+2025-05-17,GITHUB,-92.05,GBP,transfer,software
+2025-04-05,AMAZON,-85.1,GBP,transfer,equipment
+2025-01-13,AWS CLOUD,-122.25,GBP,direct_debit,software
+2025-04-06,GITHUB,-27.71,GBP,direct_debit,software
+2025-04-19,FACEBOOK ADS,-31.14,GBP,card,marketing
+2025-01-05,AMAZON,-78.21,GBP,direct_debit,equipment
+2025-04-24,APPLE STORE,-128.08,GBP,direct_debit,equipment
+2025-01-23,OFFICE RENT LTD,-1142.44,GBP,direct_debit,rent
+2025-02-05,STARBUCKS,-114.11,GBP,card,meals
+2025-04-05,GOOGLE ADS,-166.0,GBP,card,marketing
+2025-03-18,RYANAIR FLIGHT,-47.26,GBP,transfer,travel
+2025-01-26,NOTION LABS,-121.42,GBP,direct_debit,software
+2025-03-23,UBER TRIP,-50.52,GBP,transfer,travel
+2025-02-28,GOOGLE ADS,-26.7,GBP,transfer,marketing
+2025-04-11,WEWORK RENT,-1845.17,GBP,transfer,rent
+2025-01-28,AWS CLOUD,-26.01,GBP,transfer,software
+2025-02-27,PRET A MANGER,-137.8,GBP,direct_debit,meals
+2025-01-30,PRET A MANGER,-199.22,GBP,direct_debit,meals
+2025-03-18,TRAINLINE UK,-188.28,GBP,card,travel
+2025-04-30,GITHUB,-67.95,GBP,card,software
+2025-01-22,OFFICE RENT LTD,-1170.52,GBP,card,rent
+2025-01-07,FACEBOOK ADS,-47.35,GBP,direct_debit,marketing
+2025-05-21,FACEBOOK ADS,-81.78,GBP,direct_debit,marketing
+2025-06-12,TRAINLINE UK,-73.61,GBP,direct_debit,travel
+2025-01-05,AMAZON,-22.8,GBP,direct_debit,equipment
+2025-04-12,GOOGLE ADS,-12.26,GBP,transfer,marketing
+2025-02-05,STARBUCKS,-94.15,GBP,card,meals
+2025-02-05,APPLE STORE,-166.21,GBP,transfer,equipment
+2025-04-19,OFFICE RENT LTD,-1458.43,GBP,card,rent
+2025-01-21,OFFICE RENT LTD,-1258.97,GBP,direct_debit,rent
+2025-03-19,TRAINLINE UK,-111.05,GBP,direct_debit,travel
+2025-02-19,FACEBOOK ADS,-15.96,GBP,direct_debit,marketing
+2025-06-13,OFFICE RENT LTD,-739.78,GBP,transfer,rent
+2025-02-03,NOTION LABS,-183.7,GBP,direct_debit,software
+2025-02-08,WEWORK RENT,-1158.99,GBP,direct_debit,rent
+2025-04-18,GOOGLE ADS,-64.03,GBP,direct_debit,marketing
+2025-04-26,APPLE STORE,-162.38,GBP,transfer,equipment
+2025-04-27,OPEN API,-124.61,GBP,card,software
+2025-01-26,UBER TRIP,-111.14,GBP,card,travel
+2025-01-06,RYANAIR FLIGHT,-171.74,GBP,transfer,travel
+2025-02-05,GOOGLE ADS,-192.67,GBP,card,marketing
+2025-03-07,RYANAIR FLIGHT,-163.58,GBP,direct_debit,travel
+2025-06-12,WEWORK RENT,-1929.88,GBP,transfer,rent
+2025-06-04,APPLE STORE,-88.99,GBP,direct_debit,equipment
+2025-05-31,FACEBOOK ADS,-114.27,GBP,transfer,marketing
+2025-01-15,APPLE STORE,-75.42,GBP,card,equipment
+2025-03-08,FACEBOOK ADS,-185.56,GBP,transfer,marketing
+2025-04-22,GITHUB,-148.58,GBP,card,software
+2025-05-10,TRAINLINE UK,-168.04,GBP,transfer,travel
+2025-02-13,GITHUB,-174.74,GBP,transfer,software
+2025-05-29,WEWORK RENT,-568.89,GBP,card,rent
+2025-02-12,TRAINLINE UK,-42.27,GBP,direct_debit,travel
+2025-05-15,STARBUCKS,-67.3,GBP,direct_debit,meals
+2025-05-01,OFFICE RENT LTD,-1764.25,GBP,direct_debit,rent
+2025-01-16,TRAINLINE UK,-109.1,GBP,transfer,travel
+2025-05-17,TRAINLINE UK,-40.9,GBP,card,travel
+2025-01-13,AMAZON,-184.43,GBP,direct_debit,equipment
+2025-04-16,AMAZON,-55.91,GBP,direct_debit,equipment
+2025-01-02,GITHUB,-154.91,GBP,transfer,software
+2025-06-03,WEWORK RENT,-1881.26,GBP,transfer,rent
+2025-03-22,STARBUCKS,-124.15,GBP,direct_debit,meals
+2025-01-18,AMAZON,-187.92,GBP,card,equipment
+2025-01-14,UBER TRIP,-131.37,GBP,transfer,travel
+2025-06-19,OPEN API,-73.63,GBP,direct_debit,software
+2025-05-12,GITHUB,-31.49,GBP,transfer,software
+2025-03-08,WEWORK RENT,-1247.07,GBP,transfer,rent
+2025-06-09,STARBUCKS,-122.77,GBP,direct_debit,meals
+2025-06-06,RYANAIR FLIGHT,-119.89,GBP,direct_debit,travel
+2025-05-03,APPLE STORE,-143.84,GBP,transfer,equipment
+2025-02-28,PRET A MANGER,-111.8,GBP,direct_debit,meals
+2025-02-20,RYANAIR FLIGHT,-113.81,GBP,transfer,travel
+2025-03-30,RYANAIR FLIGHT,-122.68,GBP,transfer,travel
+2025-05-11,GOOGLE ADS,-102.22,GBP,card,marketing
+2025-03-05,GITHUB,-75.84,GBP,direct_debit,software
+2025-06-18,OPEN API,-130.8,GBP,transfer,software
+2025-05-26,APPLE STORE,-183.31,GBP,direct_debit,equipment
+2025-04-18,GOOGLE ADS,-12.19,GBP,direct_debit,marketing
+2025-01-25,STARBUCKS,-190.0,GBP,card,meals
+2025-02-03,TRAINLINE UK,-189.99,GBP,direct_debit,travel
+2025-04-01,WEWORK RENT,-1235.81,GBP,transfer,rent
+2025-05-06,FACEBOOK ADS,-48.91,GBP,card,marketing
+2025-03-24,TRAINLINE UK,-140.28,GBP,direct_debit,travel
+2025-03-26,OPEN API,-178.9,GBP,direct_debit,software
+2025-03-31,APPLE STORE,-144.9,GBP,card,equipment
+2025-05-09,STARBUCKS,-14.12,GBP,transfer,meals
+2025-04-26,PRET A MANGER,-68.2,GBP,direct_debit,meals
+2025-02-27,PRET A MANGER,-68.55,GBP,card,meals
+2025-03-16,GOOGLE ADS,-5.81,GBP,direct_debit,marketing
+2025-01-23,AMAZON,-83.57,GBP,transfer,equipment
+2025-02-15,STARBUCKS,-164.27,GBP,transfer,meals
+2025-06-09,OPEN API,-9.19,GBP,transfer,software
+2025-02-12,APPLE STORE,-30.57,GBP,direct_debit,equipment
+2025-04-13,OFFICE RENT LTD,-577.23,GBP,card,rent
+2025-03-07,GOOGLE ADS,-141.21,GBP,transfer,marketing
+2025-06-11,TRAINLINE UK,-14.12,GBP,card,travel
+2025-02-09,UBER TRIP,-30.09,GBP,direct_debit,travel
+2025-04-12,FACEBOOK ADS,-92.69,GBP,card,marketing
+2025-01-04,GOOGLE ADS,-113.57,GBP,transfer,marketing
+2025-03-26,PRET A MANGER,-184.31,GBP,direct_debit,meals
+2025-04-09,PRET A MANGER,-160.47,GBP,transfer,meals
+2025-05-10,GITHUB,-49.07,GBP,direct_debit,software
+2025-03-27,PRET A MANGER,-119.31,GBP,direct_debit,meals
+2025-03-06,TRAINLINE UK,-53.21,GBP,transfer,travel
+2025-03-01,GOOGLE ADS,-103.17,GBP,card,marketing
+2025-05-05,PRET A MANGER,-174.32,GBP,transfer,meals
+2025-03-05,STARBUCKS,-143.74,GBP,card,meals
+2025-02-25,GOOGLE ADS,-167.31,GBP,card,marketing
+2025-06-28,OPEN API,-143.89,GBP,card,software
+2025-06-23,FACEBOOK ADS,-48.96,GBP,direct_debit,marketing
+2025-06-06,OFFICE RENT LTD,-1452.17,GBP,card,rent
+2025-01-30,AMAZON,-182.72,GBP,direct_debit,equipment
+2025-02-10,OPEN API,-197.23,GBP,transfer,software
+2025-02-18,OPEN API,-178.55,GBP,direct_debit,software
+2025-01-20,WEWORK RENT,-778.04,GBP,card,rent
+2025-04-21,STARBUCKS,-108.11,GBP,direct_debit,meals
+2025-06-11,GITHUB,-99.77,GBP,transfer,software
+2025-06-04,OFFICE RENT LTD,-869.15,GBP,transfer,rent
+2025-06-22,FACEBOOK ADS,-176.42,GBP,transfer,marketing
+2025-04-04,PRET A MANGER,-189.88,GBP,direct_debit,meals
+2025-01-01,OFFICE RENT LTD,-1131.08,GBP,direct_debit,rent
+2025-04-18,UBER TRIP,-160.36,GBP,transfer,travel
+2025-06-15,AMAZON,-131.05,GBP,transfer,equipment
+2025-06-28,RYANAIR FLIGHT,-98.28,GBP,direct_debit,travel
+2025-06-13,FACEBOOK ADS,-56.39,GBP,transfer,marketing
+2025-01-01,UBER TRIP,-126.91,GBP,card,travel
+2025-02-12,TRAINLINE UK,-173.84,GBP,card,travel
+2025-04-02,FACEBOOK ADS,-58.74,GBP,transfer,marketing
+2025-03-17,APPLE STORE,-65.61,GBP,transfer,equipment
+2025-01-25,GOOGLE ADS,-190.35,GBP,transfer,marketing
+2025-02-01,APPLE STORE,-10.29,GBP,direct_debit,equipment
+2025-05-26,PRET A MANGER,-135.13,GBP,direct_debit,meals
+2025-04-24,PRET A MANGER,-50.5,GBP,direct_debit,meals
+2025-05-05,APPLE STORE,-54.49,GBP,card,equipment
+2025-02-07,TRAINLINE UK,-67.0,GBP,card,travel
+2025-06-06,WEWORK RENT,-710.82,GBP,direct_debit,rent
+2025-02-03,STARBUCKS,-87.93,GBP,card,meals
+2025-06-25,FACEBOOK ADS,-162.44,GBP,direct_debit,marketing
+2025-06-03,GOOGLE ADS,-22.99,GBP,card,marketing
+2025-06-18,APPLE STORE,-187.25,GBP,card,equipment
+2025-05-09,FACEBOOK ADS,-165.45,GBP,transfer,marketing
+2025-04-09,GOOGLE ADS,-172.47,GBP,transfer,marketing
+2025-01-23,FACEBOOK ADS,-157.2,GBP,transfer,marketing
+2025-04-28,OFFICE RENT LTD,-1226.99,GBP,card,rent
+2025-06-04,FACEBOOK ADS,-79.05,GBP,direct_debit,marketing
+2025-02-26,FACEBOOK ADS,-94.73,GBP,card,marketing
+2025-02-17,OPEN API,-51.51,GBP,direct_debit,software
+2025-03-03,NOTION LABS,-181.62,GBP,transfer,software
+2025-02-17,TRAINLINE UK,-95.88,GBP,direct_debit,travel
+2025-03-24,WEWORK RENT,-1762.36,GBP,card,rent
+2025-06-28,OFFICE RENT LTD,-1879.55,GBP,card,rent
+2025-04-10,PRET A MANGER,-22.49,GBP,transfer,meals
+2025-01-05,OFFICE RENT LTD,-1402.52,GBP,direct_debit,rent
+2025-03-15,NOTION LABS,-128.21,GBP,card,software
+2025-04-23,PRET A MANGER,-28.46,GBP,direct_debit,meals
+2025-05-07,OPEN API,-36.71,GBP,direct_debit,software
+2025-06-30,PRET A MANGER,-51.95,GBP,direct_debit,meals
+2025-06-27,FACEBOOK ADS,-84.16,GBP,direct_debit,marketing
+2025-06-16,AMAZON,-194.47,GBP,card,equipment
+2025-04-18,WEWORK RENT,-642.43,GBP,transfer,rent
+2025-03-27,AWS CLOUD,-36.9,GBP,transfer,software
+2025-05-06,OFFICE RENT LTD,-839.79,GBP,transfer,rent
+2025-01-02,UBER TRIP,-58.08,GBP,card,travel
+2025-02-13,STARBUCKS,-186.48,GBP,card,meals
+2025-03-24,FACEBOOK ADS,-33.95,GBP,transfer,marketing
+2025-01-29,WEWORK RENT,-1668.55,GBP,card,rent
+2025-01-23,TRAINLINE UK,-165.33,GBP,card,travel
+2025-03-16,UBER TRIP,-89.89,GBP,transfer,travel
+2025-03-29,GOOGLE ADS,-95.06,GBP,direct_debit,marketing
+2025-01-19,RYANAIR FLIGHT,-170.18,GBP,transfer,travel
+2025-05-14,UBER TRIP,-11.38,GBP,card,travel
+2025-01-28,UBER TRIP,-49.12,GBP,direct_debit,travel
+2025-05-03,AWS CLOUD,-61.84,GBP,direct_debit,software
+2025-03-10,GITHUB,-170.13,GBP,card,software
+2025-02-26,STARBUCKS,-103.74,GBP,transfer,meals
+2025-03-26,WEWORK RENT,-1435.7,GBP,direct_debit,rent
+2025-04-11,FACEBOOK ADS,-117.18,GBP,card,marketing
+2025-05-22,AWS CLOUD,-13.43,GBP,transfer,software
+2025-05-21,FACEBOOK ADS,-14.66,GBP,card,marketing
+2025-05-14,APPLE STORE,-175.71,GBP,direct_debit,equipment
+2025-02-14,GOOGLE ADS,-27.48,GBP,direct_debit,marketing
+2025-06-29,APPLE STORE,-161.43,GBP,transfer,equipment
+2025-03-03,GITHUB,-25.03,GBP,transfer,software
+2025-01-15,UBER TRIP,-17.67,GBP,transfer,travel
+2025-03-03,WEWORK RENT,-1677.05,GBP,transfer,rent
+2025-02-16,FACEBOOK ADS,-40.32,GBP,transfer,marketing
+2025-06-17,OPEN API,-83.32,GBP,card,software
+2025-06-05,PRET A MANGER,-184.73,GBP,direct_debit,meals
+2025-01-11,WEWORK RENT,-704.83,GBP,card,rent
+2025-05-24,UBER TRIP,-89.96,GBP,transfer,travel
+2025-02-03,GOOGLE ADS,-54.33,GBP,direct_debit,marketing
+2025-05-04,STARBUCKS,-110.44,GBP,direct_debit,meals
+2025-01-12,OPEN API,-80.63,GBP,transfer,software
+2025-03-01,AWS CLOUD,-133.23,GBP,transfer,software
+2025-01-05,TRAINLINE UK,-22.66,GBP,transfer,travel
+2025-04-06,PRET A MANGER,-54.41,GBP,card,meals
+2025-01-21,GOOGLE ADS,-5.85,GBP,card,marketing
+2025-05-02,FACEBOOK ADS,-46.49,GBP,card,marketing
+2025-03-08,OFFICE RENT LTD,-1839.6,GBP,direct_debit,rent
+2025-03-25,AMAZON,-50.49,GBP,direct_debit,equipment
+2025-03-13,PRET A MANGER,-146.48,GBP,card,meals
+2025-01-14,UBER TRIP,-5.05,GBP,card,travel
+2025-05-25,WEWORK RENT,-916.99,GBP,card,rent
+2025-03-10,STARBUCKS,-5.72,GBP,direct_debit,meals
+2025-04-02,APPLE STORE,-161.95,GBP,card,equipment
+2025-03-27,OFFICE RENT LTD,-814.48,GBP,transfer,rent
+2025-01-10,OPEN API,-166.87,GBP,direct_debit,software
+2025-03-05,STARBUCKS,-82.32,GBP,direct_debit,meals
+2025-01-30,GOOGLE ADS,-110.44,GBP,direct_debit,marketing
+2025-01-26,GITHUB,-22.73,GBP,card,software
+2025-03-06,OFFICE RENT LTD,-1162.77,GBP,transfer,rent
+2025-06-28,NOTION LABS,-25.15,GBP,direct_debit,software
+2025-06-16,APPLE STORE,-67.57,GBP,direct_debit,equipment
+2025-01-23,STARBUCKS,-60.91,GBP,direct_debit,meals
+2025-01-12,AWS CLOUD,-140.76,GBP,direct_debit,software
+2025-06-29,UBER TRIP,-14.06,GBP,direct_debit,travel
+2025-04-28,OFFICE RENT LTD,-1890.75,GBP,direct_debit,rent
+2025-06-05,AMAZON,-199.07,GBP,card,equipment
+2025-05-28,UBER TRIP,-43.05,GBP,direct_debit,travel
+2025-06-04,NOTION LABS,-99.41,GBP,card,software
+2025-03-22,STARBUCKS,-19.11,GBP,transfer,meals
+2025-01-22,PRET A MANGER,-65.52,GBP,transfer,meals
+2025-01-02,AMAZON,-182.2,GBP,direct_debit,equipment
+2025-03-25,APPLE STORE,-79.81,GBP,transfer,equipment
+2025-03-23,GITHUB,-111.5,GBP,card,software
+2025-01-24,OFFICE RENT LTD,-797.46,GBP,transfer,rent
+2025-06-25,APPLE STORE,-21.37,GBP,card,equipment
+2025-05-03,APPLE STORE,-8.26,GBP,transfer,equipment
+2025-03-29,AMAZON,-36.88,GBP,card,equipment
+2025-01-31,OFFICE RENT LTD,-1015.05,GBP,card,rent
+2025-02-05,AMAZON,-14.97,GBP,card,equipment
+2025-05-28,STARBUCKS,-40.73,GBP,card,meals
+2025-02-18,STARBUCKS,-102.26,GBP,transfer,meals
+2025-03-21,GOOGLE ADS,-18.6,GBP,transfer,marketing
+2025-02-19,PRET A MANGER,-152.38,GBP,direct_debit,meals
+2025-06-08,STARBUCKS,-136.52,GBP,transfer,meals
+2025-02-17,TRAINLINE UK,-81.91,GBP,transfer,travel
+2025-01-08,RYANAIR FLIGHT,-194.66,GBP,transfer,travel
+2025-06-26,NOTION LABS,-95.25,GBP,direct_debit,software
+2025-05-02,APPLE STORE,-184.31,GBP,transfer,equipment
+2025-05-02,WEWORK RENT,-1766.12,GBP,transfer,rent
+2025-02-14,UBER TRIP,-54.96,GBP,card,travel
+2025-03-27,UBER TRIP,-142.21,GBP,transfer,travel
+2025-02-12,FACEBOOK ADS,-96.28,GBP,transfer,marketing
+2025-01-04,OFFICE RENT LTD,-1329.76,GBP,card,rent
+2025-06-30,AWS CLOUD,-95.56,GBP,transfer,software
+2025-04-04,AMAZON,-33.53,GBP,direct_debit,equipment
+2025-05-09,OPEN API,-135.24,GBP,transfer,software
+2025-03-30,AMAZON,-135.06,GBP,direct_debit,equipment
+2025-02-15,OFFICE RENT LTD,-1213.48,GBP,transfer,rent
+2025-01-09,OFFICE RENT LTD,-884.74,GBP,transfer,rent
+2025-01-26,OPEN API,-167.01,GBP,card,software
+2025-01-21,GOOGLE ADS,-63.18,GBP,direct_debit,marketing
+2025-05-01,WEWORK RENT,-690.28,GBP,direct_debit,rent
+2025-01-23,PRET A MANGER,-196.84,GBP,transfer,meals
+2025-02-03,OFFICE RENT LTD,-1479.27,GBP,direct_debit,rent
+2025-03-17,STARBUCKS,-148.74,GBP,card,meals
+2025-04-26,GITHUB,-105.45,GBP,transfer,software
+2025-01-20,FACEBOOK ADS,-87.93,GBP,transfer,marketing
+2025-03-12,TRAINLINE UK,-119.07,GBP,transfer,travel
+2025-02-05,GITHUB,-174.69,GBP,direct_debit,software
+2025-03-06,OFFICE RENT LTD,-951.17,GBP,transfer,rent
+2025-04-15,GITHUB,-25.82,GBP,direct_debit,software
+2025-01-07,NOTION LABS,-186.5,GBP,card,software
+2025-05-13,STARBUCKS,-68.18,GBP,transfer,meals
+2025-01-03,FACEBOOK ADS,-21.19,GBP,transfer,marketing
+2025-06-07,AMAZON,-150.21,GBP,transfer,equipment
+2025-03-17,OPEN API,-144.55,GBP,card,software
+2025-03-25,FACEBOOK ADS,-73.72,GBP,card,marketing
+2025-06-24,AWS CLOUD,-192.77,GBP,card,software
+2025-02-19,OFFICE RENT LTD,-784.63,GBP,card,rent
+2025-06-30,AMAZON,-125.92,GBP,card,equipment
+2025-04-17,STARBUCKS,-157.9,GBP,direct_debit,meals
+2025-06-18,AMAZON,-162.91,GBP,card,equipment
+2025-05-23,TRAINLINE UK,-189.73,GBP,card,travel
+2025-05-28,WEWORK RENT,-1078.18,GBP,direct_debit,rent
+2025-04-19,OFFICE RENT LTD,-1031.17,GBP,transfer,rent
+2025-04-15,GOOGLE ADS,-175.85,GBP,transfer,marketing
+2025-06-23,WEWORK RENT,-692.52,GBP,transfer,rent
+2025-05-17,AMAZON,-144.15,GBP,card,equipment
+2025-04-20,RYANAIR FLIGHT,-106.86,GBP,card,travel
+2025-03-28,OFFICE RENT LTD,-1217.15,GBP,transfer,rent
+2025-01-18,APPLE STORE,-24.35,GBP,transfer,equipment
+2025-04-30,APPLE STORE,-188.75,GBP,transfer,equipment
+2025-06-04,STARBUCKS,-64.11,GBP,card,meals
+2025-05-06,TRAINLINE UK,-158.18,GBP,direct_debit,travel
+2025-06-19,STARBUCKS,-116.87,GBP,direct_debit,meals
+2025-06-23,APPLE STORE,-101.22,GBP,card,equipment
+2025-06-23,GOOGLE ADS,-118.99,GBP,card,marketing
+2025-03-12,GOOGLE ADS,-130.8,GBP,direct_debit,marketing
+2025-05-09,UBER TRIP,-168.45,GBP,transfer,travel
+2025-03-24,NOTION LABS,-99.38,GBP,transfer,software
+2025-06-30,RYANAIR FLIGHT,-19.73,GBP,direct_debit,travel
+2025-01-10,STARBUCKS,-121.8,GBP,card,meals
+2025-02-01,GOOGLE ADS,-43.15,GBP,direct_debit,marketing
+2025-01-20,AMAZON,-147.57,GBP,card,equipment
+2025-03-29,UBER TRIP,-67.05,GBP,direct_debit,travel
+2025-06-28,WEWORK RENT,-1738.66,GBP,transfer,rent
+2025-05-02,GOOGLE ADS,-183.55,GBP,transfer,marketing
+2025-03-24,GITHUB,-132.96,GBP,direct_debit,software
+2025-06-10,AMAZON,-120.05,GBP,transfer,equipment
+2025-03-10,GITHUB,-175.35,GBP,direct_debit,software
+2025-03-27,WEWORK RENT,-1415.69,GBP,card,rent
+2025-03-01,AMAZON,-43.6,GBP,transfer,equipment
+2025-03-04,PRET A MANGER,-93.6,GBP,direct_debit,meals
+2025-04-19,RYANAIR FLIGHT,-94.5,GBP,transfer,travel
+2025-06-24,GITHUB,-98.14,GBP,direct_debit,software
+2025-02-12,WEWORK RENT,-857.41,GBP,transfer,rent
+2025-04-04,APPLE STORE,-109.29,GBP,direct_debit,equipment
+2025-04-26,PRET A MANGER,-124.9,GBP,card,meals
+2025-03-09,UBER TRIP,-8.22,GBP,transfer,travel
+2025-02-16,GOOGLE ADS,-70.28,GBP,card,marketing
+2025-04-20,TRAINLINE UK,-75.97,GBP,direct_debit,travel
+2025-04-03,AMAZON,-178.89,GBP,transfer,equipment
+2025-04-18,NOTION LABS,-194.82,GBP,card,software
+2025-03-07,AWS CLOUD,-174.75,GBP,direct_debit,software
+2025-04-26,GITHUB,-145.62,GBP,card,software
+2025-03-17,OFFICE RENT LTD,-1006.85,GBP,direct_debit,rent
+2025-06-10,GOOGLE ADS,-48.57,GBP,transfer,marketing
+2025-01-21,WEWORK RENT,-1951.32,GBP,transfer,rent
+2025-01-05,TRAINLINE UK,-92.74,GBP,direct_debit,travel
+2025-02-15,STARBUCKS,-143.09,GBP,direct_debit,meals
+2025-05-06,STARBUCKS,-110.76,GBP,transfer,meals
+2025-05-24,WEWORK RENT,-548.86,GBP,card,rent
+2025-01-05,FACEBOOK ADS,-34.89,GBP,card,marketing
+2025-05-17,APPLE STORE,-186.94,GBP,direct_debit,equipment
+2025-06-26,OFFICE RENT LTD,-1398.5,GBP,transfer,rent
+2025-01-21,PRET A MANGER,-151.12,GBP,direct_debit,meals
+2025-06-11,WEWORK RENT,-973.25,GBP,transfer,rent
+2025-06-23,PRET A MANGER,-136.73,GBP,transfer,meals
+2025-05-07,APPLE STORE,-65.64,GBP,transfer,equipment
+2025-03-15,NOTION LABS,-94.93,GBP,direct_debit,software
+2025-02-03,AWS CLOUD,-38.08,GBP,card,software
+2025-03-29,OFFICE RENT LTD,-1078.5,GBP,direct_debit,rent
+2025-01-08,FACEBOOK ADS,-148.66,GBP,card,marketing
+2025-05-23,OFFICE RENT LTD,-1697.65,GBP,direct_debit,rent
+2025-06-25,FACEBOOK ADS,-66.51,GBP,transfer,marketing
+2025-03-21,GOOGLE ADS,-196.16,GBP,card,marketing
+2025-03-02,FACEBOOK ADS,-118.87,GBP,direct_debit,marketing
+2025-05-15,GOOGLE ADS,-104.31,GBP,card,marketing
+2025-05-27,STARBUCKS,-158.11,GBP,direct_debit,meals
+2025-05-02,FACEBOOK ADS,-82.08,GBP,transfer,marketing
+2025-05-07,RYANAIR FLIGHT,-27.66,GBP,transfer,travel
+2025-05-16,UBER TRIP,-192.42,GBP,direct_debit,travel
+2025-02-27,OFFICE RENT LTD,-1189.21,GBP,direct_debit,rent
+2025-01-04,AMAZON,-12.33,GBP,transfer,equipment
+2025-04-26,WEWORK RENT,-664.53,GBP,direct_debit,rent
+2025-04-12,OPEN API,-163.29,GBP,transfer,software
+2025-01-27,AMAZON,-98.32,GBP,direct_debit,equipment
+2025-04-20,OFFICE RENT LTD,-1281.9,GBP,direct_debit,rent
+2025-04-01,PRET A MANGER,-101.06,GBP,direct_debit,meals
+2025-06-27,PRET A MANGER,-17.25,GBP,card,meals
+2025-01-29,PRET A MANGER,-11.9,GBP,direct_debit,meals
+2025-01-15,RYANAIR FLIGHT,-153.71,GBP,direct_debit,travel
+2025-01-31,AWS CLOUD,-115.17,GBP,transfer,software
+2025-05-22,WEWORK RENT,-969.53,GBP,direct_debit,rent
+2025-01-07,OFFICE RENT LTD,-1744.72,GBP,card,rent
+2025-02-11,OFFICE RENT LTD,-593.85,GBP,card,rent
+2025-03-25,UBER TRIP,-109.81,GBP,transfer,travel
+2025-06-30,PRET A MANGER,-92.98,GBP,transfer,meals
+2025-04-03,GOOGLE ADS,-182.42,GBP,card,marketing
+2025-02-11,APPLE STORE,-179.19,GBP,transfer,equipment
+2025-05-29,AMAZON,-163.25,GBP,direct_debit,equipment
+2025-03-25,AMAZON,-146.27,GBP,card,equipment
+2025-05-20,WEWORK RENT,-679.16,GBP,direct_debit,rent
+2025-02-28,STARBUCKS,-117.41,GBP,transfer,meals
+2025-02-16,AMAZON,-180.56,GBP,direct_debit,equipment
+2025-05-20,PRET A MANGER,-194.45,GBP,card,meals
+2025-04-17,UBER TRIP,-88.36,GBP,transfer,travel
+2025-06-22,PRET A MANGER,-196.11,GBP,card,meals
+2025-03-28,AMAZON,-57.88,GBP,direct_debit,equipment
+2025-04-27,APPLE STORE,-46.83,GBP,card,equipment
+2025-02-07,STARBUCKS,-79.33,GBP,card,meals
+2025-02-03,AMAZON,-177.15,GBP,card,equipment
+2025-02-18,GOOGLE ADS,-158.07,GBP,transfer,marketing
+2025-04-01,OFFICE RENT LTD,-1986.29,GBP,direct_debit,rent
+2025-01-14,RYANAIR FLIGHT,-80.8,GBP,transfer,travel
+2025-03-18,GITHUB,-139.46,GBP,card,software
+2025-06-28,NOTION LABS,-21.13,GBP,transfer,software
+2025-03-03,TRAINLINE UK,-112.97,GBP,card,travel
+2025-06-01,APPLE STORE,-26.98,GBP,transfer,equipment
+2025-04-23,AMAZON,-152.67,GBP,card,equipment
+2025-03-08,TRAINLINE UK,-70.18,GBP,direct_debit,travel
+2025-03-15,NOTION LABS,-51.69,GBP,direct_debit,software
+2025-05-11,PRET A MANGER,-108.67,GBP,transfer,meals
+2025-02-13,FACEBOOK ADS,-186.84,GBP,direct_debit,marketing
+2025-04-29,APPLE STORE,-144.11,GBP,transfer,equipment
+2025-02-02,NOTION LABS,-189.46,GBP,card,software
+2025-03-28,PRET A MANGER,-177.51,GBP,direct_debit,meals
+2025-04-07,AMAZON,-104.15,GBP,direct_debit,equipment
+2025-05-16,OPEN API,-72.9,GBP,card,software
+2025-04-23,FACEBOOK ADS,-76.18,GBP,transfer,marketing
+2025-05-11,OFFICE RENT LTD,-1437.45,GBP,transfer,rent
+2025-06-23,FACEBOOK ADS,-92.49,GBP,transfer,marketing
+2025-02-08,OPEN API,-114.98,GBP,card,software
+2025-03-17,OFFICE RENT LTD,-847.99,GBP,card,rent
+2025-04-28,GOOGLE ADS,-30.38,GBP,direct_debit,marketing
+2025-03-10,APPLE STORE,-61.22,GBP,direct_debit,equipment
+2025-06-18,STARBUCKS,-41.73,GBP,card,meals
+2025-04-11,AMAZON,-58.48,GBP,direct_debit,equipment
+2025-06-26,PRET A MANGER,-77.54,GBP,direct_debit,meals
+2025-03-15,GITHUB,-88.54,GBP,direct_debit,software
+2025-01-25,GOOGLE ADS,-6.74,GBP,card,marketing
+2025-05-24,RYANAIR FLIGHT,-105.15,GBP,card,travel
+2025-05-18,WEWORK RENT,-826.5,GBP,transfer,rent
+2025-01-05,UBER TRIP,-108.0,GBP,card,travel
+2025-04-21,FACEBOOK ADS,-55.72,GBP,transfer,marketing
+2025-06-26,RYANAIR FLIGHT,-117.99,GBP,card,travel
+2025-04-08,AMAZON,-109.59,GBP,transfer,equipment
+2025-03-29,TRAINLINE UK,-63.81,GBP,card,travel
+2025-05-16,NOTION LABS,-184.05,GBP,transfer,software
+2025-02-28,RYANAIR FLIGHT,-49.62,GBP,direct_debit,travel
+2025-05-05,UBER TRIP,-50.23,GBP,direct_debit,travel
+2025-06-15,APPLE STORE,-145.47,GBP,transfer,equipment
+2025-05-03,FACEBOOK ADS,-40.9,GBP,card,marketing
+2025-02-10,UBER TRIP,-189.34,GBP,card,travel
+2025-01-02,GOOGLE ADS,-38.72,GBP,transfer,marketing
+2025-06-01,STARBUCKS,-56.26,GBP,transfer,meals
+2025-06-18,FACEBOOK ADS,-13.07,GBP,direct_debit,marketing
+2025-06-12,GITHUB,-168.17,GBP,transfer,software
+2025-02-24,OPEN API,-197.81,GBP,card,software
+2025-05-29,GOOGLE ADS,-129.31,GBP,card,marketing
+2025-05-04,NOTION LABS,-121.58,GBP,direct_debit,software
+2025-03-21,FACEBOOK ADS,-57.38,GBP,transfer,marketing
+2025-06-30,TRAINLINE UK,-183.85,GBP,transfer,travel
+2025-03-04,NOTION LABS,-44.59,GBP,direct_debit,software
+2025-01-30,AMAZON,-28.72,GBP,direct_debit,equipment
+2025-05-01,APPLE STORE,-166.79,GBP,direct_debit,equipment
+2025-03-07,PRET A MANGER,-76.37,GBP,transfer,meals
+2025-04-16,APPLE STORE,-88.47,GBP,transfer,equipment
+2025-03-28,PRET A MANGER,-82.11,GBP,transfer,meals
+2025-01-01,RYANAIR FLIGHT,-142.06,GBP,direct_debit,travel
+2025-06-26,GOOGLE ADS,-25.05,GBP,direct_debit,marketing
+2025-02-28,TRAINLINE UK,-116.8,GBP,direct_debit,travel
+2025-02-02,GOOGLE ADS,-153.95,GBP,card,marketing
+2025-04-24,OFFICE RENT LTD,-1834.43,GBP,card,rent
+2025-03-03,OPEN API,-164.47,GBP,transfer,software
+2025-02-05,APPLE STORE,-40.99,GBP,card,equipment
+2025-02-02,APPLE STORE,-45.12,GBP,transfer,equipment
+2025-03-08,PRET A MANGER,-88.82,GBP,card,meals
+2025-06-02,NOTION LABS,-58.3,GBP,direct_debit,software
+2025-03-15,PRET A MANGER,-12.13,GBP,transfer,meals
+2025-01-07,WEWORK RENT,-1872.0,GBP,card,rent
+2025-03-05,STARBUCKS,-184.8,GBP,direct_debit,meals
+2025-03-08,AMAZON,-100.15,GBP,transfer,equipment
+2025-03-30,STARBUCKS,-87.58,GBP,transfer,meals
+2025-02-18,UBER TRIP,-158.55,GBP,direct_debit,travel
+2025-04-22,FACEBOOK ADS,-44.63,GBP,card,marketing
+2025-04-22,WEWORK RENT,-1077.99,GBP,card,rent
+2025-03-31,WEWORK RENT,-1787.37,GBP,direct_debit,rent
+2025-04-12,GOOGLE ADS,-177.8,GBP,direct_debit,marketing
+2025-04-02,STARBUCKS,-93.25,GBP,direct_debit,meals
+2025-06-06,AMAZON,-111.56,GBP,card,equipment
+2025-01-02,AWS CLOUD,-47.93,GBP,card,software
+2025-01-09,WEWORK RENT,-1437.61,GBP,direct_debit,rent
+2025-03-27,AMAZON,-44.31,GBP,direct_debit,equipment
+2025-06-05,UBER TRIP,-193.16,GBP,card,travel
+2025-03-15,WEWORK RENT,-1587.51,GBP,card,rent
+2025-05-21,APPLE STORE,-26.47,GBP,card,equipment
+2025-01-29,STARBUCKS,-43.29,GBP,card,meals
+2025-03-02,OFFICE RENT LTD,-1545.25,GBP,card,rent
+2025-05-28,GITHUB,-169.19,GBP,transfer,software
+2025-03-11,PRET A MANGER,-58.73,GBP,direct_debit,meals
+2025-05-07,GOOGLE ADS,-186.75,GBP,direct_debit,marketing
+2025-02-02,STARBUCKS,-88.25,GBP,direct_debit,meals
+2025-02-18,TRAINLINE UK,-172.04,GBP,card,travel
+2025-05-18,RYANAIR FLIGHT,-13.52,GBP,card,travel
+2025-05-05,WEWORK RENT,-1306.49,GBP,transfer,rent
+2025-05-27,OPEN API,-55.01,GBP,card,software
+2025-01-02,GITHUB,-51.75,GBP,card,software
+2025-05-14,APPLE STORE,-21.36,GBP,direct_debit,equipment
+2025-01-25,PRET A MANGER,-77.74,GBP,transfer,meals
+2025-03-08,TRAINLINE UK,-15.02,GBP,direct_debit,travel
+2025-01-12,UBER TRIP,-23.96,GBP,direct_debit,travel
+2025-06-21,OFFICE RENT LTD,-878.53,GBP,card,rent
+2025-03-30,OFFICE RENT LTD,-1348.81,GBP,card,rent
+2025-03-22,AMAZON,-80.57,GBP,card,equipment
+2025-06-17,AMAZON,-26.89,GBP,direct_debit,equipment
+2025-05-05,OFFICE RENT LTD,-1263.86,GBP,card,rent
+2025-01-18,NOTION LABS,-48.52,GBP,direct_debit,software
+2025-04-23,TRAINLINE UK,-9.84,GBP,transfer,travel
+2025-02-26,PRET A MANGER,-150.59,GBP,card,meals
+2025-01-07,STARBUCKS,-108.14,GBP,direct_debit,meals
+2025-02-22,NOTION LABS,-191.89,GBP,transfer,software
+2025-04-19,WEWORK RENT,-1661.12,GBP,direct_debit,rent
+2025-06-05,WEWORK RENT,-829.85,GBP,card,rent
+2025-06-01,GITHUB,-185.71,GBP,direct_debit,software
+2025-03-08,TRAINLINE UK,-153.03,GBP,card,travel
+2025-01-30,OFFICE RENT LTD,-904.68,GBP,direct_debit,rent
+2025-03-10,TRAINLINE UK,-85.53,GBP,transfer,travel
+2025-02-15,WEWORK RENT,-829.51,GBP,direct_debit,rent
+2025-02-28,GITHUB,-47.82,GBP,direct_debit,software
+2025-02-21,WEWORK RENT,-1203.76,GBP,direct_debit,rent
+2025-04-01,AWS CLOUD,-85.8,GBP,direct_debit,software
+2025-02-28,NOTION LABS,-188.54,GBP,direct_debit,software
+2025-02-22,GOOGLE ADS,-175.81,GBP,card,marketing
+2025-05-25,AWS CLOUD,-158.53,GBP,transfer,software
+2025-02-02,GITHUB,-124.75,GBP,card,software
+2025-01-24,STARBUCKS,-79.48,GBP,direct_debit,meals
+2025-05-03,RYANAIR FLIGHT,-63.16,GBP,direct_debit,travel
+2025-02-01,FACEBOOK ADS,-199.22,GBP,direct_debit,marketing
+2025-02-14,PRET A MANGER,-141.3,GBP,direct_debit,meals
+2025-05-11,OFFICE RENT LTD,-1107.89,GBP,card,rent
+2025-06-22,STARBUCKS,-79.87,GBP,transfer,meals
+2025-05-16,PRET A MANGER,-142.76,GBP,direct_debit,meals
+2025-05-14,GITHUB,-68.6,GBP,transfer,software
+2025-05-29,AMAZON,-197.16,GBP,direct_debit,equipment
+2025-02-03,OFFICE RENT LTD,-1224.45,GBP,card,rent
+2025-05-17,OFFICE RENT LTD,-1396.65,GBP,transfer,rent
+2025-05-28,FACEBOOK ADS,-68.86,GBP,transfer,marketing
+2025-04-01,APPLE STORE,-147.62,GBP,direct_debit,equipment
+2025-04-25,GOOGLE ADS,-151.18,GBP,card,marketing
+2025-06-25,OPEN API,-164.81,GBP,transfer,software
+2025-03-08,STARBUCKS,-136.59,GBP,card,meals
+2025-01-13,OFFICE RENT LTD,-1005.09,GBP,direct_debit,rent
+2025-03-25,STARBUCKS,-163.6,GBP,card,meals
+2025-03-18,AMAZON,-150.32,GBP,transfer,equipment
+2025-03-14,GITHUB,-143.68,GBP,direct_debit,software
+2025-01-30,OFFICE RENT LTD,-716.72,GBP,card,rent
+2025-04-11,WEWORK RENT,-840.37,GBP,direct_debit,rent
+2025-05-13,TRAINLINE UK,-43.66,GBP,transfer,travel
+2025-03-24,UBER TRIP,-95.94,GBP,card,travel
+2025-05-31,STARBUCKS,-85.98,GBP,transfer,meals
+2025-06-12,GITHUB,-125.71,GBP,direct_debit,software
+2025-02-09,APPLE STORE,-11.04,GBP,direct_debit,equipment
+2025-02-28,PRET A MANGER,-94.52,GBP,transfer,meals
+2025-02-12,PRET A MANGER,-75.87,GBP,direct_debit,meals
+2025-01-17,WEWORK RENT,-658.29,GBP,transfer,rent
+2025-03-28,OFFICE RENT LTD,-1564.64,GBP,card,rent
+2025-01-28,OFFICE RENT LTD,-1288.98,GBP,card,rent
+2025-05-17,GOOGLE ADS,-187.22,GBP,direct_debit,marketing
+2025-03-27,PRET A MANGER,-113.7,GBP,transfer,meals
+2025-03-07,APPLE STORE,-39.78,GBP,card,equipment
+2025-03-01,GITHUB,-65.85,GBP,direct_debit,software
+2025-04-23,APPLE STORE,-69.66,GBP,direct_debit,equipment
+2025-02-12,PRET A MANGER,-196.88,GBP,transfer,meals
+2025-02-19,OFFICE RENT LTD,-506.72,GBP,direct_debit,rent
+2025-01-01,GOOGLE ADS,-27.93,GBP,card,marketing
+2025-05-26,GOOGLE ADS,-92.8,GBP,card,marketing
+2025-06-27,GOOGLE ADS,-188.31,GBP,card,marketing
+2025-04-15,PRET A MANGER,-117.65,GBP,transfer,meals
+2025-02-22,PRET A MANGER,-138.2,GBP,transfer,meals
+2025-02-03,AWS CLOUD,-64.16,GBP,card,software
+2025-04-30,APPLE STORE,-52.22,GBP,direct_debit,equipment
+2025-05-30,NOTION LABS,-148.42,GBP,card,software
+2025-03-10,STARBUCKS,-61.49,GBP,card,meals
+2025-06-26,GITHUB,-82.94,GBP,card,software
+2025-06-19,APPLE STORE,-52.23,GBP,direct_debit,equipment
+2025-06-23,WEWORK RENT,-746.54,GBP,card,rent
+2025-05-17,GOOGLE ADS,-134.37,GBP,transfer,marketing
+2025-03-07,APPLE STORE,-126.8,GBP,transfer,equipment
+2025-02-10,STARBUCKS,-55.66,GBP,transfer,meals
+2025-01-19,STARBUCKS,-7.86,GBP,direct_debit,meals
+2025-02-28,STARBUCKS,-91.55,GBP,transfer,meals
+2025-06-08,GOOGLE ADS,-158.49,GBP,transfer,marketing
+2025-03-30,WEWORK RENT,-1263.52,GBP,direct_debit,rent
+2025-03-14,OFFICE RENT LTD,-502.37,GBP,direct_debit,rent
+2025-06-29,TRAINLINE UK,-156.06,GBP,direct_debit,travel
+2025-02-08,WEWORK RENT,-1046.64,GBP,card,rent
+2025-05-18,OFFICE RENT LTD,-1598.7,GBP,transfer,rent
+2025-02-22,GOOGLE ADS,-50.68,GBP,transfer,marketing
+2025-02-19,PRET A MANGER,-9.2,GBP,direct_debit,meals
+2025-06-03,TRAINLINE UK,-184.18,GBP,direct_debit,travel
+2025-03-02,AMAZON,-199.09,GBP,card,equipment
+2025-01-23,RYANAIR FLIGHT,-134.56,GBP,transfer,travel
+2025-06-05,OPEN API,-67.52,GBP,direct_debit,software
+2025-01-25,PRET A MANGER,-132.59,GBP,transfer,meals
+2025-03-19,GITHUB,-61.63,GBP,card,software
+2025-06-24,GOOGLE ADS,-78.88,GBP,direct_debit,marketing
+2025-01-07,TRAINLINE UK,-186.83,GBP,direct_debit,travel
+2025-03-18,STARBUCKS,-141.0,GBP,card,meals
+2025-02-01,FACEBOOK ADS,-69.1,GBP,transfer,marketing
+2025-06-05,APPLE STORE,-175.28,GBP,direct_debit,equipment
+2025-02-19,TRAINLINE UK,-162.78,GBP,transfer,travel
+2025-03-13,RYANAIR FLIGHT,-104.36,GBP,direct_debit,travel
+2025-03-03,TRAINLINE UK,-108.87,GBP,direct_debit,travel
+2025-01-16,OFFICE RENT LTD,-857.82,GBP,card,rent
+2025-03-31,TRAINLINE UK,-5.76,GBP,transfer,travel
+2025-03-21,FACEBOOK ADS,-194.55,GBP,transfer,marketing
+2025-04-22,GOOGLE ADS,-78.21,GBP,transfer,marketing
+2025-02-13,AMAZON,-78.18,GBP,transfer,equipment
+2025-05-11,PRET A MANGER,-97.63,GBP,card,meals
+2025-01-07,AMAZON,-162.54,GBP,card,equipment
+2025-02-07,OFFICE RENT LTD,-1279.55,GBP,transfer,rent
+2025-05-31,UBER TRIP,-65.88,GBP,transfer,travel
+2025-01-05,AMAZON,-152.58,GBP,card,equipment
+2025-03-02,PRET A MANGER,-104.18,GBP,card,meals
+2025-05-01,WEWORK RENT,-1863.02,GBP,direct_debit,rent
+2025-04-27,GOOGLE ADS,-28.73,GBP,card,marketing
+2025-05-26,OPEN API,-138.85,GBP,card,software
+2025-05-01,AMAZON,-8.92,GBP,card,equipment
+2025-06-13,PRET A MANGER,-169.35,GBP,card,meals
+2025-06-14,GITHUB,-187.01,GBP,direct_debit,software
+2025-01-08,OFFICE RENT LTD,-1322.63,GBP,direct_debit,rent
+2025-01-08,RYANAIR FLIGHT,-120.81,GBP,transfer,travel
+2025-03-04,TRAINLINE UK,-64.75,GBP,transfer,travel
+2025-02-09,TRAINLINE UK,-104.33,GBP,transfer,travel
+2025-05-15,WEWORK RENT,-788.08,GBP,card,rent
+2025-02-20,AMAZON,-158.09,GBP,direct_debit,equipment
+2025-02-11,RYANAIR FLIGHT,-90.02,GBP,direct_debit,travel
+2025-05-03,GITHUB,-191.24,GBP,direct_debit,software
+2025-02-05,NOTION LABS,-149.83,GBP,direct_debit,software
+2025-01-12,NOTION LABS,-5.43,GBP,direct_debit,software
+2025-01-08,GOOGLE ADS,-68.55,GBP,transfer,marketing
+2025-04-20,RYANAIR FLIGHT,-152.88,GBP,card,travel
+2025-05-07,WEWORK RENT,-1315.55,GBP,card,rent
+2025-01-03,GOOGLE ADS,-193.91,GBP,transfer,marketing
+2025-05-26,FACEBOOK ADS,-114.96,GBP,transfer,marketing
+2025-01-24,WEWORK RENT,-1405.48,GBP,direct_debit,rent
+2025-03-25,FACEBOOK ADS,-52.89,GBP,card,marketing
+2025-01-22,WEWORK RENT,-1667.25,GBP,direct_debit,rent
+2025-06-17,APPLE STORE,-14.86,GBP,card,equipment
+2025-06-11,GITHUB,-72.16,GBP,card,software
+2025-05-07,FACEBOOK ADS,-31.85,GBP,card,marketing
+2025-02-10,RYANAIR FLIGHT,-81.29,GBP,card,travel
+2025-03-26,UBER TRIP,-12.38,GBP,direct_debit,travel
+2025-01-02,APPLE STORE,-193.45,GBP,direct_debit,equipment
+2025-01-13,GOOGLE ADS,-108.59,GBP,transfer,marketing
+2025-06-05,OFFICE RENT LTD,-791.65,GBP,transfer,rent
+2025-01-15,PRET A MANGER,-153.72,GBP,direct_debit,meals
+2025-05-08,PRET A MANGER,-82.12,GBP,transfer,meals
+2025-05-20,NOTION LABS,-133.43,GBP,card,software
+2025-04-13,AWS CLOUD,-92.11,GBP,card,software
+2025-02-03,WEWORK RENT,-1494.29,GBP,transfer,rent
+2025-05-08,AMAZON,-105.62,GBP,transfer,equipment
+2025-02-25,GOOGLE ADS,-111.73,GBP,direct_debit,marketing
+2025-04-29,RYANAIR FLIGHT,-146.61,GBP,transfer,travel
+2025-02-14,WEWORK RENT,-1415.14,GBP,direct_debit,rent
+2025-01-26,AMAZON,-65.01,GBP,card,equipment
+2025-06-09,GOOGLE ADS,-129.66,GBP,direct_debit,marketing
+2025-06-21,UBER TRIP,-155.2,GBP,direct_debit,travel
+2025-01-22,AMAZON,-7.59,GBP,card,equipment
+2025-05-29,WEWORK RENT,-830.72,GBP,transfer,rent
+2025-03-29,OFFICE RENT LTD,-587.3,GBP,direct_debit,rent
+2025-01-15,AWS CLOUD,-179.02,GBP,direct_debit,software
+2025-04-20,FACEBOOK ADS,-31.02,GBP,card,marketing
+2025-01-12,GOOGLE ADS,-91.37,GBP,transfer,marketing
+2025-04-25,OFFICE RENT LTD,-1972.85,GBP,transfer,rent
+2025-06-24,TRAINLINE UK,-55.19,GBP,card,travel
+2025-01-24,OFFICE RENT LTD,-1740.05,GBP,card,rent
+2025-02-23,GOOGLE ADS,-16.79,GBP,direct_debit,marketing
+2025-03-27,FACEBOOK ADS,-70.8,GBP,direct_debit,marketing
+2025-02-08,GOOGLE ADS,-108.2,GBP,direct_debit,marketing
+2025-06-01,UBER TRIP,-83.0,GBP,card,travel
+2025-05-03,PRET A MANGER,-58.56,GBP,transfer,meals
+2025-04-26,AWS CLOUD,-109.98,GBP,card,software
+2025-04-12,RYANAIR FLIGHT,-188.27,GBP,transfer,travel
+2025-05-23,WEWORK RENT,-1587.08,GBP,card,rent
+2025-01-30,APPLE STORE,-188.91,GBP,direct_debit,equipment
+2025-03-09,FACEBOOK ADS,-170.05,GBP,direct_debit,marketing
+2025-03-01,AWS CLOUD,-39.03,GBP,direct_debit,software
+2025-01-19,GITHUB,-81.87,GBP,direct_debit,software
+2025-02-25,WEWORK RENT,-786.79,GBP,transfer,rent
+2025-02-06,OFFICE RENT LTD,-716.73,GBP,card,rent
+2025-03-30,APPLE STORE,-160.1,GBP,transfer,equipment
+2025-03-19,GITHUB,-10.18,GBP,direct_debit,software
+2025-04-14,AMAZON,-19.45,GBP,transfer,equipment
+2025-04-30,GITHUB,-173.48,GBP,card,software
+2025-06-21,APPLE STORE,-116.27,GBP,card,equipment
+2025-06-24,OFFICE RENT LTD,-1426.26,GBP,card,rent
+2025-01-02,FACEBOOK ADS,-150.53,GBP,card,marketing
+2025-03-04,OFFICE RENT LTD,-1498.0,GBP,direct_debit,rent
+2025-05-01,OFFICE RENT LTD,-1586.25,GBP,transfer,rent
+2025-04-07,OFFICE RENT LTD,-1158.41,GBP,direct_debit,rent
+2025-06-27,TRAINLINE UK,-75.96,GBP,direct_debit,travel
+2025-05-10,FACEBOOK ADS,-89.53,GBP,direct_debit,marketing
+2025-06-19,FACEBOOK ADS,-84.63,GBP,card,marketing
+2025-04-28,STARBUCKS,-168.65,GBP,card,meals
+2025-04-28,AWS CLOUD,-199.84,GBP,transfer,software
+2025-06-15,RYANAIR FLIGHT,-38.8,GBP,card,travel
+2025-06-27,GITHUB,-192.4,GBP,transfer,software
+2025-02-16,NOTION LABS,-194.44,GBP,card,software
+2025-01-23,FACEBOOK ADS,-8.39,GBP,card,marketing
+2025-03-14,WEWORK RENT,-955.3,GBP,direct_debit,rent
+2025-03-31,UBER TRIP,-109.0,GBP,transfer,travel
+2025-03-04,FACEBOOK ADS,-165.15,GBP,card,marketing
+2025-01-17,OFFICE RENT LTD,-1134.4,GBP,direct_debit,rent
+2025-01-28,RYANAIR FLIGHT,-68.17,GBP,card,travel
+2025-03-09,GOOGLE ADS,-84.35,GBP,card,marketing
+2025-05-25,FACEBOOK ADS,-16.11,GBP,transfer,marketing
+2025-03-26,TRAINLINE UK,-137.74,GBP,card,travel
+2025-01-02,APPLE STORE,-159.94,GBP,card,equipment
+2025-04-24,NOTION LABS,-73.56,GBP,card,software
+2025-06-24,WEWORK RENT,-939.62,GBP,transfer,rent
+2025-05-29,OFFICE RENT LTD,-1605.98,GBP,direct_debit,rent
+2025-03-08,PRET A MANGER,-52.01,GBP,card,meals
+2025-05-16,PRET A MANGER,-108.0,GBP,transfer,meals
+2025-04-25,OFFICE RENT LTD,-1950.08,GBP,card,rent
+2025-05-18,FACEBOOK ADS,-114.0,GBP,direct_debit,marketing
+2025-03-19,WEWORK RENT,-646.26,GBP,direct_debit,rent
+2025-05-04,TRAINLINE UK,-177.49,GBP,transfer,travel
+2025-01-31,FACEBOOK ADS,-79.37,GBP,card,marketing
+2025-04-09,OFFICE RENT LTD,-1344.84,GBP,transfer,rent
+2025-04-13,TRAINLINE UK,-84.86,GBP,direct_debit,travel
+2025-05-05,APPLE STORE,-170.54,GBP,card,equipment
+2025-06-20,STARBUCKS,-92.67,GBP,transfer,meals
+2025-05-29,WEWORK RENT,-774.87,GBP,card,rent
+2025-02-13,APPLE STORE,-65.73,GBP,card,equipment
+2025-05-18,PRET A MANGER,-158.99,GBP,card,meals
+2025-05-25,TRAINLINE UK,-185.97,GBP,card,travel
+2025-02-09,APPLE STORE,-108.15,GBP,direct_debit,equipment
+2025-05-26,APPLE STORE,-189.88,GBP,card,equipment
+2025-05-27,APPLE STORE,-191.03,GBP,card,equipment
+2025-04-15,AMAZON,-130.38,GBP,transfer,equipment
+2025-01-04,GITHUB,-75.27,GBP,transfer,software
+2025-05-01,AWS CLOUD,-162.28,GBP,direct_debit,software
+2025-02-17,STARBUCKS,-10.69,GBP,direct_debit,meals
+2025-04-06,GOOGLE ADS,-68.43,GBP,card,marketing
+2025-03-10,APPLE STORE,-139.84,GBP,direct_debit,equipment
+2025-01-23,OFFICE RENT LTD,-1219.32,GBP,direct_debit,rent
+2025-02-15,OFFICE RENT LTD,-722.17,GBP,direct_debit,rent
+2025-01-17,APPLE STORE,-89.18,GBP,card,equipment
+2025-02-04,NOTION LABS,-58.04,GBP,card,software
+2025-05-26,STARBUCKS,-18.75,GBP,card,meals
+2025-05-03,STARBUCKS,-159.58,GBP,card,meals
+2025-05-30,OPEN API,-134.52,GBP,card,software
+2025-03-25,GOOGLE ADS,-101.7,GBP,transfer,marketing
+2025-02-18,WEWORK RENT,-810.94,GBP,direct_debit,rent
+2025-06-04,FACEBOOK ADS,-169.68,GBP,card,marketing
+2025-02-08,STARBUCKS,-77.68,GBP,direct_debit,meals
+2025-03-13,FACEBOOK ADS,-19.0,GBP,transfer,marketing
+2025-04-04,FACEBOOK ADS,-161.39,GBP,direct_debit,marketing
+2025-05-07,AMAZON,-178.66,GBP,direct_debit,equipment
+2025-02-27,OFFICE RENT LTD,-926.84,GBP,direct_debit,rent
+2025-06-22,WEWORK RENT,-1139.61,GBP,direct_debit,rent
+2025-05-06,AWS CLOUD,-153.49,GBP,transfer,software
+2025-04-01,WEWORK RENT,-857.74,GBP,card,rent
+2025-02-15,APPLE STORE,-135.51,GBP,direct_debit,equipment
+2025-02-09,OPEN API,-140.43,GBP,direct_debit,software
+2025-06-04,TRAINLINE UK,-78.12,GBP,transfer,travel
+2025-06-22,WEWORK RENT,-1830.87,GBP,direct_debit,rent
+2025-01-22,GOOGLE ADS,-88.85,GBP,direct_debit,marketing
+2025-06-21,PRET A MANGER,-69.53,GBP,direct_debit,meals
+2025-05-03,GITHUB,-61.86,GBP,transfer,software
+2025-02-12,WEWORK RENT,-645.22,GBP,card,rent
+2025-03-13,STARBUCKS,-165.0,GBP,transfer,meals
+2025-05-20,OFFICE RENT LTD,-1421.63,GBP,direct_debit,rent
+2025-05-15,GOOGLE ADS,-195.89,GBP,transfer,marketing
+2025-05-14,OFFICE RENT LTD,-1582.84,GBP,direct_debit,rent
+2025-02-17,OPEN API,-76.05,GBP,direct_debit,software
+2025-02-12,NOTION LABS,-75.97,GBP,transfer,software
+2025-01-17,AMAZON,-15.63,GBP,direct_debit,equipment
+2025-06-05,STARBUCKS,-159.77,GBP,direct_debit,meals
+2025-06-05,OFFICE RENT LTD,-1561.22,GBP,card,rent
+2025-05-07,OFFICE RENT LTD,-1714.75,GBP,transfer,rent
+2025-05-31,GOOGLE ADS,-14.38,GBP,card,marketing
+2025-01-27,WEWORK RENT,-1458.41,GBP,direct_debit,rent
+2025-01-07,STARBUCKS,-163.76,GBP,transfer,meals
+2025-01-25,GITHUB,-122.97,GBP,card,software
+2025-01-27,FACEBOOK ADS,-174.14,GBP,direct_debit,marketing
+2025-01-02,RYANAIR FLIGHT,-178.37,GBP,card,travel
+2025-01-06,FACEBOOK ADS,-72.36,GBP,direct_debit,marketing
+2025-01-17,AMAZON,-51.9,GBP,transfer,equipment
+2025-03-14,UBER TRIP,-95.79,GBP,card,travel
+2025-03-23,OFFICE RENT LTD,-945.6,GBP,card,rent
+2025-06-20,OPEN API,-25.74,GBP,direct_debit,software
+2025-03-23,WEWORK RENT,-1386.82,GBP,transfer,rent
+2025-03-01,PRET A MANGER,-195.98,GBP,card,meals
+2025-02-22,STARBUCKS,-191.52,GBP,transfer,meals
+2025-03-17,FACEBOOK ADS,-193.6,GBP,card,marketing
+2025-05-25,WEWORK RENT,-558.16,GBP,transfer,rent
+2025-02-24,OFFICE RENT LTD,-1592.01,GBP,transfer,rent
+2025-01-07,GOOGLE ADS,-141.19,GBP,card,marketing
+2025-05-15,AMAZON,-124.69,GBP,direct_debit,equipment
+2025-05-28,WEWORK RENT,-758.89,GBP,direct_debit,rent
+2025-05-07,OFFICE RENT LTD,-1433.31,GBP,transfer,rent
+2025-06-10,UBER TRIP,-190.58,GBP,direct_debit,travel
+2025-06-11,APPLE STORE,-145.89,GBP,direct_debit,equipment
+2025-04-25,APPLE STORE,-149.23,GBP,transfer,equipment
+2025-01-26,RYANAIR FLIGHT,-70.78,GBP,direct_debit,travel
+2025-03-10,STARBUCKS,-84.16,GBP,card,meals
+2025-05-26,RYANAIR FLIGHT,-74.83,GBP,card,travel
+2025-05-09,STARBUCKS,-64.56,GBP,direct_debit,meals
+2025-06-21,UBER TRIP,-68.35,GBP,direct_debit,travel
+2025-01-25,GOOGLE ADS,-114.41,GBP,card,marketing
+2025-01-15,TRAINLINE UK,-56.96,GBP,transfer,travel
+2025-02-19,FACEBOOK ADS,-156.18,GBP,transfer,marketing
+2025-06-15,PRET A MANGER,-114.13,GBP,transfer,meals
+2025-04-27,FACEBOOK ADS,-65.97,GBP,card,marketing
+2025-06-18,AMAZON,-35.47,GBP,direct_debit,equipment
+2025-03-18,GOOGLE ADS,-52.15,GBP,direct_debit,marketing
+2025-02-19,WEWORK RENT,-572.05,GBP,direct_debit,rent
+2025-05-10,FACEBOOK ADS,-75.36,GBP,card,marketing
+2025-04-12,AWS CLOUD,-167.0,GBP,direct_debit,software
+2025-02-05,UBER TRIP,-133.36,GBP,transfer,travel
+2025-01-06,AMAZON,-90.7,GBP,transfer,equipment
+2025-04-22,GITHUB,-43.65,GBP,card,software
+2025-04-16,FACEBOOK ADS,-46.98,GBP,card,marketing
+2025-04-15,OPEN API,-130.23,GBP,direct_debit,software
+2025-02-11,OFFICE RENT LTD,-1754.72,GBP,card,rent
+2025-03-19,AWS CLOUD,-22.2,GBP,transfer,software
+2025-06-03,OFFICE RENT LTD,-1455.87,GBP,card,rent
+2025-06-14,TRAINLINE UK,-162.76,GBP,transfer,travel
+2025-01-15,OFFICE RENT LTD,-1966.03,GBP,transfer,rent
+2025-06-05,OFFICE RENT LTD,-966.16,GBP,direct_debit,rent
+2025-06-09,FACEBOOK ADS,-140.64,GBP,card,marketing
+2025-05-05,OFFICE RENT LTD,-662.42,GBP,transfer,rent
+2025-06-22,TRAINLINE UK,-112.62,GBP,direct_debit,travel
+2025-01-10,WEWORK RENT,-1769.47,GBP,card,rent
+2025-02-12,APPLE STORE,-160.68,GBP,card,equipment
+2025-06-27,OFFICE RENT LTD,-710.0,GBP,direct_debit,rent
+2025-01-09,NOTION LABS,-11.29,GBP,card,software
+2025-06-22,FACEBOOK ADS,-191.3,GBP,transfer,marketing
+2025-01-10,AWS CLOUD,-158.91,GBP,card,software
+2025-01-11,TRAINLINE UK,-192.13,GBP,direct_debit,travel
+2025-04-21,FACEBOOK ADS,-92.51,GBP,transfer,marketing
+2025-01-15,GOOGLE ADS,-185.2,GBP,direct_debit,marketing
+2025-03-13,GOOGLE ADS,-173.95,GBP,transfer,marketing
+2025-03-11,FACEBOOK ADS,-17.8,GBP,card,marketing
+2025-04-16,AWS CLOUD,-168.54,GBP,transfer,software
+2025-05-14,UBER TRIP,-14.4,GBP,card,travel
+2025-06-08,AMAZON,-31.33,GBP,transfer,equipment
+2025-04-05,WEWORK RENT,-1006.18,GBP,card,rent
+2025-02-18,NOTION LABS,-76.43,GBP,direct_debit,software
+2025-04-02,STARBUCKS,-63.62,GBP,transfer,meals
+2025-04-11,FACEBOOK ADS,-121.44,GBP,card,marketing
+2025-03-16,PRET A MANGER,-141.08,GBP,direct_debit,meals
+2025-06-28,WEWORK RENT,-777.97,GBP,card,rent
+2025-04-28,OFFICE RENT LTD,-1395.02,GBP,direct_debit,rent
+2025-02-26,OPEN API,-13.98,GBP,transfer,software
+2025-04-01,STARBUCKS,-164.06,GBP,card,meals
+2025-05-23,PRET A MANGER,-72.22,GBP,direct_debit,meals
+2025-02-28,OPEN API,-170.36,GBP,card,software
+2025-02-12,OFFICE RENT LTD,-1419.74,GBP,transfer,rent
+2025-04-27,FACEBOOK ADS,-101.46,GBP,card,marketing
+2025-01-05,OFFICE RENT LTD,-539.68,GBP,transfer,rent
+2025-05-19,FACEBOOK ADS,-152.14,GBP,transfer,marketing
+2025-05-16,AMAZON,-30.74,GBP,card,equipment
+2025-06-18,AWS CLOUD,-114.48,GBP,card,software
+2025-03-20,OFFICE RENT LTD,-755.71,GBP,direct_debit,rent
+2025-04-03,STARBUCKS,-114.7,GBP,card,meals
+2025-01-07,WEWORK RENT,-1795.43,GBP,transfer,rent
+2025-02-27,APPLE STORE,-167.1,GBP,card,equipment
+2025-05-20,WEWORK RENT,-852.78,GBP,card,rent
+2025-03-14,AMAZON,-167.15,GBP,transfer,equipment
+2025-04-21,AWS CLOUD,-177.15,GBP,transfer,software
+2025-04-06,PRET A MANGER,-52.9,GBP,transfer,meals
+2025-05-27,AMAZON,-76.51,GBP,direct_debit,equipment
+2025-06-05,STARBUCKS,-109.02,GBP,direct_debit,meals
+2025-04-09,AWS CLOUD,-81.48,GBP,direct_debit,software
+2025-04-30,AMAZON,-24.03,GBP,card,equipment
+2025-06-26,WEWORK RENT,-576.64,GBP,transfer,rent
+2025-05-14,AMAZON,-183.4,GBP,card,equipment
+2025-02-14,FACEBOOK ADS,-106.12,GBP,transfer,marketing
+2025-01-17,APPLE STORE,-14.61,GBP,card,equipment
+2025-01-02,RYANAIR FLIGHT,-12.46,GBP,card,travel
+2025-04-10,RYANAIR FLIGHT,-164.9,GBP,direct_debit,travel
+2025-06-25,APPLE STORE,-17.3,GBP,direct_debit,equipment
+2025-01-07,APPLE STORE,-67.16,GBP,transfer,equipment
+2025-04-01,APPLE STORE,-186.19,GBP,direct_debit,equipment
+2025-04-27,PRET A MANGER,-45.65,GBP,card,meals
+2025-03-03,GOOGLE ADS,-54.49,GBP,direct_debit,marketing
+2025-04-18,FACEBOOK ADS,-93.27,GBP,direct_debit,marketing
+2025-04-13,GITHUB,-180.05,GBP,transfer,software
+2025-01-17,FACEBOOK ADS,-73.1,GBP,card,marketing
+2025-03-06,FACEBOOK ADS,-190.4,GBP,direct_debit,marketing
+2025-03-09,APPLE STORE,-153.36,GBP,transfer,equipment
+2025-03-10,WEWORK RENT,-1305.23,GBP,card,rent
+2025-04-15,WEWORK RENT,-1951.61,GBP,card,rent
+2025-04-28,STARBUCKS,-69.72,GBP,direct_debit,meals
+2025-02-07,FACEBOOK ADS,-178.21,GBP,transfer,marketing
+2025-06-19,AWS CLOUD,-85.8,GBP,direct_debit,software
+2025-04-01,AMAZON,-9.22,GBP,card,equipment
+2025-06-09,WEWORK RENT,-1948.31,GBP,direct_debit,rent
+2025-06-18,GITHUB,-146.88,GBP,direct_debit,software
+2025-05-31,RYANAIR FLIGHT,-29.65,GBP,card,travel
+2025-04-03,GOOGLE ADS,-60.53,GBP,card,marketing
+2025-02-26,NOTION LABS,-8.05,GBP,transfer,software
+2025-05-27,AMAZON,-118.43,GBP,transfer,equipment
+2025-03-04,FACEBOOK ADS,-30.15,GBP,card,marketing
+2025-03-22,TRAINLINE UK,-15.81,GBP,card,travel
+2025-03-13,RYANAIR FLIGHT,-158.38,GBP,transfer,travel
+2025-04-03,OFFICE RENT LTD,-980.03,GBP,card,rent
+2025-05-06,STARBUCKS,-55.52,GBP,direct_debit,meals
+2025-01-28,NOTION LABS,-65.05,GBP,transfer,software
+2025-02-06,FACEBOOK ADS,-147.95,GBP,direct_debit,marketing
+2025-05-14,AMAZON,-15.0,GBP,transfer,equipment
+2025-02-05,FACEBOOK ADS,-58.72,GBP,card,marketing
+2025-05-17,GOOGLE ADS,-119.3,GBP,card,marketing
+2025-04-25,GOOGLE ADS,-175.73,GBP,card,marketing
+2025-02-28,APPLE STORE,-199.78,GBP,transfer,equipment
+2025-05-28,AWS CLOUD,-195.06,GBP,card,software
+2025-03-30,GITHUB,-158.42,GBP,card,software
+2025-03-22,PRET A MANGER,-115.72,GBP,transfer,meals
+2025-04-28,APPLE STORE,-18.68,GBP,card,equipment
+2025-03-14,OFFICE RENT LTD,-1685.76,GBP,card,rent
+2025-05-22,FACEBOOK ADS,-184.89,GBP,direct_debit,marketing
+2025-01-04,FACEBOOK ADS,-17.99,GBP,card,marketing
+2025-02-18,APPLE STORE,-29.38,GBP,direct_debit,equipment
+2025-03-17,AWS CLOUD,-134.04,GBP,transfer,software
+2025-03-28,OFFICE RENT LTD,-786.93,GBP,transfer,rent
+2025-05-12,AMAZON,-89.1,GBP,direct_debit,equipment
+2025-05-16,WEWORK RENT,-1764.15,GBP,card,rent
+2025-04-26,FACEBOOK ADS,-155.94,GBP,card,marketing
+2025-05-30,TRAINLINE UK,-64.73,GBP,transfer,travel
+2025-04-10,UBER TRIP,-78.04,GBP,direct_debit,travel
+2025-01-10,OFFICE RENT LTD,-1633.51,GBP,transfer,rent
+2025-05-05,GITHUB,-31.23,GBP,card,software
+2025-03-10,PRET A MANGER,-164.23,GBP,transfer,meals
+2025-03-29,FACEBOOK ADS,-22.9,GBP,direct_debit,marketing
+2025-01-04,OFFICE RENT LTD,-1191.36,GBP,card,rent
+2025-03-28,PRET A MANGER,-88.22,GBP,card,meals
+2025-04-07,FACEBOOK ADS,-159.48,GBP,card,marketing
+2025-04-09,GITHUB,-54.05,GBP,direct_debit,software
+2025-03-12,AMAZON,-151.43,GBP,transfer,equipment
+2025-04-08,AMAZON,-102.68,GBP,card,equipment
+2025-05-01,FACEBOOK ADS,-109.12,GBP,card,marketing
+2025-01-22,OFFICE RENT LTD,-1566.93,GBP,card,rent
+2025-02-18,NOTION LABS,-10.38,GBP,card,software
+2025-05-27,STARBUCKS,-21.49,GBP,card,meals
+2025-01-13,STARBUCKS,-92.73,GBP,transfer,meals
+2025-05-08,AMAZON,-95.81,GBP,direct_debit,equipment
+2025-05-15,RYANAIR FLIGHT,-164.59,GBP,direct_debit,travel
+2025-05-09,APPLE STORE,-104.75,GBP,direct_debit,equipment
+2025-03-16,FACEBOOK ADS,-20.41,GBP,transfer,marketing
+2025-01-12,PRET A MANGER,-61.74,GBP,card,meals
+2025-02-09,UBER TRIP,-140.95,GBP,direct_debit,travel
+2025-02-07,UBER TRIP,-27.87,GBP,direct_debit,travel
+2025-06-26,WEWORK RENT,-820.85,GBP,transfer,rent
+2025-06-09,APPLE STORE,-57.68,GBP,transfer,equipment
+2025-05-26,STARBUCKS,-122.96,GBP,direct_debit,meals
+2025-02-12,GITHUB,-91.84,GBP,transfer,software
+2025-05-09,APPLE STORE,-191.59,GBP,transfer,equipment
+2025-05-01,TRAINLINE UK,-99.31,GBP,transfer,travel
+2025-02-09,TRAINLINE UK,-182.33,GBP,transfer,travel
+2025-02-23,FACEBOOK ADS,-192.17,GBP,transfer,marketing
+2025-01-22,OPEN API,-42.83,GBP,transfer,software
+2025-05-14,WEWORK RENT,-599.87,GBP,direct_debit,rent
+2025-06-26,WEWORK RENT,-1270.64,GBP,direct_debit,rent
+2025-01-21,STARBUCKS,-124.29,GBP,direct_debit,meals
+2025-05-12,WEWORK RENT,-729.84,GBP,card,rent
+2025-05-07,AWS CLOUD,-76.05,GBP,card,software
+2025-05-02,OFFICE RENT LTD,-1926.86,GBP,direct_debit,rent
+2025-04-18,FACEBOOK ADS,-22.75,GBP,transfer,marketing
+2025-03-17,WEWORK RENT,-721.23,GBP,card,rent
+2025-04-02,PRET A MANGER,-58.08,GBP,direct_debit,meals
+2025-03-12,FACEBOOK ADS,-167.24,GBP,direct_debit,marketing
+2025-04-10,GOOGLE ADS,-176.84,GBP,transfer,marketing
+2025-06-26,PRET A MANGER,-181.94,GBP,direct_debit,meals
+2025-01-18,RYANAIR FLIGHT,-46.54,GBP,direct_debit,travel
+2025-02-25,STARBUCKS,-99.27,GBP,direct_debit,meals
+2025-03-08,STARBUCKS,-188.85,GBP,card,meals
+2025-03-03,TRAINLINE UK,-170.82,GBP,transfer,travel
+2025-02-04,RYANAIR FLIGHT,-176.07,GBP,direct_debit,travel
+2025-05-01,FACEBOOK ADS,-90.59,GBP,direct_debit,marketing
+2025-05-19,TRAINLINE UK,-123.92,GBP,direct_debit,travel
+2025-06-09,APPLE STORE,-175.31,GBP,direct_debit,equipment
+2025-06-24,AMAZON,-56.92,GBP,transfer,equipment
+2025-01-07,OPEN API,-16.01,GBP,card,software
+2025-03-18,FACEBOOK ADS,-185.06,GBP,card,marketing
+2025-02-23,FACEBOOK ADS,-22.91,GBP,transfer,marketing
+2025-01-10,GOOGLE ADS,-198.99,GBP,direct_debit,marketing
+2025-05-08,STARBUCKS,-92.31,GBP,card,meals
+2025-03-12,WEWORK RENT,-1829.38,GBP,transfer,rent
+2025-05-23,GITHUB,-44.1,GBP,direct_debit,software
+2025-01-21,UBER TRIP,-115.55,GBP,card,travel
+2025-05-09,GOOGLE ADS,-61.45,GBP,card,marketing
+2025-04-27,AMAZON,-115.4,GBP,direct_debit,equipment
+2025-03-08,STARBUCKS,-64.12,GBP,card,meals
+2025-04-30,AWS CLOUD,-95.24,GBP,transfer,software
+2025-06-13,GOOGLE ADS,-14.97,GBP,direct_debit,marketing
+2025-05-18,OPEN API,-102.77,GBP,card,software
+2025-04-20,PRET A MANGER,-24.06,GBP,card,meals
+2025-01-16,FACEBOOK ADS,-63.58,GBP,card,marketing
+2025-04-14,GITHUB,-181.79,GBP,card,software
+2025-06-30,GOOGLE ADS,-119.78,GBP,direct_debit,marketing
+2025-01-10,WEWORK RENT,-743.3,GBP,card,rent
+2025-06-08,FACEBOOK ADS,-57.75,GBP,transfer,marketing
+2025-05-20,OPEN API,-8.27,GBP,direct_debit,software
+2025-05-22,AMAZON,-169.09,GBP,transfer,equipment
+2025-03-21,AMAZON,-119.34,GBP,direct_debit,equipment
+2025-01-09,RYANAIR FLIGHT,-60.21,GBP,card,travel
+2025-06-27,WEWORK RENT,-1045.21,GBP,direct_debit,rent
+2025-01-23,UBER TRIP,-16.49,GBP,card,travel
+2025-06-20,OPEN API,-65.04,GBP,card,software
+2025-03-09,AMAZON,-184.15,GBP,card,equipment
+2025-03-31,APPLE STORE,-56.18,GBP,transfer,equipment
+2025-03-28,STARBUCKS,-131.83,GBP,direct_debit,meals
+2025-06-15,AWS CLOUD,-144.1,GBP,direct_debit,software
+2025-06-15,PRET A MANGER,-53.17,GBP,direct_debit,meals
+2025-01-02,RYANAIR FLIGHT,-39.15,GBP,transfer,travel
+2025-06-23,WEWORK RENT,-979.1,GBP,card,rent
+2025-05-07,APPLE STORE,-191.72,GBP,transfer,equipment
+2025-06-22,FACEBOOK ADS,-88.65,GBP,card,marketing
+2025-05-08,TRAINLINE UK,-20.81,GBP,card,travel
+2025-04-03,WEWORK RENT,-1998.41,GBP,transfer,rent
+2025-02-15,RYANAIR FLIGHT,-133.12,GBP,direct_debit,travel
+2025-03-11,FACEBOOK ADS,-46.1,GBP,direct_debit,marketing
+2025-03-12,RYANAIR FLIGHT,-47.38,GBP,card,travel
+2025-02-22,OPEN API,-6.46,GBP,card,software
+2025-05-25,OFFICE RENT LTD,-1785.04,GBP,card,rent
+2025-05-07,GOOGLE ADS,-132.47,GBP,direct_debit,marketing
+2025-06-08,AMAZON,-194.82,GBP,direct_debit,equipment
+2025-01-01,GITHUB,-6.88,GBP,direct_debit,software
+2025-05-17,OPEN API,-175.21,GBP,card,software
+2025-06-13,TRAINLINE UK,-195.65,GBP,transfer,travel
+2025-06-05,PRET A MANGER,-6.74,GBP,direct_debit,meals
