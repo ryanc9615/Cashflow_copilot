@@ -43,41 +43,6 @@ def preview_merchant_rules(con):
         ORDER BY merchant_key, pattern
     """).df()
 
-def apply_merchant_rules(con):
-    """
-    Apply rules to transactions
-    Returns previously matched transactions
-    """
-    return con.execute("""
-        SELECT
-            t.transaction_id,
-            t.date,
-            t.description,
-            t.merchant_key,
-            r.pattern,
-            r.category AS rule_category,
-            t.category AS true_category
-        FROM transactions t
-        LEFT JOIN merchant_rules r
-            ON t.merchant_key = r.merchant_key
-            AND LOWER(t.description) LIKE '%' || LOWER(r.pattern) || '%'
-        WHERE r.category IS NOT NULL
-        LIMIT 20
-    """).df()
-
-def rule_coverage_summary(con):
-    """
-    Show how many transactions are matched by rules. 
-    """
-    return con.execute("""
-        SELECT
-            COUNT(*) AS total_transactions,
-            COUNT(r.category) AS matched_by_rules
-        FROM transactions t
-        LEFT JOIN merchant_rules r
-            ON t.merchant_key = r.merchant_key
-            AND LOWER(t.description) LIKE '%' || LOWER(r.pattern) || '%'
-    """).df()
 
 def main():
     con = get_connection()
@@ -89,12 +54,6 @@ def main():
 
     print("Merchant rules:")
     print(preview_merchant_rules(con))
-
-    print("\nRule coverage summary:")
-    print(rule_coverage_summary(con))
-
-    print("\nSample matched transactions:")
-    print(apply_merchant_rules(con))
 
 if __name__ == "__main__":
     main()
