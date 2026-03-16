@@ -13,6 +13,19 @@ categories = {
     "equipment": ["AMAZON", "APPLE STORE"]
 }
 
+merchant_variants = {
+    "AMAZON": ["AMZN", "AMZN Mktp", "Amazon EU", "Amazon Marketplace"],
+    "UBER TRIP": ["UBER BV", "UBER TRIP", "UBER *TRIP"],
+    "GOOGLE ADS": ["GOOGLE ADS", "GOOGLE *ADS"],
+    "STARBUCKS": ["STARBUCKS", "STARBUCKS LONDON"],
+}
+
+payment_processors = [
+    "STRIPE",
+    "PAYPAL",
+    "SQUARE"
+]
+
 # initilise a blank list
 rows = []
 
@@ -24,6 +37,16 @@ for i in range(3000):
 
     category = random.choice(list(categories.keys()))
     description = random.choice(categories[category])
+
+    if description in merchant_variants and random.random() < 0.5:
+        description = random.choice(merchant_variants[description])
+
+    if random.random() < 0.15:
+        processor = random.choice(payment_processors)
+        description = f"{processor} {description}"
+
+    if random.random() < 0.6:
+        description = f"{description} {random.randint(1000,9999)}"
 
     amount = round(random.uniform(5,200),2)
 
@@ -43,7 +66,7 @@ for i in range(3000):
 df = pd.DataFrame(rows)
 
 # define path directory
-project_root = Path(__file__).resolve().parent.parent
+project_root = Path(__file__).resolve().parent.parent.parent
 output_path = project_root / "data" / "raw" / "synthetic_bank_transactions.csv"
 
 output_path.parent.mkdir(parents=True, exist_ok=True)
