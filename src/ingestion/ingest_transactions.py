@@ -3,6 +3,7 @@ import uuid
 from pathlib import Path
 
 from src.database.connection import get_connection
+from src.features.text_preprocessing import normalise_transaction_text
 
 def ingest_transactions():
 
@@ -17,16 +18,21 @@ def ingest_transactions():
 
     print(f"Loaded {len(df)} rows from CSV")
 
+    # basic data validation
+    df = df.dropna(subset=["description", "amount"])
+    df = df.reset_index(drop=True)
+
     # generate transaction ids
     df["transaction_id"] = [str(uuid.uuid4()) for _ in range(len(df))]
 
+    # normalise transaction ids
+    df["normalised_description"] = df["description"].apply(normalise_transaction_text)
+
     # merchant extraction
     df["merchant_key"] = (
-        df["description"]
-        .str.lower()
-        .str.replace(r"[^a-zA-Z\s]", "", regex=True)
+        df["normalised_description"]
         .str.split()
-        .str[0]
+        .str[:2].str.join("_")
     )
 
     #reorder columns
@@ -38,6 +44,7 @@ def ingest_transactions():
             "currency",
             "channel",
             "description",
+            "normalised_description",
             "merchant_key",
             "category"
         ]
@@ -54,8 +61,6 @@ def ingest_transactions():
         CREATE OR REPLACE TABLE transactions AS
         SELECT * FROM transactions_df
     """)
-
-    print("Transactions table rebuilt successfully")
 
 if __name__ == "__main__":
     ingest_transactions()
