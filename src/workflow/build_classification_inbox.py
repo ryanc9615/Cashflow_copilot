@@ -37,18 +37,24 @@ def create_classification_inbox(con):
                 ELSE 'unknown'
             END AS source,
 
-            -- determine routing
+            -- determine routing (UPDATED LOGIC)
             CASE
                 WHEN mm.category IS NOT NULL THEN 'auto'
                 WHEN rp.predicted_category IS NOT NULL THEN 'auto'
-                WHEN mp.route = 'auto' THEN 'auto'
-                ELSE 'review'
+
+                WHEN mp.predicted_category IS NOT NULL
+                     AND mp.confidence >= 0.75 THEN 'auto'
+
+                WHEN mp.predicted_category IS NOT NULL THEN 'review'
+
+                ELSE 'review'   
             END AS route
 
         FROM transactions t
 
         LEFT JOIN merchant_memory mm
             ON t.merchant_key = mm.merchant_key
+           AND mm.observation_count >= 1 
 
         LEFT JOIN rule_predictions rp
             ON t.transaction_id = rp.transaction_id
@@ -59,7 +65,6 @@ def create_classification_inbox(con):
 
 
 def preview_inbox(con):
-
     return con.execute("""
         SELECT *
         FROM classification_inbox
@@ -68,7 +73,6 @@ def preview_inbox(con):
 
 
 def inbox_summary(con):
-
     return con.execute("""
         SELECT
             source,
@@ -81,7 +85,6 @@ def inbox_summary(con):
 
 
 def main():
-
     con = get_connection()
 
     create_classification_inbox(con)
