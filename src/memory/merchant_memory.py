@@ -1,43 +1,51 @@
 from src.database.connection import get_connection
 
+
 def create_merchant_memory_table(con):
     """
-    Create merchant memory table if it does not exist. 
+    Create merchant memory table if it does not exist.
     """
 
     con.execute("""
         CREATE TABLE IF NOT EXISTS merchant_memory (
-                merchant_key VARCHAR,
-                category VARCHAR,
-                observation_count INTEGER,
-                last_seen TIMESTAMP
+            merchant_key VARCHAR,
+            category VARCHAR,
+            observation_count INTEGER,
+            last_seen TIMESTAMP
         )
     """)
 
 
-def update_merchant_memory_from_labels(con):
+def update_merchant_memory_from_labels(con, sample_ratio=0.25):
     """
-    Update merchant memory using confirmed labels. 
-    Prevents rules or model predictions from polluting the memory table.
+    Update merchant memory using ONLY human-confirmed labels,
+    and simulate gradual learning via sampling.
+
+    sample_ratio controls how much of the labelled data is used.
     """
 
-    # Clear table so development runs remain idempotent
+    # Reset table (idempotent for dev)
     con.execute("DELETE FROM merchant_memory")
 
-    con.execute("""
+    threshold = int(sample_ratio * 100)
+
+    con.execute(f"""
         INSERT INTO merchant_memory
         SELECT
             t.merchant_key,
             l.category,
-            COUNT(*) AS obervation_count,
+            COUNT(*) AS observation_count,
             CURRENT_TIMESTAMP AS last_seen
         FROM transaction_labels l
         JOIN transactions t
             ON l.transaction_id = t.transaction_id
+        WHERE l.label_source IN ('simulated_human', 'human_review')
+          AND ABS(HASH(l.transaction_id)) % 100 < {threshold}
         GROUP BY
             t.merchant_key,
             l.category
     """)
+
 
 def preview_merchant_memory(con):
     """
@@ -50,7 +58,8 @@ def preview_merchant_memory(con):
         ORDER BY observation_count DESC
         LIMIT 20
     """).df()
-    
+
+
 def merchant_memory_coverage(con):
     """
     Show how many transactions are covered by merchant memory.
@@ -58,12 +67,13 @@ def merchant_memory_coverage(con):
 
     return con.execute("""
         SELECT
-            COUNT(*) AS total_transactions
+            COUNT(*) AS total_transactions,
             COUNT(m.category) AS matched_by_memory
         FROM transactions t
         LEFT JOIN merchant_memory m
             ON t.merchant_key = m.merchant_key
-""").df()
+    """).df()
+
 
 def main():
 
@@ -73,13 +83,14 @@ def main():
 
     update_merchant_memory_from_labels(con)
 
-    print("Merchant memory updated from confirmed lables.\n")
+    print("Merchant memory updated from confirmed labels.\n")
 
     print("Merchant memory preview:")
     print(preview_merchant_memory(con))
 
     print("\nMerchant memory coverage:")
     print(merchant_memory_coverage(con))
+
 
 if __name__ == "__main__":
     main()
