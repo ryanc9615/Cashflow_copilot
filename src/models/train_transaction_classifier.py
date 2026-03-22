@@ -61,7 +61,7 @@ def train_transaction_classifier():
     # 5 Train classifier
     # ------------------------------   
 
-    model = LogisticRegression(max_iter=1000)
+    model = LogisticRegression(max_iter=1000,random_state=42)
     model.fit(X_train_vec, y_train)
 
     # ------------------------------
